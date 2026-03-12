@@ -1,0 +1,1587 @@
+case_id,activity,timestamp,cancer_type,priority_level,department
+C0001,Referral Received,2025-01-18 09:43:00,Lung,Normal,Referral Office
+C0001,Intake Review,2025-01-19 09:48:00,Lung,Normal,Referral Office
+C0001,Initial Consultation,2025-01-21 13:33:00,Lung,Normal,Oncology
+C0001,Diagnostic Imaging,2025-02-01 21:10:00,Lung,Normal,Radiology
+C0001,Diagnosis Confirmed,2025-02-03 23:54:00,Lung,Normal,Pathology
+C0001,Treatment Planning,2025-02-07 03:42:00,Lung,Normal,Oncology
+C0001,Treatment Start,2025-02-17 05:04:00,Lung,Normal,Treatment Unit
+C0001,Follow-Up,2025-03-04 12:38:00,Lung,Normal,Oncology
+C0002,Referral Received,2025-01-20 11:45:00,Prostate,Normal,Referral Office
+C0002,Intake Review,2025-01-21 15:50:00,Prostate,Normal,Referral Office
+C0002,Initial Consultation,2025-01-26 20:19:00,Prostate,Normal,Oncology
+C0002,Diagnostic Imaging,2025-02-01 01:41:00,Prostate,Normal,Radiology
+C0002,Diagnosis Confirmed,2025-02-08 03:19:00,Prostate,Normal,Pathology
+C0002,Treatment Planning,2025-02-11 05:48:00,Prostate,Normal,Oncology
+C0002,Treatment Start,2025-02-23 09:31:00,Prostate,Normal,Treatment Unit
+C0002,Follow-Up,2025-03-10 13:23:00,Prostate,Normal,Oncology
+C0003,Referral Received,2025-01-06 11:41:00,Colon,Normal,Referral Office
+C0003,Intake Review,2025-01-09 18:50:00,Colon,Normal,Referral Office
+C0003,Initial Consultation,2025-01-14 01:47:00,Colon,Normal,Oncology
+C0003,Diagnostic Imaging,2025-01-20 04:19:00,Colon,Normal,Radiology
+C0003,Diagnosis Confirmed,2025-01-22 05:28:00,Colon,Normal,Pathology
+C0003,Treatment Planning,2025-01-27 06:52:00,Colon,Normal,Oncology
+C0003,Treatment Start,2025-02-10 11:27:00,Colon,Normal,Treatment Unit
+C0003,Follow-Up,2025-02-27 16:16:00,Colon,Normal,Oncology
+C0004,Referral Received,2025-01-28 12:32:00,Colon,Normal,Referral Office
+C0004,Intake Review,2025-01-29 17:25:00,Colon,Normal,Referral Office
+C0004,Initial Consultation,2025-02-01 18:03:00,Colon,Normal,Oncology
+C0004,Diagnostic Imaging,2025-02-05 23:59:00,Colon,Normal,Radiology
+C0004,Diagnosis Confirmed,2025-02-09 01:04:00,Colon,Normal,Pathology
+C0004,Treatment Planning,2025-02-12 03:46:00,Colon,Normal,Oncology
+C0004,Treatment Start,2025-02-20 09:59:00,Colon,Normal,Treatment Unit
+C0004,Follow-Up,2025-03-12 14:24:00,Colon,Normal,Oncology
+C0005,Referral Received,2025-02-03 11:04:00,Colon,Normal,Referral Office
+C0005,Intake Review,2025-02-06 14:41:00,Colon,Normal,Referral Office
+C0005,Initial Consultation,2025-02-08 17:45:00,Colon,Normal,Oncology
+C0005,Diagnostic Imaging,2025-02-12 21:02:00,Colon,Normal,Radiology
+C0005,Diagnosis Confirmed,2025-02-16 04:17:00,Colon,Normal,Pathology
+C0005,Treatment Planning,2025-02-19 05:23:00,Colon,Normal,Oncology
+C0005,Treatment Start,2025-03-03 13:18:00,Colon,Normal,Treatment Unit
+C0006,Referral Received,2025-01-22 11:12:00,Lung,Normal,Referral Office
+C0006,Intake Review,2025-01-23 17:23:00,Lung,Normal,Referral Office
+C0006,Initial Consultation,2025-01-26 01:14:00,Lung,Normal,Oncology
+C0006,Diagnostic Imaging,2025-01-30 04:24:00,Lung,Normal,Radiology
+C0006,Diagnosis Confirmed,2025-02-02 11:21:00,Lung,Normal,Pathology
+C0006,Treatment Planning,2025-02-04 17:37:00,Lung,Normal,Oncology
+C0006,Treatment Start,2025-02-17 00:46:00,Lung,Normal,Treatment Unit
+C0006,Follow-Up,2025-03-04 01:33:00,Lung,Normal,Oncology
+C0007,Referral Received,2025-01-31 08:32:00,Lung,Normal,Referral Office
+C0007,Intake Review,2025-02-01 10:15:00,Lung,Normal,Referral Office
+C0007,Initial Consultation,2025-02-04 10:54:00,Lung,Normal,Oncology
+C0007,Diagnostic Imaging,2025-02-15 14:36:00,Lung,Normal,Radiology
+C0007,Diagnosis Confirmed,2025-02-20 17:18:00,Lung,Normal,Pathology
+C0007,Treatment Planning,2025-02-22 17:47:00,Lung,Normal,Oncology
+C0007,Treatment Start,2025-02-27 19:21:00,Lung,Normal,Treatment Unit
+C0007,Follow-Up,2025-03-18 01:17:00,Lung,Normal,Oncology
+C0008,Referral Received,2025-01-12 08:42:00,Breast,Normal,Referral Office
+C0008,Intake Review,2025-01-13 10:58:00,Breast,Normal,Referral Office
+C0008,Initial Consultation,2025-01-16 15:16:00,Breast,Normal,Oncology
+C0008,Diagnostic Imaging,2025-01-24 18:59:00,Breast,Normal,Radiology
+C0008,Diagnosis Confirmed,2025-01-28 19:04:00,Breast,Normal,Pathology
+C0008,Treatment Planning,2025-01-30 19:25:00,Breast,Normal,Oncology
+C0008,Treatment Start,2025-02-09 03:00:00,Breast,Normal,Treatment Unit
+C0008,Follow-Up,2025-02-23 04:04:00,Breast,Normal,Oncology
+C0009,Referral Received,2025-01-24 14:08:00,Breast,Normal,Referral Office
+C0009,Intake Review,2025-01-25 19:21:00,Breast,Normal,Referral Office
+C0009,Initial Consultation,2025-01-30 02:00:00,Breast,Normal,Oncology
+C0009,Diagnostic Imaging,2025-02-05 04:51:00,Breast,Normal,Radiology
+C0009,Diagnosis Confirmed,2025-02-07 07:38:00,Breast,Normal,Pathology
+C0009,Treatment Planning,2025-02-12 10:55:00,Breast,Normal,Oncology
+C0009,Treatment Start,2025-02-19 11:49:00,Breast,Normal,Treatment Unit
+C0009,Follow-Up,2025-03-19 17:08:00,Breast,Normal,Oncology
+C0010,Referral Received,2025-01-14 09:49:00,Breast,Normal,Referral Office
+C0010,Intake Review,2025-01-17 16:32:00,Breast,Normal,Referral Office
+C0010,Initial Consultation,2025-01-19 20:43:00,Breast,Normal,Oncology
+C0010,Diagnostic Imaging,2025-01-26 20:49:00,Breast,Normal,Radiology
+C0010,Diagnosis Confirmed,2025-01-31 03:27:00,Breast,Normal,Pathology
+C0010,Treatment Planning,2025-02-03 07:29:00,Breast,Normal,Oncology
+C0010,Treatment Start,2025-02-18 10:52:00,Breast,Normal,Treatment Unit
+C0011,Referral Received,2025-02-13 12:42:00,Colon,Normal,Referral Office
+C0011,Intake Review,2025-02-16 17:17:00,Colon,Normal,Referral Office
+C0011,Initial Consultation,2025-02-21 19:56:00,Colon,Normal,Oncology
+C0011,Diagnostic Imaging,2025-02-25 00:14:00,Colon,Normal,Radiology
+C0011,Diagnosis Confirmed,2025-03-03 05:43:00,Colon,Normal,Pathology
+C0011,Treatment Planning,2025-03-06 13:33:00,Colon,Normal,Oncology
+C0011,Treatment Start,2025-03-13 18:38:00,Colon,Normal,Treatment Unit
+C0011,Follow-Up,2025-04-03 21:47:00,Colon,Normal,Oncology
+C0012,Referral Received,2025-01-31 15:26:00,Lung,Normal,Referral Office
+C0012,Intake Review,2025-02-02 22:51:00,Lung,Normal,Referral Office
+C0012,Initial Consultation,2025-02-05 00:40:00,Lung,Normal,Oncology
+C0012,Diagnostic Imaging,2025-02-16 04:38:00,Lung,Normal,Radiology
+C0012,Diagnosis Confirmed,2025-02-21 10:26:00,Lung,Normal,Pathology
+C0012,Treatment Planning,2025-02-26 18:23:00,Lung,Normal,Oncology
+C0012,Treatment Start,2025-03-10 01:39:00,Lung,Normal,Treatment Unit
+C0012,Follow-Up,2025-04-01 09:19:00,Lung,Normal,Oncology
+C0013,Referral Received,2025-02-16 13:20:00,Colon,Normal,Referral Office
+C0013,Intake Review,2025-02-17 20:04:00,Colon,Normal,Referral Office
+C0013,Initial Consultation,2025-02-20 02:30:00,Colon,Normal,Oncology
+C0013,Diagnostic Imaging,2025-03-01 02:43:00,Colon,Normal,Radiology
+C0013,Diagnosis Confirmed,2025-03-07 03:37:00,Colon,Normal,Pathology
+C0013,Treatment Planning,2025-03-11 08:25:00,Colon,Normal,Oncology
+C0013,Treatment Start,2025-03-24 11:56:00,Colon,Normal,Treatment Unit
+C0013,Follow-Up,2025-04-22 12:20:00,Colon,Normal,Oncology
+C0014,Referral Received,2025-01-30 14:37:00,Prostate,Normal,Referral Office
+C0014,Intake Review,2025-02-01 17:32:00,Prostate,Normal,Referral Office
+C0014,Initial Consultation,2025-02-05 23:52:00,Prostate,Normal,Oncology
+C0014,Diagnostic Imaging,2025-02-14 06:09:00,Prostate,Normal,Radiology
+C0014,Diagnosis Confirmed,2025-02-16 13:10:00,Prostate,Normal,Pathology
+C0014,Treatment Planning,2025-02-20 16:51:00,Prostate,Normal,Oncology
+C0014,Treatment Start,2025-02-24 17:06:00,Prostate,Normal,Treatment Unit
+C0014,Follow-Up,2025-03-14 20:14:00,Prostate,Normal,Oncology
+C0015,Referral Received,2025-01-15 13:10:00,Lung,Normal,Referral Office
+C0015,Intake Review,2025-01-16 17:16:00,Lung,Normal,Referral Office
+C0015,Initial Consultation,2025-01-22 00:01:00,Lung,Normal,Oncology
+C0015,Diagnostic Imaging,2025-01-29 04:55:00,Lung,Normal,Radiology
+C0015,Diagnosis Confirmed,2025-02-04 05:17:00,Lung,Normal,Pathology
+C0015,Treatment Planning,2025-02-06 10:17:00,Lung,Normal,Oncology
+C0015,Treatment Start,2025-02-11 16:40:00,Lung,Normal,Treatment Unit
+C0015,Follow-Up,2025-03-11 19:07:00,Lung,Normal,Oncology
+C0016,Referral Received,2025-01-18 15:27:00,Blood,Urgent,Referral Office
+C0016,Intake Review,2025-01-19 16:44:00,Blood,Urgent,Referral Office
+C0016,Initial Consultation,2025-01-22 23:05:00,Blood,Urgent,Oncology
+C0016,Diagnostic Imaging,2025-01-29 01:36:00,Blood,Urgent,Radiology
+C0016,Diagnosis Confirmed,2025-01-31 06:53:00,Blood,Urgent,Pathology
+C0016,Treatment Planning,2025-02-02 08:08:00,Blood,Urgent,Oncology
+C0016,Treatment Start,2025-02-13 15:49:00,Blood,Urgent,Treatment Unit
+C0016,Follow-Up,2025-02-27 17:07:00,Blood,Urgent,Oncology
+C0017,Referral Received,2025-01-21 15:35:00,Prostate,Normal,Referral Office
+C0017,Intake Review,2025-01-24 20:57:00,Prostate,Normal,Referral Office
+C0017,Initial Consultation,2025-01-29 00:04:00,Prostate,Normal,Oncology
+C0017,Diagnostic Imaging,2025-02-02 02:16:00,Prostate,Normal,Radiology
+C0017,Diagnosis Confirmed,2025-02-06 06:22:00,Prostate,Normal,Pathology
+C0017,Treatment Planning,2025-02-10 08:41:00,Prostate,Normal,Oncology
+C0017,Treatment Start,2025-02-16 12:43:00,Prostate,Normal,Treatment Unit
+C0017,Follow-Up,2025-03-06 19:49:00,Prostate,Normal,Oncology
+C0018,Referral Received,2025-01-31 08:16:00,Blood,Normal,Referral Office
+C0018,Intake Review,2025-02-01 14:47:00,Blood,Normal,Referral Office
+C0018,Initial Consultation,2025-02-03 16:56:00,Blood,Normal,Oncology
+C0018,Diagnostic Imaging,2025-02-07 20:03:00,Blood,Normal,Radiology
+C0018,Diagnosis Confirmed,2025-02-13 23:52:00,Blood,Normal,Pathology
+C0018,Treatment Planning,2025-02-19 04:47:00,Blood,Normal,Oncology
+C0018,Treatment Start,2025-03-02 05:26:00,Blood,Normal,Treatment Unit
+C0018,Follow-Up,2025-03-22 08:42:00,Blood,Normal,Oncology
+C0019,Referral Received,2025-01-12 08:26:00,Lung,Normal,Referral Office
+C0019,Intake Review,2025-01-14 12:28:00,Lung,Normal,Referral Office
+C0019,Initial Consultation,2025-01-18 19:32:00,Lung,Normal,Oncology
+C0019,Diagnostic Imaging,2025-01-28 01:39:00,Lung,Normal,Radiology
+C0019,Diagnosis Confirmed,2025-02-01 03:43:00,Lung,Normal,Pathology
+C0019,Treatment Planning,2025-02-05 08:11:00,Lung,Normal,Oncology
+C0019,Treatment Start,2025-02-13 14:28:00,Lung,Normal,Treatment Unit
+C0019,Follow-Up,2025-03-13 16:06:00,Lung,Normal,Oncology
+C0020,Referral Received,2025-02-08 11:43:00,Prostate,Normal,Referral Office
+C0020,Intake Review,2025-02-11 16:19:00,Prostate,Normal,Referral Office
+C0020,Initial Consultation,2025-02-14 23:52:00,Prostate,Normal,Oncology
+C0020,Diagnostic Imaging,2025-02-22 02:29:00,Prostate,Normal,Radiology
+C0020,Diagnosis Confirmed,2025-02-27 03:59:00,Prostate,Normal,Pathology
+C0020,Treatment Planning,2025-03-03 05:53:00,Prostate,Normal,Oncology
+C0020,Treatment Start,2025-03-14 10:35:00,Prostate,Normal,Treatment Unit
+C0020,Follow-Up,2025-03-29 17:40:00,Prostate,Normal,Oncology
+C0021,Referral Received,2025-01-26 15:26:00,Colon,Normal,Referral Office
+C0021,Intake Review,2025-01-28 23:06:00,Colon,Normal,Referral Office
+C0021,Initial Consultation,2025-02-01 03:41:00,Colon,Normal,Oncology
+C0021,Diagnostic Imaging,2025-02-11 10:48:00,Colon,Normal,Radiology
+C0021,Diagnosis Confirmed,2025-02-17 14:33:00,Colon,Normal,Pathology
+C0021,Treatment Planning,2025-02-19 20:38:00,Colon,Normal,Oncology
+C0021,Treatment Start,2025-02-26 22:19:00,Colon,Normal,Treatment Unit
+C0021,Follow-Up,2025-03-22 02:45:00,Colon,Normal,Oncology
+C0022,Referral Received,2025-02-05 10:55:00,Prostate,Normal,Referral Office
+C0022,Intake Review,2025-02-07 16:54:00,Prostate,Normal,Referral Office
+C0022,Initial Consultation,2025-02-11 21:47:00,Prostate,Normal,Oncology
+C0022,Diagnostic Imaging,2025-02-22 00:15:00,Prostate,Normal,Radiology
+C0022,Diagnosis Confirmed,2025-02-28 06:44:00,Prostate,Normal,Pathology
+C0022,Treatment Planning,2025-03-03 12:58:00,Prostate,Normal,Oncology
+C0022,Treatment Start,2025-03-14 19:22:00,Prostate,Normal,Treatment Unit
+C0022,Follow-Up,2025-04-02 02:24:00,Prostate,Normal,Oncology
+C0023,Referral Received,2025-01-22 09:33:00,Blood,Urgent,Referral Office
+C0023,Intake Review,2025-01-23 16:28:00,Blood,Urgent,Referral Office
+C0023,Initial Consultation,2025-01-25 22:07:00,Blood,Urgent,Oncology
+C0023,Diagnostic Imaging,2025-01-29 04:01:00,Blood,Urgent,Radiology
+C0023,Diagnosis Confirmed,2025-02-03 11:56:00,Blood,Urgent,Pathology
+C0023,Treatment Planning,2025-02-05 16:10:00,Blood,Urgent,Oncology
+C0023,Treatment Start,2025-02-12 17:38:00,Blood,Urgent,Treatment Unit
+C0023,Follow-Up,2025-02-26 17:58:00,Blood,Urgent,Oncology
+C0024,Referral Received,2025-01-29 10:10:00,Colon,Normal,Referral Office
+C0024,Intake Review,2025-01-31 13:41:00,Colon,Normal,Referral Office
+C0024,Initial Consultation,2025-02-04 20:57:00,Colon,Normal,Oncology
+C0024,Diagnostic Imaging,2025-02-15 01:40:00,Colon,Normal,Radiology
+C0024,Diagnosis Confirmed,2025-02-19 06:20:00,Colon,Normal,Pathology
+C0024,Treatment Planning,2025-02-24 10:32:00,Colon,Normal,Oncology
+C0024,Treatment Start,2025-03-02 17:08:00,Colon,Normal,Treatment Unit
+C0024,Follow-Up,2025-03-25 18:01:00,Colon,Normal,Oncology
+C0025,Referral Received,2025-02-06 15:53:00,Prostate,Normal,Referral Office
+C0025,Intake Review,2025-02-07 21:07:00,Prostate,Normal,Referral Office
+C0025,Initial Consultation,2025-02-10 23:04:00,Prostate,Normal,Oncology
+C0025,Diagnostic Imaging,2025-02-18 06:06:00,Prostate,Normal,Radiology
+C0025,Diagnosis Confirmed,2025-02-20 10:26:00,Prostate,Normal,Pathology
+C0025,Treatment Planning,2025-02-23 15:59:00,Prostate,Normal,Oncology
+C0025,Treatment Start,2025-03-01 20:57:00,Prostate,Normal,Treatment Unit
+C0025,Follow-Up,2025-03-25 02:48:00,Prostate,Normal,Oncology
+C0026,Referral Received,2025-01-10 14:54:00,Prostate,Urgent,Referral Office
+C0026,Intake Review,2025-01-11 15:10:00,Prostate,Urgent,Referral Office
+C0026,Initial Consultation,2025-01-13 22:02:00,Prostate,Urgent,Oncology
+C0026,Diagnostic Imaging,2025-01-17 01:32:00,Prostate,Urgent,Radiology
+C0026,Diagnosis Confirmed,2025-01-21 07:30:00,Prostate,Urgent,Pathology
+C0026,Treatment Planning,2025-01-24 12:11:00,Prostate,Urgent,Oncology
+C0026,Treatment Start,2025-01-28 12:30:00,Prostate,Urgent,Treatment Unit
+C0026,Follow-Up,2025-02-16 14:54:00,Prostate,Urgent,Oncology
+C0027,Referral Received,2025-02-15 10:56:00,Colon,Normal,Referral Office
+C0027,Intake Review,2025-02-17 17:13:00,Colon,Normal,Referral Office
+C0027,Initial Consultation,2025-02-21 00:41:00,Colon,Normal,Oncology
+C0027,Diagnostic Imaging,2025-02-25 06:15:00,Colon,Normal,Radiology
+C0027,Diagnosis Confirmed,2025-03-01 09:22:00,Colon,Normal,Pathology
+C0027,Treatment Planning,2025-03-04 09:25:00,Colon,Normal,Oncology
+C0027,Treatment Start,2025-03-13 12:29:00,Colon,Normal,Treatment Unit
+C0027,Follow-Up,2025-04-02 15:50:00,Colon,Normal,Oncology
+C0028,Referral Received,2025-01-11 10:07:00,Blood,Normal,Referral Office
+C0028,Intake Review,2025-01-13 13:44:00,Blood,Normal,Referral Office
+C0028,Initial Consultation,2025-01-17 13:52:00,Blood,Normal,Oncology
+C0028,Diagnostic Imaging,2025-01-21 15:22:00,Blood,Normal,Radiology
+C0028,Diagnosis Confirmed,2025-01-27 16:50:00,Blood,Normal,Pathology
+C0028,Treatment Planning,2025-01-29 21:19:00,Blood,Normal,Oncology
+C0028,Treatment Start,2025-02-05 03:46:00,Blood,Normal,Treatment Unit
+C0028,Follow-Up,2025-03-05 05:43:00,Blood,Normal,Oncology
+C0029,Referral Received,2025-01-06 14:38:00,Colon,Normal,Referral Office
+C0029,Intake Review,2025-01-09 20:44:00,Colon,Normal,Referral Office
+C0029,Initial Consultation,2025-01-13 03:12:00,Colon,Normal,Oncology
+C0029,Diagnostic Imaging,2025-01-23 09:38:00,Colon,Normal,Radiology
+C0029,Diagnosis Confirmed,2025-01-27 14:01:00,Colon,Normal,Pathology
+C0029,Treatment Planning,2025-02-01 15:06:00,Colon,Normal,Oncology
+C0029,Treatment Start,2025-02-09 20:57:00,Colon,Normal,Treatment Unit
+C0029,Follow-Up,2025-03-05 22:23:00,Colon,Normal,Oncology
+C0030,Referral Received,2025-01-04 13:06:00,Prostate,Urgent,Referral Office
+C0030,Intake Review,2025-01-05 17:00:00,Prostate,Urgent,Referral Office
+C0030,Initial Consultation,2025-01-07 18:48:00,Prostate,Urgent,Oncology
+C0030,Diagnostic Imaging,2025-01-14 19:26:00,Prostate,Urgent,Radiology
+C0030,Diagnosis Confirmed,2025-01-17 00:24:00,Prostate,Urgent,Pathology
+C0030,Treatment Planning,2025-01-19 03:00:00,Prostate,Urgent,Oncology
+C0030,Treatment Start,2025-01-23 03:05:00,Prostate,Urgent,Treatment Unit
+C0030,Follow-Up,2025-02-16 09:34:00,Prostate,Urgent,Oncology
+C0031,Referral Received,2025-01-21 08:09:00,Breast,Normal,Referral Office
+C0031,Intake Review,2025-01-22 09:26:00,Breast,Normal,Referral Office
+C0031,Initial Consultation,2025-01-27 16:52:00,Breast,Normal,Oncology
+C0031,Diagnostic Imaging,2025-01-31 22:19:00,Breast,Normal,Radiology
+C0031,Diagnosis Confirmed,2025-02-08 05:52:00,Breast,Normal,Pathology
+C0031,Treatment Planning,2025-02-13 05:52:00,Breast,Normal,Oncology
+C0031,Treatment Start,2025-02-21 10:10:00,Breast,Normal,Treatment Unit
+C0031,Follow-Up,2025-03-22 16:21:00,Breast,Normal,Oncology
+C0032,Referral Received,2025-01-16 09:25:00,Prostate,Normal,Referral Office
+C0032,Intake Review,2025-01-18 11:20:00,Prostate,Normal,Referral Office
+C0032,Initial Consultation,2025-01-23 17:38:00,Prostate,Normal,Oncology
+C0032,Diagnostic Imaging,2025-01-31 20:29:00,Prostate,Normal,Radiology
+C0032,Diagnosis Confirmed,2025-02-04 21:56:00,Prostate,Normal,Pathology
+C0032,Treatment Planning,2025-02-09 23:21:00,Prostate,Normal,Oncology
+C0032,Treatment Start,2025-02-17 05:10:00,Prostate,Normal,Treatment Unit
+C0033,Referral Received,2025-01-14 13:46:00,Lung,Normal,Referral Office
+C0033,Intake Review,2025-01-15 17:58:00,Lung,Normal,Referral Office
+C0033,Initial Consultation,2025-01-17 20:47:00,Lung,Normal,Oncology
+C0033,Diagnostic Imaging,2025-01-31 01:56:00,Lung,Normal,Radiology
+C0033,Diagnosis Confirmed,2025-02-05 06:46:00,Lung,Normal,Pathology
+C0033,Treatment Planning,2025-02-09 08:05:00,Lung,Normal,Oncology
+C0033,Treatment Start,2025-02-13 13:58:00,Lung,Normal,Treatment Unit
+C0034,Referral Received,2025-02-02 15:58:00,Lung,Normal,Referral Office
+C0034,Intake Review,2025-02-04 18:01:00,Lung,Normal,Referral Office
+C0034,Initial Consultation,2025-02-08 19:33:00,Lung,Normal,Oncology
+C0034,Diagnostic Imaging,2025-02-19 03:06:00,Lung,Normal,Radiology
+C0034,Diagnosis Confirmed,2025-02-23 09:32:00,Lung,Normal,Pathology
+C0034,Treatment Planning,2025-02-25 14:36:00,Lung,Normal,Oncology
+C0034,Treatment Start,2025-03-07 18:52:00,Lung,Normal,Treatment Unit
+C0034,Follow-Up,2025-03-25 23:57:00,Lung,Normal,Oncology
+C0035,Referral Received,2025-01-20 10:38:00,Breast,Urgent,Referral Office
+C0035,Intake Review,2025-01-21 16:30:00,Breast,Urgent,Referral Office
+C0035,Initial Consultation,2025-01-23 23:02:00,Breast,Urgent,Oncology
+C0035,Diagnostic Imaging,2025-01-29 01:15:00,Breast,Urgent,Radiology
+C0035,Diagnosis Confirmed,2025-02-01 04:29:00,Breast,Urgent,Pathology
+C0035,Treatment Planning,2025-02-03 06:01:00,Breast,Urgent,Oncology
+C0035,Treatment Start,2025-02-14 11:57:00,Breast,Urgent,Treatment Unit
+C0035,Follow-Up,2025-03-10 14:07:00,Breast,Urgent,Oncology
+C0036,Referral Received,2025-01-11 14:23:00,Blood,Urgent,Referral Office
+C0036,Intake Review,2025-01-12 19:11:00,Blood,Urgent,Referral Office
+C0036,Initial Consultation,2025-01-15 00:02:00,Blood,Urgent,Oncology
+C0036,Diagnostic Imaging,2025-01-19 05:45:00,Blood,Urgent,Radiology
+C0036,Diagnosis Confirmed,2025-01-21 12:17:00,Blood,Urgent,Pathology
+C0036,Treatment Planning,2025-01-23 15:12:00,Blood,Urgent,Oncology
+C0036,Treatment Start,2025-02-03 16:57:00,Blood,Urgent,Treatment Unit
+C0036,Follow-Up,2025-02-24 18:45:00,Blood,Urgent,Oncology
+C0037,Referral Received,2025-02-03 09:58:00,Colon,Normal,Referral Office
+C0037,Intake Review,2025-02-05 10:24:00,Colon,Normal,Referral Office
+C0037,Initial Consultation,2025-02-09 13:48:00,Colon,Normal,Oncology
+C0037,Diagnostic Imaging,2025-02-12 19:47:00,Colon,Normal,Radiology
+C0037,Diagnosis Confirmed,2025-02-20 01:37:00,Colon,Normal,Pathology
+C0037,Treatment Planning,2025-02-24 09:21:00,Colon,Normal,Oncology
+C0037,Treatment Start,2025-03-09 10:18:00,Colon,Normal,Treatment Unit
+C0038,Referral Received,2025-02-05 09:49:00,Breast,Urgent,Referral Office
+C0038,Intake Review,2025-02-06 10:04:00,Breast,Urgent,Referral Office
+C0038,Initial Consultation,2025-02-09 11:11:00,Breast,Urgent,Oncology
+C0038,Diagnostic Imaging,2025-02-12 14:56:00,Breast,Urgent,Radiology
+C0038,Diagnosis Confirmed,2025-02-14 20:11:00,Breast,Urgent,Pathology
+C0038,Treatment Planning,2025-02-17 01:15:00,Breast,Urgent,Oncology
+C0038,Treatment Start,2025-03-02 01:39:00,Breast,Urgent,Treatment Unit
+C0039,Referral Received,2025-01-17 09:22:00,Prostate,Urgent,Referral Office
+C0039,Intake Review,2025-01-18 11:11:00,Prostate,Urgent,Referral Office
+C0039,Initial Consultation,2025-01-20 17:03:00,Prostate,Urgent,Oncology
+C0039,Diagnostic Imaging,2025-01-29 00:43:00,Prostate,Urgent,Radiology
+C0039,Diagnosis Confirmed,2025-01-31 07:45:00,Prostate,Urgent,Pathology
+C0039,Treatment Planning,2025-02-02 08:05:00,Prostate,Urgent,Oncology
+C0039,Treatment Start,2025-02-12 15:21:00,Prostate,Urgent,Treatment Unit
+C0039,Follow-Up,2025-03-02 19:43:00,Prostate,Urgent,Oncology
+C0040,Referral Received,2025-01-25 15:57:00,Colon,Normal,Referral Office
+C0040,Intake Review,2025-01-26 23:41:00,Colon,Normal,Referral Office
+C0040,Initial Consultation,2025-01-31 01:27:00,Colon,Normal,Oncology
+C0040,Diagnostic Imaging,2025-02-05 05:47:00,Colon,Normal,Radiology
+C0040,Diagnosis Confirmed,2025-02-12 10:06:00,Colon,Normal,Pathology
+C0040,Treatment Planning,2025-02-17 12:50:00,Colon,Normal,Oncology
+C0040,Treatment Start,2025-02-24 18:29:00,Colon,Normal,Treatment Unit
+C0040,Follow-Up,2025-03-11 20:11:00,Colon,Normal,Oncology
+C0041,Referral Received,2025-02-13 10:54:00,Prostate,Normal,Referral Office
+C0041,Intake Review,2025-02-14 14:43:00,Prostate,Normal,Referral Office
+C0041,Initial Consultation,2025-02-16 17:26:00,Prostate,Normal,Oncology
+C0041,Diagnostic Imaging,2025-02-25 01:14:00,Prostate,Normal,Radiology
+C0041,Diagnosis Confirmed,2025-03-03 06:39:00,Prostate,Normal,Pathology
+C0041,Treatment Planning,2025-03-06 07:40:00,Prostate,Normal,Oncology
+C0041,Treatment Start,2025-03-18 14:38:00,Prostate,Normal,Treatment Unit
+C0041,Follow-Up,2025-04-09 21:51:00,Prostate,Normal,Oncology
+C0042,Referral Received,2025-02-01 09:28:00,Colon,Normal,Referral Office
+C0042,Intake Review,2025-02-03 11:19:00,Colon,Normal,Referral Office
+C0042,Initial Consultation,2025-02-05 16:16:00,Colon,Normal,Oncology
+C0042,Diagnostic Imaging,2025-02-10 21:48:00,Colon,Normal,Radiology
+C0042,Diagnosis Confirmed,2025-02-14 00:03:00,Colon,Normal,Pathology
+C0042,Treatment Planning,2025-02-18 07:54:00,Colon,Normal,Oncology
+C0042,Treatment Start,2025-02-24 12:19:00,Colon,Normal,Treatment Unit
+C0042,Follow-Up,2025-03-26 19:08:00,Colon,Normal,Oncology
+C0043,Referral Received,2025-01-22 15:43:00,Blood,Normal,Referral Office
+C0043,Intake Review,2025-01-25 18:32:00,Blood,Normal,Referral Office
+C0043,Initial Consultation,2025-01-27 20:05:00,Blood,Normal,Oncology
+C0043,Diagnostic Imaging,2025-02-02 02:04:00,Blood,Normal,Radiology
+C0043,Diagnosis Confirmed,2025-02-08 06:58:00,Blood,Normal,Pathology
+C0043,Treatment Planning,2025-02-12 09:38:00,Blood,Normal,Oncology
+C0043,Treatment Start,2025-02-20 12:15:00,Blood,Normal,Treatment Unit
+C0043,Follow-Up,2025-03-16 13:07:00,Blood,Normal,Oncology
+C0044,Referral Received,2025-02-12 11:49:00,Lung,Normal,Referral Office
+C0044,Intake Review,2025-02-13 19:45:00,Lung,Normal,Referral Office
+C0044,Initial Consultation,2025-02-18 03:00:00,Lung,Normal,Oncology
+C0044,Diagnostic Imaging,2025-03-01 03:10:00,Lung,Normal,Radiology
+C0044,Diagnosis Confirmed,2025-03-06 06:31:00,Lung,Normal,Pathology
+C0044,Treatment Planning,2025-03-10 11:56:00,Lung,Normal,Oncology
+C0044,Treatment Start,2025-03-22 13:16:00,Lung,Normal,Treatment Unit
+C0044,Follow-Up,2025-04-13 20:31:00,Lung,Normal,Oncology
+C0045,Referral Received,2025-01-26 11:55:00,Lung,Normal,Referral Office
+C0045,Intake Review,2025-01-29 17:07:00,Lung,Normal,Referral Office
+C0045,Initial Consultation,2025-02-04 01:03:00,Lung,Normal,Oncology
+C0045,Diagnostic Imaging,2025-02-12 08:18:00,Lung,Normal,Radiology
+C0045,Diagnosis Confirmed,2025-02-14 08:36:00,Lung,Normal,Pathology
+C0045,Treatment Planning,2025-02-19 13:10:00,Lung,Normal,Oncology
+C0045,Treatment Start,2025-03-01 16:06:00,Lung,Normal,Treatment Unit
+C0045,Follow-Up,2025-03-27 21:08:00,Lung,Normal,Oncology
+C0046,Referral Received,2025-01-14 09:24:00,Lung,Normal,Referral Office
+C0046,Intake Review,2025-01-16 10:32:00,Lung,Normal,Referral Office
+C0046,Initial Consultation,2025-01-20 16:20:00,Lung,Normal,Oncology
+C0046,Diagnostic Imaging,2025-01-30 16:22:00,Lung,Normal,Radiology
+C0046,Diagnosis Confirmed,2025-02-04 23:31:00,Lung,Normal,Pathology
+C0046,Treatment Planning,2025-02-09 01:56:00,Lung,Normal,Oncology
+C0046,Treatment Start,2025-02-17 07:28:00,Lung,Normal,Treatment Unit
+C0046,Follow-Up,2025-03-12 15:20:00,Lung,Normal,Oncology
+C0047,Referral Received,2025-01-09 08:38:00,Colon,Normal,Referral Office
+C0047,Intake Review,2025-01-12 12:24:00,Colon,Normal,Referral Office
+C0047,Initial Consultation,2025-01-15 18:33:00,Colon,Normal,Oncology
+C0047,Diagnostic Imaging,2025-01-19 21:34:00,Colon,Normal,Radiology
+C0047,Diagnosis Confirmed,2025-01-23 04:18:00,Colon,Normal,Pathology
+C0047,Treatment Planning,2025-01-28 05:03:00,Colon,Normal,Oncology
+C0047,Treatment Start,2025-02-11 12:36:00,Colon,Normal,Treatment Unit
+C0047,Follow-Up,2025-03-02 20:34:00,Colon,Normal,Oncology
+C0048,Referral Received,2025-02-14 15:12:00,Colon,Normal,Referral Office
+C0048,Intake Review,2025-02-16 18:31:00,Colon,Normal,Referral Office
+C0048,Initial Consultation,2025-02-22 00:01:00,Colon,Normal,Oncology
+C0048,Diagnostic Imaging,2025-03-01 04:08:00,Colon,Normal,Radiology
+C0048,Diagnosis Confirmed,2025-03-06 09:57:00,Colon,Normal,Pathology
+C0048,Treatment Planning,2025-03-10 11:19:00,Colon,Normal,Oncology
+C0048,Treatment Start,2025-03-22 15:11:00,Colon,Normal,Treatment Unit
+C0048,Follow-Up,2025-04-13 17:17:00,Colon,Normal,Oncology
+C0049,Referral Received,2025-01-04 11:03:00,Blood,Normal,Referral Office
+C0049,Intake Review,2025-01-07 18:09:00,Blood,Normal,Referral Office
+C0049,Initial Consultation,2025-01-11 00:50:00,Blood,Normal,Oncology
+C0049,Diagnostic Imaging,2025-01-17 05:10:00,Blood,Normal,Radiology
+C0049,Diagnosis Confirmed,2025-01-19 08:44:00,Blood,Normal,Pathology
+C0049,Treatment Planning,2025-01-22 15:40:00,Blood,Normal,Oncology
+C0049,Treatment Start,2025-01-28 22:51:00,Blood,Normal,Treatment Unit
+C0049,Follow-Up,2025-02-20 22:51:00,Blood,Normal,Oncology
+C0050,Referral Received,2025-01-23 10:54:00,Blood,Normal,Referral Office
+C0050,Intake Review,2025-01-24 16:04:00,Blood,Normal,Referral Office
+C0050,Initial Consultation,2025-01-27 16:51:00,Blood,Normal,Oncology
+C0050,Diagnostic Imaging,2025-02-02 19:30:00,Blood,Normal,Radiology
+C0050,Diagnosis Confirmed,2025-02-09 00:35:00,Blood,Normal,Pathology
+C0050,Treatment Planning,2025-02-12 03:05:00,Blood,Normal,Oncology
+C0050,Treatment Start,2025-02-18 09:20:00,Blood,Normal,Treatment Unit
+C0050,Follow-Up,2025-03-14 13:57:00,Blood,Normal,Oncology
+C0051,Referral Received,2025-02-11 08:42:00,Blood,Normal,Referral Office
+C0051,Intake Review,2025-02-12 15:25:00,Blood,Normal,Referral Office
+C0051,Initial Consultation,2025-02-16 21:04:00,Blood,Normal,Oncology
+C0051,Diagnostic Imaging,2025-02-22 04:13:00,Blood,Normal,Radiology
+C0051,Diagnosis Confirmed,2025-02-28 09:39:00,Blood,Normal,Pathology
+C0051,Treatment Planning,2025-03-03 13:22:00,Blood,Normal,Oncology
+C0051,Treatment Start,2025-03-11 20:55:00,Blood,Normal,Treatment Unit
+C0051,Follow-Up,2025-03-28 21:48:00,Blood,Normal,Oncology
+C0052,Referral Received,2025-02-05 15:07:00,Blood,Normal,Referral Office
+C0052,Intake Review,2025-02-07 17:04:00,Blood,Normal,Referral Office
+C0052,Initial Consultation,2025-02-12 19:36:00,Blood,Normal,Oncology
+C0052,Diagnostic Imaging,2025-02-16 03:19:00,Blood,Normal,Radiology
+C0052,Diagnosis Confirmed,2025-02-21 08:11:00,Blood,Normal,Pathology
+C0052,Treatment Planning,2025-02-23 08:38:00,Blood,Normal,Oncology
+C0052,Treatment Start,2025-03-08 10:37:00,Blood,Normal,Treatment Unit
+C0053,Referral Received,2025-01-10 13:57:00,Prostate,Normal,Referral Office
+C0053,Intake Review,2025-01-12 20:02:00,Prostate,Normal,Referral Office
+C0053,Initial Consultation,2025-01-16 21:13:00,Prostate,Normal,Oncology
+C0053,Diagnostic Imaging,2025-01-22 01:06:00,Prostate,Normal,Radiology
+C0053,Diagnosis Confirmed,2025-01-26 08:49:00,Prostate,Normal,Pathology
+C0053,Treatment Planning,2025-01-29 12:18:00,Prostate,Normal,Oncology
+C0053,Treatment Start,2025-02-05 13:20:00,Prostate,Normal,Treatment Unit
+C0053,Follow-Up,2025-02-19 16:33:00,Prostate,Normal,Oncology
+C0054,Referral Received,2025-01-29 11:47:00,Lung,Normal,Referral Office
+C0054,Intake Review,2025-01-30 15:35:00,Lung,Normal,Referral Office
+C0054,Initial Consultation,2025-02-03 19:27:00,Lung,Normal,Oncology
+C0054,Diagnostic Imaging,2025-02-14 00:23:00,Lung,Normal,Radiology
+C0054,Diagnosis Confirmed,2025-02-20 03:49:00,Lung,Normal,Pathology
+C0054,Treatment Planning,2025-02-23 10:24:00,Lung,Normal,Oncology
+C0054,Treatment Start,2025-03-04 17:14:00,Lung,Normal,Treatment Unit
+C0054,Follow-Up,2025-03-31 23:23:00,Lung,Normal,Oncology
+C0055,Referral Received,2025-02-04 12:54:00,Prostate,Normal,Referral Office
+C0055,Intake Review,2025-02-05 19:20:00,Prostate,Normal,Referral Office
+C0055,Initial Consultation,2025-02-09 22:41:00,Prostate,Normal,Oncology
+C0055,Diagnostic Imaging,2025-02-20 03:46:00,Prostate,Normal,Radiology
+C0055,Diagnosis Confirmed,2025-02-25 04:41:00,Prostate,Normal,Pathology
+C0055,Treatment Planning,2025-02-28 11:54:00,Prostate,Normal,Oncology
+C0055,Treatment Start,2025-03-04 15:53:00,Prostate,Normal,Treatment Unit
+C0055,Follow-Up,2025-03-21 23:51:00,Prostate,Normal,Oncology
+C0056,Referral Received,2025-01-27 12:24:00,Blood,Normal,Referral Office
+C0056,Intake Review,2025-01-29 16:40:00,Blood,Normal,Referral Office
+C0056,Initial Consultation,2025-02-03 23:46:00,Blood,Normal,Oncology
+C0056,Diagnostic Imaging,2025-02-12 03:09:00,Blood,Normal,Radiology
+C0056,Diagnosis Confirmed,2025-02-18 06:56:00,Blood,Normal,Pathology
+C0056,Treatment Planning,2025-02-23 11:05:00,Blood,Normal,Oncology
+C0056,Treatment Start,2025-03-08 14:36:00,Blood,Normal,Treatment Unit
+C0056,Follow-Up,2025-04-01 19:24:00,Blood,Normal,Oncology
+C0057,Referral Received,2025-01-24 10:58:00,Prostate,Normal,Referral Office
+C0057,Intake Review,2025-01-25 11:46:00,Prostate,Normal,Referral Office
+C0057,Initial Consultation,2025-01-28 13:31:00,Prostate,Normal,Oncology
+C0057,Diagnostic Imaging,2025-02-07 18:34:00,Prostate,Normal,Radiology
+C0057,Diagnosis Confirmed,2025-02-09 19:08:00,Prostate,Normal,Pathology
+C0057,Treatment Planning,2025-02-13 23:09:00,Prostate,Normal,Oncology
+C0057,Treatment Start,2025-02-24 01:15:00,Prostate,Normal,Treatment Unit
+C0057,Follow-Up,2025-03-17 04:54:00,Prostate,Normal,Oncology
+C0058,Referral Received,2025-01-18 13:25:00,Colon,Urgent,Referral Office
+C0058,Intake Review,2025-01-19 16:44:00,Colon,Urgent,Referral Office
+C0058,Initial Consultation,2025-01-21 18:09:00,Colon,Urgent,Oncology
+C0058,Diagnostic Imaging,2025-01-29 18:49:00,Colon,Urgent,Radiology
+C0058,Diagnosis Confirmed,2025-02-01 02:43:00,Colon,Urgent,Pathology
+C0058,Treatment Planning,2025-02-03 04:40:00,Colon,Urgent,Oncology
+C0058,Treatment Start,2025-02-09 11:57:00,Colon,Urgent,Treatment Unit
+C0058,Follow-Up,2025-03-01 12:08:00,Colon,Urgent,Oncology
+C0059,Referral Received,2025-02-07 09:19:00,Lung,Urgent,Referral Office
+C0059,Intake Review,2025-02-08 16:02:00,Lung,Urgent,Referral Office
+C0059,Initial Consultation,2025-02-10 17:34:00,Lung,Urgent,Oncology
+C0059,Diagnostic Imaging,2025-02-14 23:48:00,Lung,Urgent,Radiology
+C0059,Diagnosis Confirmed,2025-02-19 06:37:00,Lung,Urgent,Pathology
+C0059,Treatment Planning,2025-02-21 14:08:00,Lung,Urgent,Oncology
+C0059,Treatment Start,2025-03-01 20:19:00,Lung,Urgent,Treatment Unit
+C0059,Follow-Up,2025-03-25 22:08:00,Lung,Urgent,Oncology
+C0060,Referral Received,2025-02-15 10:24:00,Colon,Urgent,Referral Office
+C0060,Intake Review,2025-02-16 15:30:00,Colon,Urgent,Referral Office
+C0060,Initial Consultation,2025-02-18 22:53:00,Colon,Urgent,Oncology
+C0060,Diagnostic Imaging,2025-02-22 01:20:00,Colon,Urgent,Radiology
+C0060,Diagnosis Confirmed,2025-02-26 07:26:00,Colon,Urgent,Pathology
+C0060,Treatment Planning,2025-02-28 13:21:00,Colon,Urgent,Oncology
+C0060,Treatment Start,2025-03-10 15:07:00,Colon,Urgent,Treatment Unit
+C0060,Follow-Up,2025-03-29 17:50:00,Colon,Urgent,Oncology
+C0061,Referral Received,2025-01-20 09:10:00,Breast,Normal,Referral Office
+C0061,Intake Review,2025-01-22 17:00:00,Breast,Normal,Referral Office
+C0061,Initial Consultation,2025-01-26 00:38:00,Breast,Normal,Oncology
+C0061,Diagnostic Imaging,2025-01-30 02:57:00,Breast,Normal,Radiology
+C0061,Diagnosis Confirmed,2025-02-03 09:48:00,Breast,Normal,Pathology
+C0061,Treatment Planning,2025-02-08 12:07:00,Breast,Normal,Oncology
+C0061,Treatment Start,2025-02-17 17:18:00,Breast,Normal,Treatment Unit
+C0061,Follow-Up,2025-03-13 00:54:00,Breast,Normal,Oncology
+C0062,Referral Received,2025-01-26 10:43:00,Colon,Normal,Referral Office
+C0062,Intake Review,2025-01-28 14:11:00,Colon,Normal,Referral Office
+C0062,Initial Consultation,2025-01-30 20:54:00,Colon,Normal,Oncology
+C0062,Diagnostic Imaging,2025-02-07 00:10:00,Colon,Normal,Radiology
+C0062,Diagnosis Confirmed,2025-02-12 01:38:00,Colon,Normal,Pathology
+C0062,Treatment Planning,2025-02-17 02:28:00,Colon,Normal,Oncology
+C0062,Treatment Start,2025-03-04 03:34:00,Colon,Normal,Treatment Unit
+C0062,Follow-Up,2025-03-29 06:15:00,Colon,Normal,Oncology
+C0063,Referral Received,2025-02-12 13:50:00,Lung,Normal,Referral Office
+C0063,Intake Review,2025-02-13 18:04:00,Lung,Normal,Referral Office
+C0063,Initial Consultation,2025-02-19 01:53:00,Lung,Normal,Oncology
+C0063,Diagnostic Imaging,2025-02-27 02:23:00,Lung,Normal,Radiology
+C0063,Diagnosis Confirmed,2025-03-01 04:16:00,Lung,Normal,Pathology
+C0063,Treatment Planning,2025-03-05 12:06:00,Lung,Normal,Oncology
+C0063,Treatment Start,2025-03-14 19:12:00,Lung,Normal,Treatment Unit
+C0063,Follow-Up,2025-04-12 00:16:00,Lung,Normal,Oncology
+C0064,Referral Received,2025-01-08 09:43:00,Lung,Urgent,Referral Office
+C0064,Intake Review,2025-01-09 13:16:00,Lung,Urgent,Referral Office
+C0064,Initial Consultation,2025-01-11 19:45:00,Lung,Urgent,Oncology
+C0064,Diagnostic Imaging,2025-01-17 02:10:00,Lung,Urgent,Radiology
+C0064,Diagnosis Confirmed,2025-01-19 09:47:00,Lung,Urgent,Pathology
+C0064,Treatment Planning,2025-01-21 13:04:00,Lung,Urgent,Oncology
+C0064,Treatment Start,2025-01-25 14:55:00,Lung,Urgent,Treatment Unit
+C0064,Follow-Up,2025-02-16 18:24:00,Lung,Urgent,Oncology
+C0065,Referral Received,2025-02-02 14:39:00,Colon,Normal,Referral Office
+C0065,Intake Review,2025-02-04 20:33:00,Colon,Normal,Referral Office
+C0065,Initial Consultation,2025-02-08 22:16:00,Colon,Normal,Oncology
+C0065,Diagnostic Imaging,2025-02-15 02:23:00,Colon,Normal,Radiology
+C0065,Diagnosis Confirmed,2025-02-18 08:49:00,Colon,Normal,Pathology
+C0065,Treatment Planning,2025-02-23 11:20:00,Colon,Normal,Oncology
+C0065,Treatment Start,2025-03-04 13:51:00,Colon,Normal,Treatment Unit
+C0065,Follow-Up,2025-03-28 21:30:00,Colon,Normal,Oncology
+C0066,Referral Received,2025-02-01 15:26:00,Colon,Urgent,Referral Office
+C0066,Intake Review,2025-02-02 22:36:00,Colon,Urgent,Referral Office
+C0066,Initial Consultation,2025-02-05 02:38:00,Colon,Urgent,Oncology
+C0066,Diagnostic Imaging,2025-02-10 05:27:00,Colon,Urgent,Radiology
+C0066,Diagnosis Confirmed,2025-02-13 07:03:00,Colon,Urgent,Pathology
+C0066,Treatment Planning,2025-02-15 07:51:00,Colon,Urgent,Oncology
+C0066,Treatment Start,2025-02-22 09:38:00,Colon,Urgent,Treatment Unit
+C0066,Follow-Up,2025-03-15 10:06:00,Colon,Urgent,Oncology
+C0067,Referral Received,2025-01-06 11:13:00,Colon,Urgent,Referral Office
+C0067,Intake Review,2025-01-07 17:23:00,Colon,Urgent,Referral Office
+C0067,Initial Consultation,2025-01-09 17:59:00,Colon,Urgent,Oncology
+C0067,Diagnostic Imaging,2025-01-12 23:44:00,Colon,Urgent,Radiology
+C0067,Diagnosis Confirmed,2025-01-15 00:52:00,Colon,Urgent,Pathology
+C0067,Treatment Planning,2025-01-17 03:36:00,Colon,Urgent,Oncology
+C0067,Treatment Start,2025-01-25 10:07:00,Colon,Urgent,Treatment Unit
+C0067,Follow-Up,2025-02-14 16:31:00,Colon,Urgent,Oncology
+C0068,Referral Received,2025-01-07 13:29:00,Lung,Normal,Referral Office
+C0068,Intake Review,2025-01-08 15:15:00,Lung,Normal,Referral Office
+C0068,Initial Consultation,2025-01-12 17:05:00,Lung,Normal,Oncology
+C0068,Diagnostic Imaging,2025-01-24 00:22:00,Lung,Normal,Radiology
+C0068,Diagnosis Confirmed,2025-01-28 02:58:00,Lung,Normal,Pathology
+C0068,Treatment Planning,2025-01-30 03:04:00,Lung,Normal,Oncology
+C0068,Treatment Start,2025-02-10 03:11:00,Lung,Normal,Treatment Unit
+C0068,Follow-Up,2025-02-24 09:23:00,Lung,Normal,Oncology
+C0069,Referral Received,2025-01-20 09:41:00,Breast,Urgent,Referral Office
+C0069,Intake Review,2025-01-21 11:44:00,Breast,Urgent,Referral Office
+C0069,Initial Consultation,2025-01-23 18:25:00,Breast,Urgent,Oncology
+C0069,Diagnostic Imaging,2025-01-26 21:55:00,Breast,Urgent,Radiology
+C0069,Diagnosis Confirmed,2025-01-29 04:55:00,Breast,Urgent,Pathology
+C0069,Treatment Planning,2025-01-31 11:39:00,Breast,Urgent,Oncology
+C0069,Treatment Start,2025-02-07 13:25:00,Breast,Urgent,Treatment Unit
+C0069,Follow-Up,2025-03-02 17:33:00,Breast,Urgent,Oncology
+C0070,Referral Received,2025-02-13 10:28:00,Breast,Normal,Referral Office
+C0070,Intake Review,2025-02-16 13:26:00,Breast,Normal,Referral Office
+C0070,Initial Consultation,2025-02-21 16:31:00,Breast,Normal,Oncology
+C0070,Diagnostic Imaging,2025-02-25 22:53:00,Breast,Normal,Radiology
+C0070,Diagnosis Confirmed,2025-03-01 02:10:00,Breast,Normal,Pathology
+C0070,Treatment Planning,2025-03-05 03:04:00,Breast,Normal,Oncology
+C0070,Treatment Start,2025-03-15 06:51:00,Breast,Normal,Treatment Unit
+C0070,Follow-Up,2025-03-30 10:22:00,Breast,Normal,Oncology
+C0071,Referral Received,2025-02-10 13:59:00,Lung,Normal,Referral Office
+C0071,Intake Review,2025-02-13 20:22:00,Lung,Normal,Referral Office
+C0071,Initial Consultation,2025-02-15 20:59:00,Lung,Normal,Oncology
+C0071,Diagnostic Imaging,2025-02-22 21:49:00,Lung,Normal,Radiology
+C0071,Diagnosis Confirmed,2025-03-02 04:16:00,Lung,Normal,Pathology
+C0071,Treatment Planning,2025-03-05 08:21:00,Lung,Normal,Oncology
+C0071,Treatment Start,2025-03-12 10:55:00,Lung,Normal,Treatment Unit
+C0071,Follow-Up,2025-03-28 15:39:00,Lung,Normal,Oncology
+C0072,Referral Received,2025-01-06 15:39:00,Breast,Normal,Referral Office
+C0072,Intake Review,2025-01-09 17:46:00,Breast,Normal,Referral Office
+C0072,Initial Consultation,2025-01-11 20:17:00,Breast,Normal,Oncology
+C0072,Diagnostic Imaging,2025-01-18 22:40:00,Breast,Normal,Radiology
+C0072,Diagnosis Confirmed,2025-01-23 00:29:00,Breast,Normal,Pathology
+C0072,Treatment Planning,2025-01-28 05:02:00,Breast,Normal,Oncology
+C0072,Treatment Start,2025-02-04 12:34:00,Breast,Normal,Treatment Unit
+C0073,Referral Received,2025-01-11 09:14:00,Blood,Normal,Referral Office
+C0073,Intake Review,2025-01-12 12:16:00,Blood,Normal,Referral Office
+C0073,Initial Consultation,2025-01-15 15:15:00,Blood,Normal,Oncology
+C0073,Diagnostic Imaging,2025-01-24 18:35:00,Blood,Normal,Radiology
+C0073,Diagnosis Confirmed,2025-01-31 23:52:00,Blood,Normal,Pathology
+C0073,Treatment Planning,2025-02-03 00:03:00,Blood,Normal,Oncology
+C0073,Treatment Start,2025-02-09 01:59:00,Blood,Normal,Treatment Unit
+C0073,Follow-Up,2025-03-04 07:04:00,Blood,Normal,Oncology
+C0074,Referral Received,2025-01-14 11:29:00,Prostate,Normal,Referral Office
+C0074,Intake Review,2025-01-16 15:15:00,Prostate,Normal,Referral Office
+C0074,Initial Consultation,2025-01-21 15:29:00,Prostate,Normal,Oncology
+C0074,Diagnostic Imaging,2025-01-24 20:29:00,Prostate,Normal,Radiology
+C0074,Diagnosis Confirmed,2025-02-01 00:35:00,Prostate,Normal,Pathology
+C0074,Treatment Planning,2025-02-04 07:06:00,Prostate,Normal,Oncology
+C0074,Treatment Start,2025-02-10 11:11:00,Prostate,Normal,Treatment Unit
+C0074,Follow-Up,2025-03-12 17:55:00,Prostate,Normal,Oncology
+C0075,Referral Received,2025-01-06 14:04:00,Prostate,Urgent,Referral Office
+C0075,Intake Review,2025-01-07 17:22:00,Prostate,Urgent,Referral Office
+C0075,Initial Consultation,2025-01-10 22:42:00,Prostate,Urgent,Oncology
+C0075,Diagnostic Imaging,2025-01-14 01:50:00,Prostate,Urgent,Radiology
+C0075,Diagnosis Confirmed,2025-01-16 09:19:00,Prostate,Urgent,Pathology
+C0075,Treatment Planning,2025-01-18 12:47:00,Prostate,Urgent,Oncology
+C0075,Treatment Start,2025-01-22 13:57:00,Prostate,Urgent,Treatment Unit
+C0075,Follow-Up,2025-02-05 17:50:00,Prostate,Urgent,Oncology
+C0076,Referral Received,2025-01-17 08:43:00,Breast,Normal,Referral Office
+C0076,Intake Review,2025-01-18 09:08:00,Breast,Normal,Referral Office
+C0076,Initial Consultation,2025-01-21 10:37:00,Breast,Normal,Oncology
+C0076,Diagnostic Imaging,2025-01-26 11:37:00,Breast,Normal,Radiology
+C0076,Diagnosis Confirmed,2025-01-29 13:49:00,Breast,Normal,Pathology
+C0076,Treatment Planning,2025-01-31 18:47:00,Breast,Normal,Oncology
+C0076,Treatment Start,2025-02-07 02:38:00,Breast,Normal,Treatment Unit
+C0076,Follow-Up,2025-03-03 03:40:00,Breast,Normal,Oncology
+C0077,Referral Received,2025-02-07 15:01:00,Lung,Normal,Referral Office
+C0077,Intake Review,2025-02-08 20:14:00,Lung,Normal,Referral Office
+C0077,Initial Consultation,2025-02-13 22:16:00,Lung,Normal,Oncology
+C0077,Diagnostic Imaging,2025-02-23 05:42:00,Lung,Normal,Radiology
+C0077,Diagnosis Confirmed,2025-02-27 11:50:00,Lung,Normal,Pathology
+C0077,Treatment Planning,2025-03-02 12:14:00,Lung,Normal,Oncology
+C0077,Treatment Start,2025-03-14 19:36:00,Lung,Normal,Treatment Unit
+C0077,Follow-Up,2025-04-09 23:47:00,Lung,Normal,Oncology
+C0078,Referral Received,2025-01-03 08:51:00,Colon,Normal,Referral Office
+C0078,Intake Review,2025-01-06 12:01:00,Colon,Normal,Referral Office
+C0078,Initial Consultation,2025-01-09 16:35:00,Colon,Normal,Oncology
+C0078,Diagnostic Imaging,2025-01-15 22:57:00,Colon,Normal,Radiology
+C0078,Diagnosis Confirmed,2025-01-22 04:48:00,Colon,Normal,Pathology
+C0078,Treatment Planning,2025-01-24 10:24:00,Colon,Normal,Oncology
+C0078,Treatment Start,2025-02-02 14:35:00,Colon,Normal,Treatment Unit
+C0079,Referral Received,2025-01-16 08:21:00,Lung,Normal,Referral Office
+C0079,Intake Review,2025-01-18 11:19:00,Lung,Normal,Referral Office
+C0079,Initial Consultation,2025-01-21 14:08:00,Lung,Normal,Oncology
+C0079,Diagnostic Imaging,2025-01-30 19:53:00,Lung,Normal,Radiology
+C0079,Diagnosis Confirmed,2025-02-04 00:13:00,Lung,Normal,Pathology
+C0079,Treatment Planning,2025-02-09 07:54:00,Lung,Normal,Oncology
+C0079,Treatment Start,2025-02-21 13:08:00,Lung,Normal,Treatment Unit
+C0079,Follow-Up,2025-03-12 19:27:00,Lung,Normal,Oncology
+C0080,Referral Received,2025-01-02 08:11:00,Colon,Normal,Referral Office
+C0080,Intake Review,2025-01-05 11:51:00,Colon,Normal,Referral Office
+C0080,Initial Consultation,2025-01-08 17:38:00,Colon,Normal,Oncology
+C0080,Diagnostic Imaging,2025-01-16 20:18:00,Colon,Normal,Radiology
+C0080,Diagnosis Confirmed,2025-01-24 01:46:00,Colon,Normal,Pathology
+C0080,Treatment Planning,2025-01-27 03:08:00,Colon,Normal,Oncology
+C0080,Treatment Start,2025-02-01 09:36:00,Colon,Normal,Treatment Unit
+C0080,Follow-Up,2025-02-20 16:07:00,Colon,Normal,Oncology
+C0081,Referral Received,2025-01-07 10:28:00,Colon,Normal,Referral Office
+C0081,Intake Review,2025-01-08 14:29:00,Colon,Normal,Referral Office
+C0081,Initial Consultation,2025-01-10 15:50:00,Colon,Normal,Oncology
+C0081,Diagnostic Imaging,2025-01-15 17:25:00,Colon,Normal,Radiology
+C0081,Diagnosis Confirmed,2025-01-22 01:10:00,Colon,Normal,Pathology
+C0081,Treatment Planning,2025-01-25 07:20:00,Colon,Normal,Oncology
+C0081,Treatment Start,2025-02-02 14:04:00,Colon,Normal,Treatment Unit
+C0081,Follow-Up,2025-02-24 18:23:00,Colon,Normal,Oncology
+C0082,Referral Received,2025-02-07 10:03:00,Lung,Normal,Referral Office
+C0082,Intake Review,2025-02-08 14:55:00,Lung,Normal,Referral Office
+C0082,Initial Consultation,2025-02-10 18:05:00,Lung,Normal,Oncology
+C0082,Diagnostic Imaging,2025-02-18 19:24:00,Lung,Normal,Radiology
+C0082,Diagnosis Confirmed,2025-02-25 23:29:00,Lung,Normal,Pathology
+C0082,Treatment Planning,2025-03-03 04:40:00,Lung,Normal,Oncology
+C0082,Treatment Start,2025-03-14 11:56:00,Lung,Normal,Treatment Unit
+C0082,Follow-Up,2025-03-29 14:44:00,Lung,Normal,Oncology
+C0083,Referral Received,2025-01-24 11:35:00,Lung,Normal,Referral Office
+C0083,Intake Review,2025-01-27 18:09:00,Lung,Normal,Referral Office
+C0083,Initial Consultation,2025-01-31 01:28:00,Lung,Normal,Oncology
+C0083,Diagnostic Imaging,2025-02-05 03:16:00,Lung,Normal,Radiology
+C0083,Diagnosis Confirmed,2025-02-08 07:07:00,Lung,Normal,Pathology
+C0083,Treatment Planning,2025-02-13 08:50:00,Lung,Normal,Oncology
+C0083,Treatment Start,2025-02-19 13:10:00,Lung,Normal,Treatment Unit
+C0083,Follow-Up,2025-03-07 14:34:00,Lung,Normal,Oncology
+C0084,Referral Received,2025-01-18 14:07:00,Prostate,Normal,Referral Office
+C0084,Intake Review,2025-01-21 16:06:00,Prostate,Normal,Referral Office
+C0084,Initial Consultation,2025-01-23 21:01:00,Prostate,Normal,Oncology
+C0084,Diagnostic Imaging,2025-02-02 01:25:00,Prostate,Normal,Radiology
+C0084,Diagnosis Confirmed,2025-02-07 01:36:00,Prostate,Normal,Pathology
+C0084,Treatment Planning,2025-02-12 02:01:00,Prostate,Normal,Oncology
+C0084,Treatment Start,2025-02-16 09:59:00,Prostate,Normal,Treatment Unit
+C0084,Follow-Up,2025-03-02 15:51:00,Prostate,Normal,Oncology
+C0085,Referral Received,2025-02-01 11:08:00,Colon,Normal,Referral Office
+C0085,Intake Review,2025-02-03 16:25:00,Colon,Normal,Referral Office
+C0085,Initial Consultation,2025-02-05 19:53:00,Colon,Normal,Oncology
+C0085,Diagnostic Imaging,2025-02-15 03:41:00,Colon,Normal,Radiology
+C0085,Diagnosis Confirmed,2025-02-21 05:45:00,Colon,Normal,Pathology
+C0085,Treatment Planning,2025-02-26 08:34:00,Colon,Normal,Oncology
+C0085,Treatment Start,2025-03-03 12:30:00,Colon,Normal,Treatment Unit
+C0085,Follow-Up,2025-03-24 12:59:00,Colon,Normal,Oncology
+C0086,Referral Received,2025-01-19 14:40:00,Colon,Normal,Referral Office
+C0086,Intake Review,2025-01-20 20:11:00,Colon,Normal,Referral Office
+C0086,Initial Consultation,2025-01-26 01:33:00,Colon,Normal,Oncology
+C0086,Diagnostic Imaging,2025-02-02 02:51:00,Colon,Normal,Radiology
+C0086,Diagnosis Confirmed,2025-02-05 06:45:00,Colon,Normal,Pathology
+C0086,Treatment Planning,2025-02-08 11:26:00,Colon,Normal,Oncology
+C0086,Treatment Start,2025-02-14 14:07:00,Colon,Normal,Treatment Unit
+C0086,Follow-Up,2025-02-28 17:23:00,Colon,Normal,Oncology
+C0087,Referral Received,2025-02-16 14:54:00,Colon,Normal,Referral Office
+C0087,Intake Review,2025-02-17 22:13:00,Colon,Normal,Referral Office
+C0087,Initial Consultation,2025-02-20 03:48:00,Colon,Normal,Oncology
+C0087,Diagnostic Imaging,2025-02-27 08:31:00,Colon,Normal,Radiology
+C0087,Diagnosis Confirmed,2025-03-03 13:11:00,Colon,Normal,Pathology
+C0087,Treatment Planning,2025-03-07 17:23:00,Colon,Normal,Oncology
+C0087,Treatment Start,2025-03-16 00:05:00,Colon,Normal,Treatment Unit
+C0087,Follow-Up,2025-03-30 07:23:00,Colon,Normal,Oncology
+C0088,Referral Received,2025-01-03 13:46:00,Prostate,Normal,Referral Office
+C0088,Intake Review,2025-01-06 21:44:00,Prostate,Normal,Referral Office
+C0088,Initial Consultation,2025-01-10 00:02:00,Prostate,Normal,Oncology
+C0088,Diagnostic Imaging,2025-01-17 02:45:00,Prostate,Normal,Radiology
+C0088,Diagnosis Confirmed,2025-01-20 07:59:00,Prostate,Normal,Pathology
+C0088,Treatment Planning,2025-01-24 13:15:00,Prostate,Normal,Oncology
+C0088,Treatment Start,2025-01-29 20:18:00,Prostate,Normal,Treatment Unit
+C0088,Follow-Up,2025-02-15 04:14:00,Prostate,Normal,Oncology
+C0089,Referral Received,2025-02-14 14:03:00,Blood,Normal,Referral Office
+C0089,Intake Review,2025-02-15 19:29:00,Blood,Normal,Referral Office
+C0089,Initial Consultation,2025-02-18 21:00:00,Blood,Normal,Oncology
+C0089,Diagnostic Imaging,2025-02-24 02:40:00,Blood,Normal,Radiology
+C0089,Diagnosis Confirmed,2025-02-28 06:28:00,Blood,Normal,Pathology
+C0089,Treatment Planning,2025-03-03 14:18:00,Blood,Normal,Oncology
+C0089,Treatment Start,2025-03-16 20:43:00,Blood,Normal,Treatment Unit
+C0089,Follow-Up,2025-04-11 20:45:00,Blood,Normal,Oncology
+C0090,Referral Received,2025-01-01 08:43:00,Breast,Normal,Referral Office
+C0090,Intake Review,2025-01-02 12:27:00,Breast,Normal,Referral Office
+C0090,Initial Consultation,2025-01-04 18:59:00,Breast,Normal,Oncology
+C0090,Diagnostic Imaging,2025-01-08 19:18:00,Breast,Normal,Radiology
+C0090,Diagnosis Confirmed,2025-01-15 00:45:00,Breast,Normal,Pathology
+C0090,Treatment Planning,2025-01-20 06:33:00,Breast,Normal,Oncology
+C0090,Treatment Start,2025-01-31 09:47:00,Breast,Normal,Treatment Unit
+C0090,Follow-Up,2025-02-20 10:24:00,Breast,Normal,Oncology
+C0091,Referral Received,2025-02-15 14:56:00,Breast,Normal,Referral Office
+C0091,Intake Review,2025-02-18 15:34:00,Breast,Normal,Referral Office
+C0091,Initial Consultation,2025-02-20 16:18:00,Breast,Normal,Oncology
+C0091,Diagnostic Imaging,2025-03-01 17:53:00,Breast,Normal,Radiology
+C0091,Diagnosis Confirmed,2025-03-04 21:37:00,Breast,Normal,Pathology
+C0091,Treatment Planning,2025-03-07 02:16:00,Breast,Normal,Oncology
+C0091,Treatment Start,2025-03-18 03:34:00,Breast,Normal,Treatment Unit
+C0091,Follow-Up,2025-04-16 07:12:00,Breast,Normal,Oncology
+C0092,Referral Received,2025-01-13 12:10:00,Colon,Urgent,Referral Office
+C0092,Intake Review,2025-01-14 19:31:00,Colon,Urgent,Referral Office
+C0092,Initial Consultation,2025-01-16 21:24:00,Colon,Urgent,Oncology
+C0092,Diagnostic Imaging,2025-01-19 23:13:00,Colon,Urgent,Radiology
+C0092,Diagnosis Confirmed,2025-01-22 03:54:00,Colon,Urgent,Pathology
+C0092,Treatment Planning,2025-01-24 08:23:00,Colon,Urgent,Oncology
+C0092,Treatment Start,2025-01-29 12:46:00,Colon,Urgent,Treatment Unit
+C0092,Follow-Up,2025-02-13 14:40:00,Colon,Urgent,Oncology
+C0093,Referral Received,2025-02-12 13:57:00,Lung,Urgent,Referral Office
+C0093,Intake Review,2025-02-13 15:20:00,Lung,Urgent,Referral Office
+C0093,Initial Consultation,2025-02-16 21:49:00,Lung,Urgent,Oncology
+C0093,Diagnostic Imaging,2025-02-28 23:56:00,Lung,Urgent,Radiology
+C0093,Diagnosis Confirmed,2025-03-03 02:02:00,Lung,Urgent,Pathology
+C0093,Treatment Planning,2025-03-06 09:13:00,Lung,Urgent,Oncology
+C0093,Treatment Start,2025-03-13 10:08:00,Lung,Urgent,Treatment Unit
+C0093,Follow-Up,2025-03-29 18:06:00,Lung,Urgent,Oncology
+C0094,Referral Received,2025-01-29 13:00:00,Lung,Urgent,Referral Office
+C0094,Intake Review,2025-01-30 18:33:00,Lung,Urgent,Referral Office
+C0094,Initial Consultation,2025-02-02 01:55:00,Lung,Urgent,Oncology
+C0094,Diagnostic Imaging,2025-02-11 01:55:00,Lung,Urgent,Radiology
+C0094,Diagnosis Confirmed,2025-02-14 09:50:00,Lung,Urgent,Pathology
+C0094,Treatment Planning,2025-02-17 15:05:00,Lung,Urgent,Oncology
+C0094,Treatment Start,2025-02-21 18:40:00,Lung,Urgent,Treatment Unit
+C0094,Follow-Up,2025-03-12 20:09:00,Lung,Urgent,Oncology
+C0095,Referral Received,2025-02-01 15:47:00,Blood,Normal,Referral Office
+C0095,Intake Review,2025-02-03 16:22:00,Blood,Normal,Referral Office
+C0095,Initial Consultation,2025-02-07 20:03:00,Blood,Normal,Oncology
+C0095,Diagnostic Imaging,2025-02-16 01:55:00,Blood,Normal,Radiology
+C0095,Diagnosis Confirmed,2025-02-21 07:30:00,Blood,Normal,Pathology
+C0095,Treatment Planning,2025-02-25 14:37:00,Blood,Normal,Oncology
+C0095,Treatment Start,2025-03-05 19:59:00,Blood,Normal,Treatment Unit
+C0095,Follow-Up,2025-03-29 01:43:00,Blood,Normal,Oncology
+C0096,Referral Received,2025-02-01 09:16:00,Lung,Urgent,Referral Office
+C0096,Intake Review,2025-02-02 12:45:00,Lung,Urgent,Referral Office
+C0096,Initial Consultation,2025-02-04 18:47:00,Lung,Urgent,Oncology
+C0096,Diagnostic Imaging,2025-02-12 02:29:00,Lung,Urgent,Radiology
+C0096,Diagnosis Confirmed,2025-02-14 03:04:00,Lung,Urgent,Pathology
+C0096,Treatment Planning,2025-02-17 05:48:00,Lung,Urgent,Oncology
+C0096,Treatment Start,2025-02-21 07:12:00,Lung,Urgent,Treatment Unit
+C0096,Follow-Up,2025-03-15 13:38:00,Lung,Urgent,Oncology
+C0097,Referral Received,2025-01-23 10:08:00,Breast,Normal,Referral Office
+C0097,Intake Review,2025-01-26 15:01:00,Breast,Normal,Referral Office
+C0097,Initial Consultation,2025-01-29 18:14:00,Breast,Normal,Oncology
+C0097,Diagnostic Imaging,2025-02-06 20:59:00,Breast,Normal,Radiology
+C0097,Diagnosis Confirmed,2025-02-14 02:44:00,Breast,Normal,Pathology
+C0097,Treatment Planning,2025-02-19 09:27:00,Breast,Normal,Oncology
+C0097,Treatment Start,2025-03-05 16:18:00,Breast,Normal,Treatment Unit
+C0097,Follow-Up,2025-03-19 22:27:00,Breast,Normal,Oncology
+C0098,Referral Received,2025-01-12 10:53:00,Lung,Normal,Referral Office
+C0098,Intake Review,2025-01-14 14:41:00,Lung,Normal,Referral Office
+C0098,Initial Consultation,2025-01-19 16:20:00,Lung,Normal,Oncology
+C0098,Diagnostic Imaging,2025-01-29 19:52:00,Lung,Normal,Radiology
+C0098,Diagnosis Confirmed,2025-02-01 02:16:00,Lung,Normal,Pathology
+C0098,Treatment Planning,2025-02-05 02:16:00,Lung,Normal,Oncology
+C0098,Treatment Start,2025-02-16 06:14:00,Lung,Normal,Treatment Unit
+C0098,Follow-Up,2025-03-13 10:03:00,Lung,Normal,Oncology
+C0099,Referral Received,2025-01-12 10:11:00,Breast,Normal,Referral Office
+C0099,Intake Review,2025-01-14 14:46:00,Breast,Normal,Referral Office
+C0099,Initial Consultation,2025-01-18 15:07:00,Breast,Normal,Oncology
+C0099,Diagnostic Imaging,2025-01-23 15:16:00,Breast,Normal,Radiology
+C0099,Diagnosis Confirmed,2025-01-30 19:47:00,Breast,Normal,Pathology
+C0099,Treatment Planning,2025-02-03 22:58:00,Breast,Normal,Oncology
+C0099,Treatment Start,2025-02-17 05:32:00,Breast,Normal,Treatment Unit
+C0099,Follow-Up,2025-03-14 09:28:00,Breast,Normal,Oncology
+C0100,Referral Received,2025-01-20 08:07:00,Colon,Normal,Referral Office
+C0100,Intake Review,2025-01-23 11:09:00,Colon,Normal,Referral Office
+C0100,Initial Consultation,2025-01-25 17:25:00,Colon,Normal,Oncology
+C0100,Diagnostic Imaging,2025-01-28 22:57:00,Colon,Normal,Radiology
+C0100,Diagnosis Confirmed,2025-02-02 02:17:00,Colon,Normal,Pathology
+C0100,Treatment Planning,2025-02-05 02:57:00,Colon,Normal,Oncology
+C0100,Treatment Start,2025-02-15 09:50:00,Colon,Normal,Treatment Unit
+C0100,Follow-Up,2025-03-14 11:37:00,Colon,Normal,Oncology
+C0101,Referral Received,2025-02-15 09:03:00,Breast,Normal,Referral Office
+C0101,Intake Review,2025-02-18 10:39:00,Breast,Normal,Referral Office
+C0101,Initial Consultation,2025-02-23 17:07:00,Breast,Normal,Oncology
+C0101,Diagnostic Imaging,2025-03-03 17:31:00,Breast,Normal,Radiology
+C0101,Diagnosis Confirmed,2025-03-10 19:19:00,Breast,Normal,Pathology
+C0101,Treatment Planning,2025-03-13 01:18:00,Breast,Normal,Oncology
+C0101,Treatment Start,2025-03-24 02:36:00,Breast,Normal,Treatment Unit
+C0101,Follow-Up,2025-04-07 09:46:00,Breast,Normal,Oncology
+C0102,Referral Received,2025-01-27 10:19:00,Breast,Normal,Referral Office
+C0102,Intake Review,2025-01-28 12:26:00,Breast,Normal,Referral Office
+C0102,Initial Consultation,2025-02-02 13:45:00,Breast,Normal,Oncology
+C0102,Diagnostic Imaging,2025-02-10 17:11:00,Breast,Normal,Radiology
+C0102,Diagnosis Confirmed,2025-02-13 21:23:00,Breast,Normal,Pathology
+C0102,Treatment Planning,2025-02-16 05:04:00,Breast,Normal,Oncology
+C0102,Treatment Start,2025-02-23 06:16:00,Breast,Normal,Treatment Unit
+C0102,Follow-Up,2025-03-19 11:24:00,Breast,Normal,Oncology
+C0103,Referral Received,2025-02-09 13:31:00,Breast,Normal,Referral Office
+C0103,Intake Review,2025-02-12 18:15:00,Breast,Normal,Referral Office
+C0103,Initial Consultation,2025-02-16 23:42:00,Breast,Normal,Oncology
+C0103,Diagnostic Imaging,2025-02-23 03:27:00,Breast,Normal,Radiology
+C0103,Diagnosis Confirmed,2025-02-27 06:10:00,Breast,Normal,Pathology
+C0103,Treatment Planning,2025-03-04 13:32:00,Breast,Normal,Oncology
+C0103,Treatment Start,2025-03-10 15:25:00,Breast,Normal,Treatment Unit
+C0103,Follow-Up,2025-03-28 18:41:00,Breast,Normal,Oncology
+C0104,Referral Received,2025-01-02 14:49:00,Lung,Normal,Referral Office
+C0104,Intake Review,2025-01-05 19:23:00,Lung,Normal,Referral Office
+C0104,Initial Consultation,2025-01-09 00:48:00,Lung,Normal,Oncology
+C0104,Diagnostic Imaging,2025-01-18 08:20:00,Lung,Normal,Radiology
+C0104,Diagnosis Confirmed,2025-01-24 09:02:00,Lung,Normal,Pathology
+C0104,Treatment Planning,2025-01-27 11:30:00,Lung,Normal,Oncology
+C0104,Treatment Start,2025-02-02 18:52:00,Lung,Normal,Treatment Unit
+C0104,Follow-Up,2025-03-03 21:56:00,Lung,Normal,Oncology
+C0105,Referral Received,2025-02-13 14:30:00,Colon,Normal,Referral Office
+C0105,Intake Review,2025-02-14 19:36:00,Colon,Normal,Referral Office
+C0105,Initial Consultation,2025-02-18 22:00:00,Colon,Normal,Oncology
+C0105,Diagnostic Imaging,2025-02-23 02:24:00,Colon,Normal,Radiology
+C0105,Diagnosis Confirmed,2025-02-27 07:55:00,Colon,Normal,Pathology
+C0105,Treatment Planning,2025-03-01 10:23:00,Colon,Normal,Oncology
+C0105,Treatment Start,2025-03-16 14:36:00,Colon,Normal,Treatment Unit
+C0105,Follow-Up,2025-04-10 16:18:00,Colon,Normal,Oncology
+C0106,Referral Received,2025-01-08 15:13:00,Prostate,Urgent,Referral Office
+C0106,Intake Review,2025-01-09 15:28:00,Prostate,Urgent,Referral Office
+C0106,Initial Consultation,2025-01-11 18:08:00,Prostate,Urgent,Oncology
+C0106,Diagnostic Imaging,2025-01-14 18:18:00,Prostate,Urgent,Radiology
+C0106,Diagnosis Confirmed,2025-01-19 00:56:00,Prostate,Urgent,Pathology
+C0106,Treatment Planning,2025-01-21 02:09:00,Prostate,Urgent,Oncology
+C0106,Treatment Start,2025-01-30 09:19:00,Prostate,Urgent,Treatment Unit
+C0106,Follow-Up,2025-02-15 11:58:00,Prostate,Urgent,Oncology
+C0107,Referral Received,2025-02-14 09:14:00,Blood,Normal,Referral Office
+C0107,Intake Review,2025-02-15 09:26:00,Blood,Normal,Referral Office
+C0107,Initial Consultation,2025-02-17 11:56:00,Blood,Normal,Oncology
+C0107,Diagnostic Imaging,2025-02-21 13:26:00,Blood,Normal,Radiology
+C0107,Diagnosis Confirmed,2025-02-27 14:23:00,Blood,Normal,Pathology
+C0107,Treatment Planning,2025-03-03 15:07:00,Blood,Normal,Oncology
+C0107,Treatment Start,2025-03-16 20:44:00,Blood,Normal,Treatment Unit
+C0107,Follow-Up,2025-04-03 02:52:00,Blood,Normal,Oncology
+C0108,Referral Received,2025-01-06 12:12:00,Prostate,Urgent,Referral Office
+C0108,Intake Review,2025-01-07 13:45:00,Prostate,Urgent,Referral Office
+C0108,Initial Consultation,2025-01-09 19:11:00,Prostate,Urgent,Oncology
+C0108,Diagnostic Imaging,2025-01-16 23:27:00,Prostate,Urgent,Radiology
+C0108,Diagnosis Confirmed,2025-01-21 04:10:00,Prostate,Urgent,Pathology
+C0108,Treatment Planning,2025-01-24 11:21:00,Prostate,Urgent,Oncology
+C0108,Treatment Start,2025-02-02 15:40:00,Prostate,Urgent,Treatment Unit
+C0108,Follow-Up,2025-02-26 18:34:00,Prostate,Urgent,Oncology
+C0109,Referral Received,2025-01-29 09:13:00,Lung,Normal,Referral Office
+C0109,Intake Review,2025-02-01 09:23:00,Lung,Normal,Referral Office
+C0109,Initial Consultation,2025-02-03 11:15:00,Lung,Normal,Oncology
+C0109,Diagnostic Imaging,2025-02-13 12:31:00,Lung,Normal,Radiology
+C0109,Diagnosis Confirmed,2025-02-19 13:17:00,Lung,Normal,Pathology
+C0109,Treatment Planning,2025-02-24 18:02:00,Lung,Normal,Oncology
+C0109,Treatment Start,2025-03-03 01:30:00,Lung,Normal,Treatment Unit
+C0109,Follow-Up,2025-04-02 05:42:00,Lung,Normal,Oncology
+C0110,Referral Received,2025-02-14 08:23:00,Blood,Normal,Referral Office
+C0110,Intake Review,2025-02-15 09:40:00,Blood,Normal,Referral Office
+C0110,Initial Consultation,2025-02-20 16:17:00,Blood,Normal,Oncology
+C0110,Diagnostic Imaging,2025-02-24 17:52:00,Blood,Normal,Radiology
+C0110,Diagnosis Confirmed,2025-03-02 23:14:00,Blood,Normal,Pathology
+C0110,Treatment Planning,2025-03-06 07:13:00,Blood,Normal,Oncology
+C0110,Treatment Start,2025-03-15 13:45:00,Blood,Normal,Treatment Unit
+C0110,Follow-Up,2025-04-14 18:06:00,Blood,Normal,Oncology
+C0111,Referral Received,2025-02-04 15:24:00,Blood,Urgent,Referral Office
+C0111,Intake Review,2025-02-05 23:07:00,Blood,Urgent,Referral Office
+C0111,Initial Consultation,2025-02-08 06:14:00,Blood,Urgent,Oncology
+C0111,Diagnostic Imaging,2025-02-12 10:05:00,Blood,Urgent,Radiology
+C0111,Diagnosis Confirmed,2025-02-14 10:49:00,Blood,Urgent,Pathology
+C0111,Treatment Planning,2025-02-16 17:32:00,Blood,Urgent,Oncology
+C0111,Treatment Start,2025-02-23 20:02:00,Blood,Urgent,Treatment Unit
+C0111,Follow-Up,2025-03-15 22:49:00,Blood,Urgent,Oncology
+C0112,Referral Received,2025-01-13 12:13:00,Breast,Normal,Referral Office
+C0112,Intake Review,2025-01-14 17:22:00,Breast,Normal,Referral Office
+C0112,Initial Consultation,2025-01-17 01:01:00,Breast,Normal,Oncology
+C0112,Diagnostic Imaging,2025-01-20 08:24:00,Breast,Normal,Radiology
+C0112,Diagnosis Confirmed,2025-01-26 12:55:00,Breast,Normal,Pathology
+C0112,Treatment Planning,2025-01-30 19:09:00,Breast,Normal,Oncology
+C0112,Treatment Start,2025-02-14 02:43:00,Breast,Normal,Treatment Unit
+C0112,Follow-Up,2025-03-12 05:12:00,Breast,Normal,Oncology
+C0113,Referral Received,2025-02-14 14:37:00,Blood,Normal,Referral Office
+C0113,Intake Review,2025-02-17 18:48:00,Blood,Normal,Referral Office
+C0113,Initial Consultation,2025-02-23 00:11:00,Blood,Normal,Oncology
+C0113,Diagnostic Imaging,2025-03-01 06:55:00,Blood,Normal,Radiology
+C0113,Diagnosis Confirmed,2025-03-06 11:23:00,Blood,Normal,Pathology
+C0113,Treatment Planning,2025-03-09 13:09:00,Blood,Normal,Oncology
+C0113,Treatment Start,2025-03-23 19:21:00,Blood,Normal,Treatment Unit
+C0113,Follow-Up,2025-04-11 03:12:00,Blood,Normal,Oncology
+C0114,Referral Received,2025-01-10 15:19:00,Breast,Normal,Referral Office
+C0114,Intake Review,2025-01-13 15:44:00,Breast,Normal,Referral Office
+C0114,Initial Consultation,2025-01-15 19:36:00,Breast,Normal,Oncology
+C0114,Diagnostic Imaging,2025-01-20 03:23:00,Breast,Normal,Radiology
+C0114,Diagnosis Confirmed,2025-01-24 07:45:00,Breast,Normal,Pathology
+C0114,Treatment Planning,2025-01-28 11:21:00,Breast,Normal,Oncology
+C0114,Treatment Start,2025-02-10 15:43:00,Breast,Normal,Treatment Unit
+C0114,Follow-Up,2025-03-11 23:39:00,Breast,Normal,Oncology
+C0115,Referral Received,2025-01-30 10:40:00,Prostate,Normal,Referral Office
+C0115,Intake Review,2025-02-02 17:34:00,Prostate,Normal,Referral Office
+C0115,Initial Consultation,2025-02-06 20:54:00,Prostate,Normal,Oncology
+C0115,Diagnostic Imaging,2025-02-14 03:11:00,Prostate,Normal,Radiology
+C0115,Diagnosis Confirmed,2025-02-18 10:37:00,Prostate,Normal,Pathology
+C0115,Treatment Planning,2025-02-20 13:23:00,Prostate,Normal,Oncology
+C0115,Treatment Start,2025-02-25 16:33:00,Prostate,Normal,Treatment Unit
+C0115,Follow-Up,2025-03-14 00:08:00,Prostate,Normal,Oncology
+C0116,Referral Received,2025-02-03 09:16:00,Lung,Urgent,Referral Office
+C0116,Intake Review,2025-02-04 13:30:00,Lung,Urgent,Referral Office
+C0116,Initial Consultation,2025-02-07 15:38:00,Lung,Urgent,Oncology
+C0116,Diagnostic Imaging,2025-02-11 21:33:00,Lung,Urgent,Radiology
+C0116,Diagnosis Confirmed,2025-02-15 02:08:00,Lung,Urgent,Pathology
+C0116,Treatment Planning,2025-02-17 09:48:00,Lung,Urgent,Oncology
+C0116,Treatment Start,2025-02-25 14:46:00,Lung,Urgent,Treatment Unit
+C0116,Follow-Up,2025-03-16 16:14:00,Lung,Urgent,Oncology
+C0117,Referral Received,2025-01-10 10:22:00,Colon,Normal,Referral Office
+C0117,Intake Review,2025-01-11 18:10:00,Colon,Normal,Referral Office
+C0117,Initial Consultation,2025-01-16 22:48:00,Colon,Normal,Oncology
+C0117,Diagnostic Imaging,2025-01-25 02:14:00,Colon,Normal,Radiology
+C0117,Diagnosis Confirmed,2025-01-28 09:07:00,Colon,Normal,Pathology
+C0117,Treatment Planning,2025-01-30 15:47:00,Colon,Normal,Oncology
+C0117,Treatment Start,2025-02-09 20:13:00,Colon,Normal,Treatment Unit
+C0117,Follow-Up,2025-02-28 22:31:00,Colon,Normal,Oncology
+C0118,Referral Received,2025-01-19 11:20:00,Prostate,Normal,Referral Office
+C0118,Intake Review,2025-01-22 11:31:00,Prostate,Normal,Referral Office
+C0118,Initial Consultation,2025-01-25 19:17:00,Prostate,Normal,Oncology
+C0118,Diagnostic Imaging,2025-01-30 19:48:00,Prostate,Normal,Radiology
+C0118,Diagnosis Confirmed,2025-02-04 03:11:00,Prostate,Normal,Pathology
+C0118,Treatment Planning,2025-02-06 08:16:00,Prostate,Normal,Oncology
+C0118,Treatment Start,2025-02-16 09:50:00,Prostate,Normal,Treatment Unit
+C0118,Follow-Up,2025-03-10 16:43:00,Prostate,Normal,Oncology
+C0119,Referral Received,2025-02-15 11:47:00,Lung,Urgent,Referral Office
+C0119,Intake Review,2025-02-16 13:20:00,Lung,Urgent,Referral Office
+C0119,Initial Consultation,2025-02-18 18:30:00,Lung,Urgent,Oncology
+C0119,Diagnostic Imaging,2025-02-25 02:10:00,Lung,Urgent,Radiology
+C0119,Diagnosis Confirmed,2025-02-27 05:17:00,Lung,Urgent,Pathology
+C0119,Treatment Planning,2025-03-01 05:27:00,Lung,Urgent,Oncology
+C0119,Treatment Start,2025-03-09 08:27:00,Lung,Urgent,Treatment Unit
+C0119,Follow-Up,2025-04-05 10:50:00,Lung,Urgent,Oncology
+C0120,Referral Received,2025-01-07 08:03:00,Breast,Normal,Referral Office
+C0120,Intake Review,2025-01-10 09:11:00,Breast,Normal,Referral Office
+C0120,Initial Consultation,2025-01-14 16:57:00,Breast,Normal,Oncology
+C0120,Diagnostic Imaging,2025-01-23 22:43:00,Breast,Normal,Radiology
+C0120,Diagnosis Confirmed,2025-01-26 06:28:00,Breast,Normal,Pathology
+C0120,Treatment Planning,2025-01-31 10:04:00,Breast,Normal,Oncology
+C0120,Treatment Start,2025-02-12 17:21:00,Breast,Normal,Treatment Unit
+C0120,Follow-Up,2025-03-03 18:54:00,Breast,Normal,Oncology
+C0121,Referral Received,2025-01-18 08:49:00,Prostate,Normal,Referral Office
+C0121,Intake Review,2025-01-19 14:38:00,Prostate,Normal,Referral Office
+C0121,Initial Consultation,2025-01-21 20:50:00,Prostate,Normal,Oncology
+C0121,Diagnostic Imaging,2025-01-27 01:10:00,Prostate,Normal,Radiology
+C0121,Diagnosis Confirmed,2025-01-29 02:43:00,Prostate,Normal,Pathology
+C0121,Treatment Planning,2025-02-01 05:38:00,Prostate,Normal,Oncology
+C0121,Treatment Start,2025-02-12 08:44:00,Prostate,Normal,Treatment Unit
+C0121,Follow-Up,2025-03-10 16:17:00,Prostate,Normal,Oncology
+C0122,Referral Received,2025-01-24 08:59:00,Blood,Normal,Referral Office
+C0122,Intake Review,2025-01-25 16:50:00,Blood,Normal,Referral Office
+C0122,Initial Consultation,2025-01-30 22:40:00,Blood,Normal,Oncology
+C0122,Diagnostic Imaging,2025-02-06 23:26:00,Blood,Normal,Radiology
+C0122,Diagnosis Confirmed,2025-02-09 02:59:00,Blood,Normal,Pathology
+C0122,Treatment Planning,2025-02-12 09:11:00,Blood,Normal,Oncology
+C0122,Treatment Start,2025-02-22 11:46:00,Blood,Normal,Treatment Unit
+C0122,Follow-Up,2025-03-11 17:29:00,Blood,Normal,Oncology
+C0123,Referral Received,2025-01-11 13:42:00,Prostate,Urgent,Referral Office
+C0123,Intake Review,2025-01-12 21:41:00,Prostate,Urgent,Referral Office
+C0123,Initial Consultation,2025-01-15 03:07:00,Prostate,Urgent,Oncology
+C0123,Diagnostic Imaging,2025-01-21 06:43:00,Prostate,Urgent,Radiology
+C0123,Diagnosis Confirmed,2025-01-25 11:06:00,Prostate,Urgent,Pathology
+C0123,Treatment Planning,2025-01-28 11:52:00,Prostate,Urgent,Oncology
+C0123,Treatment Start,2025-02-01 14:48:00,Prostate,Urgent,Treatment Unit
+C0124,Referral Received,2025-01-22 10:06:00,Breast,Normal,Referral Office
+C0124,Intake Review,2025-01-23 12:22:00,Breast,Normal,Referral Office
+C0124,Initial Consultation,2025-01-26 15:38:00,Breast,Normal,Oncology
+C0124,Diagnostic Imaging,2025-02-04 19:24:00,Breast,Normal,Radiology
+C0124,Diagnosis Confirmed,2025-02-09 21:55:00,Breast,Normal,Pathology
+C0124,Treatment Planning,2025-02-13 22:41:00,Breast,Normal,Oncology
+C0124,Treatment Start,2025-02-20 04:37:00,Breast,Normal,Treatment Unit
+C0124,Follow-Up,2025-03-09 08:24:00,Breast,Normal,Oncology
+C0125,Referral Received,2025-02-10 08:19:00,Blood,Urgent,Referral Office
+C0125,Intake Review,2025-02-11 10:39:00,Blood,Urgent,Referral Office
+C0125,Initial Consultation,2025-02-14 18:27:00,Blood,Urgent,Oncology
+C0125,Diagnostic Imaging,2025-02-17 21:54:00,Blood,Urgent,Radiology
+C0125,Diagnosis Confirmed,2025-02-20 00:15:00,Blood,Urgent,Pathology
+C0125,Treatment Planning,2025-02-22 06:31:00,Blood,Urgent,Oncology
+C0125,Treatment Start,2025-03-05 09:19:00,Blood,Urgent,Treatment Unit
+C0125,Follow-Up,2025-03-23 16:44:00,Blood,Urgent,Oncology
+C0126,Referral Received,2025-02-09 11:04:00,Blood,Normal,Referral Office
+C0126,Intake Review,2025-02-11 12:11:00,Blood,Normal,Referral Office
+C0126,Initial Consultation,2025-02-15 15:31:00,Blood,Normal,Oncology
+C0126,Diagnostic Imaging,2025-02-18 19:41:00,Blood,Normal,Radiology
+C0126,Diagnosis Confirmed,2025-02-23 22:09:00,Blood,Normal,Pathology
+C0126,Treatment Planning,2025-02-27 01:52:00,Blood,Normal,Oncology
+C0126,Treatment Start,2025-03-05 02:07:00,Blood,Normal,Treatment Unit
+C0126,Follow-Up,2025-03-28 02:28:00,Blood,Normal,Oncology
+C0127,Referral Received,2025-01-31 11:13:00,Lung,Normal,Referral Office
+C0127,Intake Review,2025-02-03 13:57:00,Lung,Normal,Referral Office
+C0127,Initial Consultation,2025-02-05 18:07:00,Lung,Normal,Oncology
+C0127,Diagnostic Imaging,2025-02-14 01:48:00,Lung,Normal,Radiology
+C0127,Diagnosis Confirmed,2025-02-21 06:30:00,Lung,Normal,Pathology
+C0127,Treatment Planning,2025-02-23 11:25:00,Lung,Normal,Oncology
+C0127,Treatment Start,2025-03-05 13:22:00,Lung,Normal,Treatment Unit
+C0127,Follow-Up,2025-03-21 15:34:00,Lung,Normal,Oncology
+C0128,Referral Received,2025-02-15 12:21:00,Prostate,Normal,Referral Office
+C0128,Intake Review,2025-02-16 12:43:00,Prostate,Normal,Referral Office
+C0128,Initial Consultation,2025-02-20 16:15:00,Prostate,Normal,Oncology
+C0128,Diagnostic Imaging,2025-02-27 23:11:00,Prostate,Normal,Radiology
+C0128,Diagnosis Confirmed,2025-03-04 02:20:00,Prostate,Normal,Pathology
+C0128,Treatment Planning,2025-03-07 04:06:00,Prostate,Normal,Oncology
+C0128,Treatment Start,2025-03-14 10:21:00,Prostate,Normal,Treatment Unit
+C0128,Follow-Up,2025-04-06 15:49:00,Prostate,Normal,Oncology
+C0129,Referral Received,2025-01-09 10:19:00,Breast,Normal,Referral Office
+C0129,Intake Review,2025-01-10 12:39:00,Breast,Normal,Referral Office
+C0129,Initial Consultation,2025-01-12 14:59:00,Breast,Normal,Oncology
+C0129,Diagnostic Imaging,2025-01-20 21:25:00,Breast,Normal,Radiology
+C0129,Diagnosis Confirmed,2025-01-28 01:34:00,Breast,Normal,Pathology
+C0129,Treatment Planning,2025-01-31 02:22:00,Breast,Normal,Oncology
+C0129,Treatment Start,2025-02-10 05:36:00,Breast,Normal,Treatment Unit
+C0130,Referral Received,2025-02-01 13:11:00,Lung,Normal,Referral Office
+C0130,Intake Review,2025-02-02 15:23:00,Lung,Normal,Referral Office
+C0130,Initial Consultation,2025-02-04 19:49:00,Lung,Normal,Oncology
+C0130,Diagnostic Imaging,2025-02-12 21:00:00,Lung,Normal,Radiology
+C0130,Diagnosis Confirmed,2025-02-18 02:55:00,Lung,Normal,Pathology
+C0130,Treatment Planning,2025-02-23 09:44:00,Lung,Normal,Oncology
+C0130,Treatment Start,2025-03-05 15:09:00,Lung,Normal,Treatment Unit
+C0130,Follow-Up,2025-04-04 15:42:00,Lung,Normal,Oncology
+C0131,Referral Received,2025-01-03 14:47:00,Prostate,Normal,Referral Office
+C0131,Intake Review,2025-01-06 14:59:00,Prostate,Normal,Referral Office
+C0131,Initial Consultation,2025-01-10 19:28:00,Prostate,Normal,Oncology
+C0131,Diagnostic Imaging,2025-01-13 21:57:00,Prostate,Normal,Radiology
+C0131,Diagnosis Confirmed,2025-01-19 23:08:00,Prostate,Normal,Pathology
+C0131,Treatment Planning,2025-01-24 06:09:00,Prostate,Normal,Oncology
+C0131,Treatment Start,2025-01-31 13:14:00,Prostate,Normal,Treatment Unit
+C0131,Follow-Up,2025-02-19 14:19:00,Prostate,Normal,Oncology
+C0132,Referral Received,2025-01-07 10:24:00,Prostate,Normal,Referral Office
+C0132,Intake Review,2025-01-08 16:00:00,Prostate,Normal,Referral Office
+C0132,Initial Consultation,2025-01-11 18:49:00,Prostate,Normal,Oncology
+C0132,Diagnostic Imaging,2025-01-18 23:35:00,Prostate,Normal,Radiology
+C0132,Diagnosis Confirmed,2025-01-22 01:32:00,Prostate,Normal,Pathology
+C0132,Treatment Planning,2025-01-24 05:32:00,Prostate,Normal,Oncology
+C0132,Treatment Start,2025-02-04 06:10:00,Prostate,Normal,Treatment Unit
+C0132,Follow-Up,2025-03-05 13:36:00,Prostate,Normal,Oncology
+C0133,Referral Received,2025-01-02 11:03:00,Lung,Normal,Referral Office
+C0133,Intake Review,2025-01-05 16:05:00,Lung,Normal,Referral Office
+C0133,Initial Consultation,2025-01-09 22:03:00,Lung,Normal,Oncology
+C0133,Diagnostic Imaging,2025-01-21 00:46:00,Lung,Normal,Radiology
+C0133,Diagnosis Confirmed,2025-01-28 03:15:00,Lung,Normal,Pathology
+C0133,Treatment Planning,2025-01-30 07:35:00,Lung,Normal,Oncology
+C0133,Treatment Start,2025-02-04 14:28:00,Lung,Normal,Treatment Unit
+C0134,Referral Received,2025-02-15 14:33:00,Prostate,Normal,Referral Office
+C0134,Intake Review,2025-02-18 14:39:00,Prostate,Normal,Referral Office
+C0134,Initial Consultation,2025-02-22 21:17:00,Prostate,Normal,Oncology
+C0134,Diagnostic Imaging,2025-03-02 23:56:00,Prostate,Normal,Radiology
+C0134,Diagnosis Confirmed,2025-03-10 07:27:00,Prostate,Normal,Pathology
+C0134,Treatment Planning,2025-03-13 11:39:00,Prostate,Normal,Oncology
+C0134,Treatment Start,2025-03-24 13:26:00,Prostate,Normal,Treatment Unit
+C0134,Follow-Up,2025-04-20 19:28:00,Prostate,Normal,Oncology
+C0135,Referral Received,2025-02-10 12:16:00,Colon,Normal,Referral Office
+C0135,Intake Review,2025-02-13 18:05:00,Colon,Normal,Referral Office
+C0135,Initial Consultation,2025-02-17 23:30:00,Colon,Normal,Oncology
+C0135,Diagnostic Imaging,2025-02-21 01:42:00,Colon,Normal,Radiology
+C0135,Diagnosis Confirmed,2025-02-28 09:40:00,Colon,Normal,Pathology
+C0135,Treatment Planning,2025-03-03 16:49:00,Colon,Normal,Oncology
+C0135,Treatment Start,2025-03-18 00:39:00,Colon,Normal,Treatment Unit
+C0135,Follow-Up,2025-04-02 05:15:00,Colon,Normal,Oncology
+C0136,Referral Received,2025-01-03 13:04:00,Colon,Normal,Referral Office
+C0136,Intake Review,2025-01-04 18:28:00,Colon,Normal,Referral Office
+C0136,Initial Consultation,2025-01-09 21:06:00,Colon,Normal,Oncology
+C0136,Diagnostic Imaging,2025-01-17 02:51:00,Colon,Normal,Radiology
+C0136,Diagnosis Confirmed,2025-01-19 10:47:00,Colon,Normal,Pathology
+C0136,Treatment Planning,2025-01-23 14:20:00,Colon,Normal,Oncology
+C0136,Treatment Start,2025-02-02 18:18:00,Colon,Normal,Treatment Unit
+C0136,Follow-Up,2025-02-17 02:15:00,Colon,Normal,Oncology
+C0137,Referral Received,2025-02-01 13:09:00,Breast,Normal,Referral Office
+C0137,Intake Review,2025-02-04 15:22:00,Breast,Normal,Referral Office
+C0137,Initial Consultation,2025-02-06 15:41:00,Breast,Normal,Oncology
+C0137,Diagnostic Imaging,2025-02-10 21:10:00,Breast,Normal,Radiology
+C0137,Diagnosis Confirmed,2025-02-18 01:11:00,Breast,Normal,Pathology
+C0137,Treatment Planning,2025-02-21 06:23:00,Breast,Normal,Oncology
+C0137,Treatment Start,2025-03-07 14:05:00,Breast,Normal,Treatment Unit
+C0137,Follow-Up,2025-03-26 18:12:00,Breast,Normal,Oncology
+C0138,Referral Received,2025-01-08 13:17:00,Blood,Normal,Referral Office
+C0138,Intake Review,2025-01-10 16:27:00,Blood,Normal,Referral Office
+C0138,Initial Consultation,2025-01-14 23:30:00,Blood,Normal,Oncology
+C0138,Diagnostic Imaging,2025-01-18 00:54:00,Blood,Normal,Radiology
+C0138,Diagnosis Confirmed,2025-01-23 03:39:00,Blood,Normal,Pathology
+C0138,Treatment Planning,2025-01-27 09:31:00,Blood,Normal,Oncology
+C0138,Treatment Start,2025-02-09 17:07:00,Blood,Normal,Treatment Unit
+C0138,Follow-Up,2025-03-09 18:36:00,Blood,Normal,Oncology
+C0139,Referral Received,2025-01-16 13:25:00,Prostate,Normal,Referral Office
+C0139,Intake Review,2025-01-19 19:15:00,Prostate,Normal,Referral Office
+C0139,Initial Consultation,2025-01-21 20:45:00,Prostate,Normal,Oncology
+C0139,Diagnostic Imaging,2025-01-31 23:03:00,Prostate,Normal,Radiology
+C0139,Diagnosis Confirmed,2025-02-04 00:28:00,Prostate,Normal,Pathology
+C0139,Treatment Planning,2025-02-06 05:02:00,Prostate,Normal,Oncology
+C0139,Treatment Start,2025-02-16 08:41:00,Prostate,Normal,Treatment Unit
+C0139,Follow-Up,2025-03-17 14:45:00,Prostate,Normal,Oncology
+C0140,Referral Received,2025-02-07 13:34:00,Breast,Urgent,Referral Office
+C0140,Intake Review,2025-02-08 15:21:00,Breast,Urgent,Referral Office
+C0140,Initial Consultation,2025-02-11 20:56:00,Breast,Urgent,Oncology
+C0140,Diagnostic Imaging,2025-02-15 01:21:00,Breast,Urgent,Radiology
+C0140,Diagnosis Confirmed,2025-02-20 07:41:00,Breast,Urgent,Pathology
+C0140,Treatment Planning,2025-02-22 08:54:00,Breast,Urgent,Oncology
+C0140,Treatment Start,2025-02-27 11:22:00,Breast,Urgent,Treatment Unit
+C0140,Follow-Up,2025-03-25 14:35:00,Breast,Urgent,Oncology
+C0141,Referral Received,2025-02-14 13:05:00,Colon,Normal,Referral Office
+C0141,Intake Review,2025-02-17 19:59:00,Colon,Normal,Referral Office
+C0141,Initial Consultation,2025-02-20 01:56:00,Colon,Normal,Oncology
+C0141,Diagnostic Imaging,2025-02-23 07:03:00,Colon,Normal,Radiology
+C0141,Diagnosis Confirmed,2025-02-26 13:47:00,Colon,Normal,Pathology
+C0141,Treatment Planning,2025-03-03 20:11:00,Colon,Normal,Oncology
+C0141,Treatment Start,2025-03-11 22:23:00,Colon,Normal,Treatment Unit
+C0141,Follow-Up,2025-04-06 04:32:00,Colon,Normal,Oncology
+C0142,Referral Received,2025-01-05 15:42:00,Breast,Normal,Referral Office
+C0142,Intake Review,2025-01-06 16:50:00,Breast,Normal,Referral Office
+C0142,Initial Consultation,2025-01-11 19:19:00,Breast,Normal,Oncology
+C0142,Diagnostic Imaging,2025-01-22 01:41:00,Breast,Normal,Radiology
+C0142,Diagnosis Confirmed,2025-01-28 02:17:00,Breast,Normal,Pathology
+C0142,Treatment Planning,2025-01-31 06:43:00,Breast,Normal,Oncology
+C0142,Treatment Start,2025-02-05 14:28:00,Breast,Normal,Treatment Unit
+C0142,Follow-Up,2025-03-06 15:37:00,Breast,Normal,Oncology
+C0143,Referral Received,2025-01-18 09:15:00,Blood,Urgent,Referral Office
+C0143,Intake Review,2025-01-19 10:58:00,Blood,Urgent,Referral Office
+C0143,Initial Consultation,2025-01-21 11:28:00,Blood,Urgent,Oncology
+C0143,Diagnostic Imaging,2025-01-29 16:54:00,Blood,Urgent,Radiology
+C0143,Diagnosis Confirmed,2025-01-31 21:04:00,Blood,Urgent,Pathology
+C0143,Treatment Planning,2025-02-03 01:07:00,Blood,Urgent,Oncology
+C0143,Treatment Start,2025-02-10 01:49:00,Blood,Urgent,Treatment Unit
+C0143,Follow-Up,2025-02-24 06:20:00,Blood,Urgent,Oncology
+C0144,Referral Received,2025-01-19 12:54:00,Breast,Normal,Referral Office
+C0144,Intake Review,2025-01-20 15:52:00,Breast,Normal,Referral Office
+C0144,Initial Consultation,2025-01-24 18:08:00,Breast,Normal,Oncology
+C0144,Diagnostic Imaging,2025-01-29 18:29:00,Breast,Normal,Radiology
+C0144,Diagnosis Confirmed,2025-02-04 21:22:00,Breast,Normal,Pathology
+C0144,Treatment Planning,2025-02-10 03:37:00,Breast,Normal,Oncology
+C0144,Treatment Start,2025-02-17 08:40:00,Breast,Normal,Treatment Unit
+C0144,Follow-Up,2025-03-06 08:50:00,Breast,Normal,Oncology
+C0145,Referral Received,2025-01-31 14:43:00,Prostate,Normal,Referral Office
+C0145,Intake Review,2025-02-01 20:43:00,Prostate,Normal,Referral Office
+C0145,Initial Consultation,2025-02-07 03:26:00,Prostate,Normal,Oncology
+C0145,Diagnostic Imaging,2025-02-10 05:24:00,Prostate,Normal,Radiology
+C0145,Diagnosis Confirmed,2025-02-15 09:45:00,Prostate,Normal,Pathology
+C0145,Treatment Planning,2025-02-17 14:26:00,Prostate,Normal,Oncology
+C0145,Treatment Start,2025-02-24 17:59:00,Prostate,Normal,Treatment Unit
+C0145,Follow-Up,2025-03-15 23:34:00,Prostate,Normal,Oncology
+C0146,Referral Received,2025-01-01 15:22:00,Lung,Urgent,Referral Office
+C0146,Intake Review,2025-01-02 18:24:00,Lung,Urgent,Referral Office
+C0146,Initial Consultation,2025-01-04 22:02:00,Lung,Urgent,Oncology
+C0146,Diagnostic Imaging,2025-01-09 00:26:00,Lung,Urgent,Radiology
+C0146,Diagnosis Confirmed,2025-01-14 02:42:00,Lung,Urgent,Pathology
+C0146,Treatment Planning,2025-01-16 10:41:00,Lung,Urgent,Oncology
+C0146,Treatment Start,2025-01-23 14:51:00,Lung,Urgent,Treatment Unit
+C0146,Follow-Up,2025-02-06 21:15:00,Lung,Urgent,Oncology
+C0147,Referral Received,2025-01-17 15:59:00,Lung,Normal,Referral Office
+C0147,Intake Review,2025-01-18 23:05:00,Lung,Normal,Referral Office
+C0147,Initial Consultation,2025-01-24 02:44:00,Lung,Normal,Oncology
+C0147,Diagnostic Imaging,2025-02-06 03:46:00,Lung,Normal,Radiology
+C0147,Diagnosis Confirmed,2025-02-13 08:35:00,Lung,Normal,Pathology
+C0147,Treatment Planning,2025-02-18 11:16:00,Lung,Normal,Oncology
+C0147,Treatment Start,2025-02-22 17:33:00,Lung,Normal,Treatment Unit
+C0147,Follow-Up,2025-03-20 18:05:00,Lung,Normal,Oncology
+C0148,Referral Received,2025-01-26 11:00:00,Prostate,Normal,Referral Office
+C0148,Intake Review,2025-01-28 12:36:00,Prostate,Normal,Referral Office
+C0148,Initial Consultation,2025-02-01 18:39:00,Prostate,Normal,Oncology
+C0148,Diagnostic Imaging,2025-02-06 00:13:00,Prostate,Normal,Radiology
+C0148,Diagnosis Confirmed,2025-02-11 04:54:00,Prostate,Normal,Pathology
+C0148,Treatment Planning,2025-02-13 11:36:00,Prostate,Normal,Oncology
+C0148,Treatment Start,2025-02-23 13:16:00,Prostate,Normal,Treatment Unit
+C0148,Follow-Up,2025-03-11 21:03:00,Prostate,Normal,Oncology
+C0149,Referral Received,2025-01-02 15:24:00,Breast,Normal,Referral Office
+C0149,Intake Review,2025-01-05 19:55:00,Breast,Normal,Referral Office
+C0149,Initial Consultation,2025-01-07 20:16:00,Breast,Normal,Oncology
+C0149,Diagnostic Imaging,2025-01-11 02:23:00,Breast,Normal,Radiology
+C0149,Diagnosis Confirmed,2025-01-18 10:06:00,Breast,Normal,Pathology
+C0149,Treatment Planning,2025-01-21 11:08:00,Breast,Normal,Oncology
+C0149,Treatment Start,2025-01-27 11:23:00,Breast,Normal,Treatment Unit
+C0149,Follow-Up,2025-02-10 14:03:00,Breast,Normal,Oncology
+C0150,Referral Received,2025-01-07 09:52:00,Colon,Urgent,Referral Office
+C0150,Intake Review,2025-01-08 12:56:00,Colon,Urgent,Referral Office
+C0150,Initial Consultation,2025-01-11 18:03:00,Colon,Urgent,Oncology
+C0150,Diagnostic Imaging,2025-01-14 23:56:00,Colon,Urgent,Radiology
+C0150,Diagnosis Confirmed,2025-01-19 02:17:00,Colon,Urgent,Pathology
+C0150,Treatment Planning,2025-01-21 08:27:00,Colon,Urgent,Oncology
+C0150,Treatment Start,2025-01-27 12:26:00,Colon,Urgent,Treatment Unit
+C0151,Referral Received,2025-02-10 08:56:00,Lung,Urgent,Referral Office
+C0151,Intake Review,2025-02-11 11:55:00,Lung,Urgent,Referral Office
+C0151,Initial Consultation,2025-02-13 18:39:00,Lung,Urgent,Oncology
+C0151,Diagnostic Imaging,2025-02-19 23:12:00,Lung,Urgent,Radiology
+C0151,Diagnosis Confirmed,2025-02-21 23:50:00,Lung,Urgent,Pathology
+C0151,Treatment Planning,2025-02-24 04:12:00,Lung,Urgent,Oncology
+C0151,Treatment Start,2025-03-01 07:19:00,Lung,Urgent,Treatment Unit
+C0151,Follow-Up,2025-03-24 10:48:00,Lung,Urgent,Oncology
+C0152,Referral Received,2025-01-13 15:31:00,Breast,Normal,Referral Office
+C0152,Intake Review,2025-01-14 16:12:00,Breast,Normal,Referral Office
+C0152,Initial Consultation,2025-01-19 20:33:00,Breast,Normal,Oncology
+C0152,Diagnostic Imaging,2025-01-29 20:39:00,Breast,Normal,Radiology
+C0152,Diagnosis Confirmed,2025-02-01 23:29:00,Breast,Normal,Pathology
+C0152,Treatment Planning,2025-02-04 01:26:00,Breast,Normal,Oncology
+C0152,Treatment Start,2025-02-15 05:13:00,Breast,Normal,Treatment Unit
+C0152,Follow-Up,2025-03-08 06:33:00,Breast,Normal,Oncology
+C0153,Referral Received,2025-01-28 11:04:00,Lung,Normal,Referral Office
+C0153,Intake Review,2025-01-29 17:13:00,Lung,Normal,Referral Office
+C0153,Initial Consultation,2025-02-03 19:37:00,Lung,Normal,Oncology
+C0153,Diagnostic Imaging,2025-02-12 23:49:00,Lung,Normal,Radiology
+C0153,Diagnosis Confirmed,2025-02-20 00:06:00,Lung,Normal,Pathology
+C0153,Treatment Planning,2025-02-25 07:32:00,Lung,Normal,Oncology
+C0153,Treatment Start,2025-03-04 12:10:00,Lung,Normal,Treatment Unit
+C0153,Follow-Up,2025-03-23 15:15:00,Lung,Normal,Oncology
+C0154,Referral Received,2025-01-15 12:00:00,Blood,Normal,Referral Office
+C0154,Intake Review,2025-01-16 15:20:00,Blood,Normal,Referral Office
+C0154,Initial Consultation,2025-01-19 15:46:00,Blood,Normal,Oncology
+C0154,Diagnostic Imaging,2025-01-29 16:13:00,Blood,Normal,Radiology
+C0154,Diagnosis Confirmed,2025-02-05 17:41:00,Blood,Normal,Pathology
+C0154,Treatment Planning,2025-02-07 23:54:00,Blood,Normal,Oncology
+C0154,Treatment Start,2025-02-18 00:55:00,Blood,Normal,Treatment Unit
+C0154,Follow-Up,2025-03-09 08:49:00,Blood,Normal,Oncology
+C0155,Referral Received,2025-01-30 14:11:00,Blood,Normal,Referral Office
+C0155,Intake Review,2025-02-02 15:06:00,Blood,Normal,Referral Office
+C0155,Initial Consultation,2025-02-06 15:24:00,Blood,Normal,Oncology
+C0155,Diagnostic Imaging,2025-02-12 17:03:00,Blood,Normal,Radiology
+C0155,Diagnosis Confirmed,2025-02-14 22:59:00,Blood,Normal,Pathology
+C0155,Treatment Planning,2025-02-19 06:38:00,Blood,Normal,Oncology
+C0155,Treatment Start,2025-02-28 08:13:00,Blood,Normal,Treatment Unit
+C0155,Follow-Up,2025-03-18 13:28:00,Blood,Normal,Oncology
+C0156,Referral Received,2025-02-07 11:20:00,Lung,Normal,Referral Office
+C0156,Intake Review,2025-02-10 17:37:00,Lung,Normal,Referral Office
+C0156,Initial Consultation,2025-02-15 01:08:00,Lung,Normal,Oncology
+C0156,Diagnostic Imaging,2025-02-23 05:36:00,Lung,Normal,Radiology
+C0156,Diagnosis Confirmed,2025-03-02 06:48:00,Lung,Normal,Pathology
+C0156,Treatment Planning,2025-03-07 09:06:00,Lung,Normal,Oncology
+C0156,Treatment Start,2025-03-15 10:50:00,Lung,Normal,Treatment Unit
+C0156,Follow-Up,2025-04-04 11:08:00,Lung,Normal,Oncology
+C0157,Referral Received,2025-01-31 08:18:00,Blood,Urgent,Referral Office
+C0157,Intake Review,2025-02-01 13:44:00,Blood,Urgent,Referral Office
+C0157,Initial Consultation,2025-02-03 21:21:00,Blood,Urgent,Oncology
+C0157,Diagnostic Imaging,2025-02-12 04:40:00,Blood,Urgent,Radiology
+C0157,Diagnosis Confirmed,2025-02-14 07:30:00,Blood,Urgent,Pathology
+C0157,Treatment Planning,2025-02-16 12:19:00,Blood,Urgent,Oncology
+C0157,Treatment Start,2025-02-24 14:58:00,Blood,Urgent,Treatment Unit
+C0157,Follow-Up,2025-03-17 17:09:00,Blood,Urgent,Oncology
+C0158,Referral Received,2025-01-09 10:28:00,Breast,Normal,Referral Office
+C0158,Intake Review,2025-01-10 11:10:00,Breast,Normal,Referral Office
+C0158,Initial Consultation,2025-01-13 16:38:00,Breast,Normal,Oncology
+C0158,Diagnostic Imaging,2025-01-20 18:36:00,Breast,Normal,Radiology
+C0158,Diagnosis Confirmed,2025-01-25 21:05:00,Breast,Normal,Pathology
+C0158,Treatment Planning,2025-01-30 01:35:00,Breast,Normal,Oncology
+C0158,Treatment Start,2025-02-08 08:56:00,Breast,Normal,Treatment Unit
+C0158,Follow-Up,2025-03-09 09:04:00,Breast,Normal,Oncology
+C0159,Referral Received,2025-01-02 15:22:00,Blood,Normal,Referral Office
+C0159,Intake Review,2025-01-05 18:59:00,Blood,Normal,Referral Office
+C0159,Initial Consultation,2025-01-09 22:00:00,Blood,Normal,Oncology
+C0159,Diagnostic Imaging,2025-01-19 23:32:00,Blood,Normal,Radiology
+C0159,Diagnosis Confirmed,2025-01-24 00:30:00,Blood,Normal,Pathology
+C0159,Treatment Planning,2025-01-29 05:54:00,Blood,Normal,Oncology
+C0159,Treatment Start,2025-02-09 10:22:00,Blood,Normal,Treatment Unit
+C0159,Follow-Up,2025-03-09 17:13:00,Blood,Normal,Oncology
+C0160,Referral Received,2025-01-29 10:53:00,Colon,Normal,Referral Office
+C0160,Intake Review,2025-01-31 18:48:00,Colon,Normal,Referral Office
+C0160,Initial Consultation,2025-02-05 19:48:00,Colon,Normal,Oncology
+C0160,Diagnostic Imaging,2025-02-13 01:59:00,Colon,Normal,Radiology
+C0160,Diagnosis Confirmed,2025-02-16 05:10:00,Colon,Normal,Pathology
+C0160,Treatment Planning,2025-02-21 06:02:00,Colon,Normal,Oncology
+C0160,Treatment Start,2025-03-03 13:16:00,Colon,Normal,Treatment Unit
+C0160,Follow-Up,2025-03-21 17:35:00,Colon,Normal,Oncology
+C0161,Referral Received,2025-02-13 10:31:00,Prostate,Normal,Referral Office
+C0161,Intake Review,2025-02-15 17:35:00,Prostate,Normal,Referral Office
+C0161,Initial Consultation,2025-02-20 22:15:00,Prostate,Normal,Oncology
+C0161,Diagnostic Imaging,2025-02-25 03:47:00,Prostate,Normal,Radiology
+C0161,Diagnosis Confirmed,2025-02-28 03:56:00,Prostate,Normal,Pathology
+C0161,Treatment Planning,2025-03-03 09:06:00,Prostate,Normal,Oncology
+C0161,Treatment Start,2025-03-13 14:09:00,Prostate,Normal,Treatment Unit
+C0161,Follow-Up,2025-03-29 17:58:00,Prostate,Normal,Oncology
+C0162,Referral Received,2025-02-08 13:52:00,Breast,Urgent,Referral Office
+C0162,Intake Review,2025-02-09 18:58:00,Breast,Urgent,Referral Office
+C0162,Initial Consultation,2025-02-11 21:31:00,Breast,Urgent,Oncology
+C0162,Diagnostic Imaging,2025-02-20 03:52:00,Breast,Urgent,Radiology
+C0162,Diagnosis Confirmed,2025-02-22 07:45:00,Breast,Urgent,Pathology
+C0162,Treatment Planning,2025-02-24 14:14:00,Breast,Urgent,Oncology
+C0162,Treatment Start,2025-03-01 21:36:00,Breast,Urgent,Treatment Unit
+C0162,Follow-Up,2025-03-18 05:32:00,Breast,Urgent,Oncology
+C0163,Referral Received,2025-01-22 08:47:00,Blood,Urgent,Referral Office
+C0163,Intake Review,2025-01-23 11:31:00,Blood,Urgent,Referral Office
+C0163,Initial Consultation,2025-01-25 13:36:00,Blood,Urgent,Oncology
+C0163,Diagnostic Imaging,2025-01-28 14:37:00,Blood,Urgent,Radiology
+C0163,Diagnosis Confirmed,2025-01-30 17:43:00,Blood,Urgent,Pathology
+C0163,Treatment Planning,2025-02-02 00:50:00,Blood,Urgent,Oncology
+C0163,Treatment Start,2025-02-11 01:38:00,Blood,Urgent,Treatment Unit
+C0163,Follow-Up,2025-03-01 04:49:00,Blood,Urgent,Oncology
+C0164,Referral Received,2025-01-11 13:22:00,Colon,Normal,Referral Office
+C0164,Intake Review,2025-01-14 16:54:00,Colon,Normal,Referral Office
+C0164,Initial Consultation,2025-01-16 20:39:00,Colon,Normal,Oncology
+C0164,Diagnostic Imaging,2025-01-21 21:25:00,Colon,Normal,Radiology
+C0164,Diagnosis Confirmed,2025-01-28 04:48:00,Colon,Normal,Pathology
+C0164,Treatment Planning,2025-01-30 07:41:00,Colon,Normal,Oncology
+C0164,Treatment Start,2025-02-10 11:07:00,Colon,Normal,Treatment Unit
+C0164,Follow-Up,2025-03-06 12:36:00,Colon,Normal,Oncology
+C0165,Referral Received,2025-01-24 09:20:00,Blood,Normal,Referral Office
+C0165,Intake Review,2025-01-26 16:58:00,Blood,Normal,Referral Office
+C0165,Initial Consultation,2025-01-31 20:33:00,Blood,Normal,Oncology
+C0165,Diagnostic Imaging,2025-02-10 00:27:00,Blood,Normal,Radiology
+C0165,Diagnosis Confirmed,2025-02-15 05:38:00,Blood,Normal,Pathology
+C0165,Treatment Planning,2025-02-20 07:03:00,Blood,Normal,Oncology
+C0165,Treatment Start,2025-02-26 09:28:00,Blood,Normal,Treatment Unit
+C0165,Follow-Up,2025-03-15 11:32:00,Blood,Normal,Oncology
+C0166,Referral Received,2025-02-09 09:14:00,Breast,Normal,Referral Office
+C0166,Intake Review,2025-02-11 14:02:00,Breast,Normal,Referral Office
+C0166,Initial Consultation,2025-02-16 21:34:00,Breast,Normal,Oncology
+C0166,Diagnostic Imaging,2025-02-26 22:41:00,Breast,Normal,Radiology
+C0166,Diagnosis Confirmed,2025-03-02 00:42:00,Breast,Normal,Pathology
+C0166,Treatment Planning,2025-03-04 08:25:00,Breast,Normal,Oncology
+C0166,Treatment Start,2025-03-17 13:34:00,Breast,Normal,Treatment Unit
+C0166,Follow-Up,2025-04-03 15:16:00,Breast,Normal,Oncology
+C0167,Referral Received,2025-01-13 15:32:00,Prostate,Urgent,Referral Office
+C0167,Intake Review,2025-01-14 16:20:00,Prostate,Urgent,Referral Office
+C0167,Initial Consultation,2025-01-16 22:48:00,Prostate,Urgent,Oncology
+C0167,Diagnostic Imaging,2025-01-25 05:50:00,Prostate,Urgent,Radiology
+C0167,Diagnosis Confirmed,2025-01-30 10:46:00,Prostate,Urgent,Pathology
+C0167,Treatment Planning,2025-02-01 15:31:00,Prostate,Urgent,Oncology
+C0167,Treatment Start,2025-02-05 23:13:00,Prostate,Urgent,Treatment Unit
+C0167,Follow-Up,2025-03-05 06:48:00,Prostate,Urgent,Oncology
+C0168,Referral Received,2025-01-18 13:49:00,Blood,Normal,Referral Office
+C0168,Intake Review,2025-01-19 13:57:00,Blood,Normal,Referral Office
+C0168,Initial Consultation,2025-01-21 19:21:00,Blood,Normal,Oncology
+C0168,Diagnostic Imaging,2025-01-30 01:43:00,Blood,Normal,Radiology
+C0168,Diagnosis Confirmed,2025-02-02 05:24:00,Blood,Normal,Pathology
+C0168,Treatment Planning,2025-02-04 09:31:00,Blood,Normal,Oncology
+C0168,Treatment Start,2025-02-18 10:00:00,Blood,Normal,Treatment Unit
+C0168,Follow-Up,2025-03-20 16:17:00,Blood,Normal,Oncology
+C0169,Referral Received,2025-01-22 13:36:00,Prostate,Normal,Referral Office
+C0169,Intake Review,2025-01-23 16:57:00,Prostate,Normal,Referral Office
+C0169,Initial Consultation,2025-01-27 19:36:00,Prostate,Normal,Oncology
+C0169,Diagnostic Imaging,2025-02-05 23:07:00,Prostate,Normal,Radiology
+C0169,Diagnosis Confirmed,2025-02-12 02:25:00,Prostate,Normal,Pathology
+C0169,Treatment Planning,2025-02-17 06:04:00,Prostate,Normal,Oncology
+C0169,Treatment Start,2025-02-22 11:21:00,Prostate,Normal,Treatment Unit
+C0169,Follow-Up,2025-03-24 18:48:00,Prostate,Normal,Oncology
+C0170,Referral Received,2025-02-11 14:42:00,Colon,Urgent,Referral Office
+C0170,Intake Review,2025-02-12 19:21:00,Colon,Urgent,Referral Office
+C0170,Initial Consultation,2025-02-14 20:01:00,Colon,Urgent,Oncology
+C0170,Diagnostic Imaging,2025-02-18 03:14:00,Colon,Urgent,Radiology
+C0170,Diagnosis Confirmed,2025-02-23 10:13:00,Colon,Urgent,Pathology
+C0170,Treatment Planning,2025-02-25 17:22:00,Colon,Urgent,Oncology
+C0170,Treatment Start,2025-03-05 23:42:00,Colon,Urgent,Treatment Unit
+C0170,Follow-Up,2025-03-31 04:34:00,Colon,Urgent,Oncology
+C0171,Referral Received,2025-02-08 09:09:00,Breast,Normal,Referral Office
+C0171,Intake Review,2025-02-10 16:40:00,Breast,Normal,Referral Office
+C0171,Initial Consultation,2025-02-12 19:50:00,Breast,Normal,Oncology
+C0171,Diagnostic Imaging,2025-02-20 00:32:00,Breast,Normal,Radiology
+C0171,Diagnosis Confirmed,2025-02-22 08:22:00,Breast,Normal,Pathology
+C0171,Treatment Planning,2025-02-24 14:00:00,Breast,Normal,Oncology
+C0171,Treatment Start,2025-03-08 15:25:00,Breast,Normal,Treatment Unit
+C0171,Follow-Up,2025-03-29 17:01:00,Breast,Normal,Oncology
+C0172,Referral Received,2025-02-03 15:56:00,Blood,Urgent,Referral Office
+C0172,Intake Review,2025-02-04 21:17:00,Blood,Urgent,Referral Office
+C0172,Initial Consultation,2025-02-07 03:30:00,Blood,Urgent,Oncology
+C0172,Diagnostic Imaging,2025-02-11 07:58:00,Blood,Urgent,Radiology
+C0172,Diagnosis Confirmed,2025-02-15 08:29:00,Blood,Urgent,Pathology
+C0172,Treatment Planning,2025-02-17 14:03:00,Blood,Urgent,Oncology
+C0172,Treatment Start,2025-02-24 16:26:00,Blood,Urgent,Treatment Unit
+C0172,Follow-Up,2025-03-17 17:07:00,Blood,Urgent,Oncology
+C0173,Referral Received,2025-02-12 11:16:00,Lung,Urgent,Referral Office
+C0173,Intake Review,2025-02-13 17:13:00,Lung,Urgent,Referral Office
+C0173,Initial Consultation,2025-02-16 00:37:00,Lung,Urgent,Oncology
+C0173,Diagnostic Imaging,2025-02-26 04:42:00,Lung,Urgent,Radiology
+C0173,Diagnosis Confirmed,2025-02-28 12:22:00,Lung,Urgent,Pathology
+C0173,Treatment Planning,2025-03-03 12:39:00,Lung,Urgent,Oncology
+C0173,Treatment Start,2025-03-12 20:26:00,Lung,Urgent,Treatment Unit
+C0173,Follow-Up,2025-04-04 03:22:00,Lung,Urgent,Oncology
+C0174,Referral Received,2025-02-03 13:29:00,Breast,Normal,Referral Office
+C0174,Intake Review,2025-02-06 16:09:00,Breast,Normal,Referral Office
+C0174,Initial Consultation,2025-02-09 16:34:00,Breast,Normal,Oncology
+C0174,Diagnostic Imaging,2025-02-17 17:41:00,Breast,Normal,Radiology
+C0174,Diagnosis Confirmed,2025-02-24 20:35:00,Breast,Normal,Pathology
+C0174,Treatment Planning,2025-03-01 04:05:00,Breast,Normal,Oncology
+C0174,Treatment Start,2025-03-10 09:56:00,Breast,Normal,Treatment Unit
+C0174,Follow-Up,2025-04-06 15:07:00,Breast,Normal,Oncology
+C0175,Referral Received,2025-02-06 11:58:00,Prostate,Urgent,Referral Office
+C0175,Intake Review,2025-02-07 16:42:00,Prostate,Urgent,Referral Office
+C0175,Initial Consultation,2025-02-10 20:51:00,Prostate,Urgent,Oncology
+C0175,Diagnostic Imaging,2025-02-13 21:51:00,Prostate,Urgent,Radiology
+C0175,Diagnosis Confirmed,2025-02-17 04:58:00,Prostate,Urgent,Pathology
+C0175,Treatment Planning,2025-02-19 09:16:00,Prostate,Urgent,Oncology
+C0175,Treatment Start,2025-02-23 16:10:00,Prostate,Urgent,Treatment Unit
+C0175,Follow-Up,2025-03-16 19:36:00,Prostate,Urgent,Oncology
+C0176,Referral Received,2025-01-02 11:39:00,Prostate,Urgent,Referral Office
+C0176,Intake Review,2025-01-03 18:44:00,Prostate,Urgent,Referral Office
+C0176,Initial Consultation,2025-01-06 01:27:00,Prostate,Urgent,Oncology
+C0176,Diagnostic Imaging,2025-01-13 05:31:00,Prostate,Urgent,Radiology
+C0176,Diagnosis Confirmed,2025-01-15 11:30:00,Prostate,Urgent,Pathology
+C0176,Treatment Planning,2025-01-17 11:30:00,Prostate,Urgent,Oncology
+C0176,Treatment Start,2025-01-25 15:55:00,Prostate,Urgent,Treatment Unit
+C0176,Follow-Up,2025-02-08 18:11:00,Prostate,Urgent,Oncology
+C0177,Referral Received,2025-01-22 09:20:00,Blood,Normal,Referral Office
+C0177,Intake Review,2025-01-23 14:22:00,Blood,Normal,Referral Office
+C0177,Initial Consultation,2025-01-27 20:21:00,Blood,Normal,Oncology
+C0177,Diagnostic Imaging,2025-02-04 00:54:00,Blood,Normal,Radiology
+C0177,Diagnosis Confirmed,2025-02-07 06:41:00,Blood,Normal,Pathology
+C0177,Treatment Planning,2025-02-10 13:44:00,Blood,Normal,Oncology
+C0177,Treatment Start,2025-02-18 14:14:00,Blood,Normal,Treatment Unit
+C0177,Follow-Up,2025-03-18 20:21:00,Blood,Normal,Oncology
+C0178,Referral Received,2025-02-16 15:07:00,Lung,Normal,Referral Office
+C0178,Intake Review,2025-02-17 19:02:00,Lung,Normal,Referral Office
+C0178,Initial Consultation,2025-02-20 23:38:00,Lung,Normal,Oncology
+C0178,Diagnostic Imaging,2025-02-26 06:36:00,Lung,Normal,Radiology
+C0178,Diagnosis Confirmed,2025-03-03 08:32:00,Lung,Normal,Pathology
+C0178,Treatment Planning,2025-03-05 14:55:00,Lung,Normal,Oncology
+C0178,Treatment Start,2025-03-10 20:04:00,Lung,Normal,Treatment Unit
+C0178,Follow-Up,2025-04-09 03:44:00,Lung,Normal,Oncology
+C0179,Referral Received,2025-01-23 13:46:00,Blood,Normal,Referral Office
+C0179,Intake Review,2025-01-24 18:06:00,Blood,Normal,Referral Office
+C0179,Initial Consultation,2025-01-29 19:31:00,Blood,Normal,Oncology
+C0179,Diagnostic Imaging,2025-02-07 20:32:00,Blood,Normal,Radiology
+C0179,Diagnosis Confirmed,2025-02-13 01:13:00,Blood,Normal,Pathology
+C0179,Treatment Planning,2025-02-18 08:00:00,Blood,Normal,Oncology
+C0179,Treatment Start,2025-02-26 09:53:00,Blood,Normal,Treatment Unit
+C0179,Follow-Up,2025-03-27 17:49:00,Blood,Normal,Oncology
+C0180,Referral Received,2025-02-09 13:39:00,Prostate,Normal,Referral Office
+C0180,Intake Review,2025-02-11 14:41:00,Prostate,Normal,Referral Office
+C0180,Initial Consultation,2025-02-14 17:40:00,Prostate,Normal,Oncology
+C0180,Diagnostic Imaging,2025-02-18 22:09:00,Prostate,Normal,Radiology
+C0180,Diagnosis Confirmed,2025-02-24 02:18:00,Prostate,Normal,Pathology
+C0180,Treatment Planning,2025-02-28 05:51:00,Prostate,Normal,Oncology
+C0180,Treatment Start,2025-03-04 07:49:00,Prostate,Normal,Treatment Unit
+C0180,Follow-Up,2025-04-03 14:15:00,Prostate,Normal,Oncology
+C0181,Referral Received,2025-02-07 12:37:00,Prostate,Normal,Referral Office
+C0181,Intake Review,2025-02-08 14:24:00,Prostate,Normal,Referral Office
+C0181,Initial Consultation,2025-02-11 20:26:00,Prostate,Normal,Oncology
+C0181,Diagnostic Imaging,2025-02-19 02:03:00,Prostate,Normal,Radiology
+C0181,Diagnosis Confirmed,2025-02-24 06:24:00,Prostate,Normal,Pathology
+C0181,Treatment Planning,2025-02-26 11:19:00,Prostate,Normal,Oncology
+C0181,Treatment Start,2025-03-10 11:19:00,Prostate,Normal,Treatment Unit
+C0181,Follow-Up,2025-03-29 18:48:00,Prostate,Normal,Oncology
+C0182,Referral Received,2025-02-08 13:44:00,Prostate,Urgent,Referral Office
+C0182,Intake Review,2025-02-09 15:52:00,Prostate,Urgent,Referral Office
+C0182,Initial Consultation,2025-02-11 19:46:00,Prostate,Urgent,Oncology
+C0182,Diagnostic Imaging,2025-02-14 23:13:00,Prostate,Urgent,Radiology
+C0182,Diagnosis Confirmed,2025-02-18 01:43:00,Prostate,Urgent,Pathology
+C0182,Treatment Planning,2025-02-20 04:30:00,Prostate,Urgent,Oncology
+C0182,Treatment Start,2025-03-01 11:31:00,Prostate,Urgent,Treatment Unit
+C0182,Follow-Up,2025-03-19 16:07:00,Prostate,Urgent,Oncology
+C0183,Referral Received,2025-01-08 14:54:00,Lung,Normal,Referral Office
+C0183,Intake Review,2025-01-11 18:56:00,Lung,Normal,Referral Office
+C0183,Initial Consultation,2025-01-16 22:41:00,Lung,Normal,Oncology
+C0183,Diagnostic Imaging,2025-01-28 23:58:00,Lung,Normal,Radiology
+C0183,Diagnosis Confirmed,2025-01-31 07:37:00,Lung,Normal,Pathology
+C0183,Treatment Planning,2025-02-05 07:47:00,Lung,Normal,Oncology
+C0183,Treatment Start,2025-02-16 13:15:00,Lung,Normal,Treatment Unit
+C0183,Follow-Up,2025-03-12 20:23:00,Lung,Normal,Oncology
+C0184,Referral Received,2025-02-13 15:51:00,Prostate,Urgent,Referral Office
+C0184,Intake Review,2025-02-14 17:33:00,Prostate,Urgent,Referral Office
+C0184,Initial Consultation,2025-02-16 20:11:00,Prostate,Urgent,Oncology
+C0184,Diagnostic Imaging,2025-02-24 03:30:00,Prostate,Urgent,Radiology
+C0184,Diagnosis Confirmed,2025-02-26 03:52:00,Prostate,Urgent,Pathology
+C0184,Treatment Planning,2025-02-28 06:44:00,Prostate,Urgent,Oncology
+C0184,Treatment Start,2025-03-04 12:11:00,Prostate,Urgent,Treatment Unit
+C0184,Follow-Up,2025-03-19 15:42:00,Prostate,Urgent,Oncology
+C0185,Referral Received,2025-01-03 10:54:00,Colon,Urgent,Referral Office
+C0185,Intake Review,2025-01-04 18:47:00,Colon,Urgent,Referral Office
+C0185,Initial Consultation,2025-01-06 19:19:00,Colon,Urgent,Oncology
+C0185,Diagnostic Imaging,2025-01-09 23:17:00,Colon,Urgent,Radiology
+C0185,Diagnosis Confirmed,2025-01-12 07:05:00,Colon,Urgent,Pathology
+C0185,Treatment Planning,2025-01-14 09:46:00,Colon,Urgent,Oncology
+C0185,Treatment Start,2025-01-19 13:14:00,Colon,Urgent,Treatment Unit
+C0185,Follow-Up,2025-02-02 17:07:00,Colon,Urgent,Oncology
+C0186,Referral Received,2025-01-12 14:23:00,Colon,Normal,Referral Office
+C0186,Intake Review,2025-01-15 21:13:00,Colon,Normal,Referral Office
+C0186,Initial Consultation,2025-01-21 04:11:00,Colon,Normal,Oncology
+C0186,Diagnostic Imaging,2025-01-29 04:39:00,Colon,Normal,Radiology
+C0186,Diagnosis Confirmed,2025-02-05 05:44:00,Colon,Normal,Pathology
+C0186,Treatment Planning,2025-02-08 11:47:00,Colon,Normal,Oncology
+C0186,Treatment Start,2025-02-17 12:27:00,Colon,Normal,Treatment Unit
+C0186,Follow-Up,2025-03-19 16:53:00,Colon,Normal,Oncology
+C0187,Referral Received,2025-01-21 12:57:00,Blood,Urgent,Referral Office
+C0187,Intake Review,2025-01-22 16:53:00,Blood,Urgent,Referral Office
+C0187,Initial Consultation,2025-01-25 20:49:00,Blood,Urgent,Oncology
+C0187,Diagnostic Imaging,2025-02-01 03:35:00,Blood,Urgent,Radiology
+C0187,Diagnosis Confirmed,2025-02-05 07:48:00,Blood,Urgent,Pathology
+C0187,Treatment Planning,2025-02-07 13:36:00,Blood,Urgent,Oncology
+C0187,Treatment Start,2025-02-14 17:51:00,Blood,Urgent,Treatment Unit
+C0187,Follow-Up,2025-03-14 19:37:00,Blood,Urgent,Oncology
+C0188,Referral Received,2025-02-02 09:28:00,Colon,Normal,Referral Office
+C0188,Intake Review,2025-02-03 16:49:00,Colon,Normal,Referral Office
+C0188,Initial Consultation,2025-02-06 22:08:00,Colon,Normal,Oncology
+C0188,Diagnostic Imaging,2025-02-12 04:41:00,Colon,Normal,Radiology
+C0188,Diagnosis Confirmed,2025-02-18 08:33:00,Colon,Normal,Pathology
+C0188,Treatment Planning,2025-02-21 15:26:00,Colon,Normal,Oncology
+C0188,Treatment Start,2025-02-27 17:56:00,Colon,Normal,Treatment Unit
+C0188,Follow-Up,2025-03-25 00:33:00,Colon,Normal,Oncology
+C0189,Referral Received,2025-01-17 15:44:00,Blood,Urgent,Referral Office
+C0189,Intake Review,2025-01-18 17:53:00,Blood,Urgent,Referral Office
+C0189,Initial Consultation,2025-01-21 20:38:00,Blood,Urgent,Oncology
+C0189,Diagnostic Imaging,2025-01-25 00:07:00,Blood,Urgent,Radiology
+C0189,Diagnosis Confirmed,2025-01-27 06:05:00,Blood,Urgent,Pathology
+C0189,Treatment Planning,2025-01-30 07:12:00,Blood,Urgent,Oncology
+C0189,Treatment Start,2025-02-06 09:19:00,Blood,Urgent,Treatment Unit
+C0189,Follow-Up,2025-03-01 13:37:00,Blood,Urgent,Oncology
+C0190,Referral Received,2025-01-10 08:59:00,Lung,Urgent,Referral Office
+C0190,Intake Review,2025-01-11 11:51:00,Lung,Urgent,Referral Office
+C0190,Initial Consultation,2025-01-13 13:46:00,Lung,Urgent,Oncology
+C0190,Diagnostic Imaging,2025-01-22 19:36:00,Lung,Urgent,Radiology
+C0190,Diagnosis Confirmed,2025-01-27 22:24:00,Lung,Urgent,Pathology
+C0190,Treatment Planning,2025-01-31 06:06:00,Lung,Urgent,Oncology
+C0190,Treatment Start,2025-02-07 07:57:00,Lung,Urgent,Treatment Unit
+C0190,Follow-Up,2025-03-04 14:11:00,Lung,Urgent,Oncology
+C0191,Referral Received,2025-02-13 09:55:00,Colon,Normal,Referral Office
+C0191,Intake Review,2025-02-16 14:30:00,Colon,Normal,Referral Office
+C0191,Initial Consultation,2025-02-18 18:09:00,Colon,Normal,Oncology
+C0191,Diagnostic Imaging,2025-02-21 21:57:00,Colon,Normal,Radiology
+C0191,Diagnosis Confirmed,2025-02-23 23:39:00,Colon,Normal,Pathology
+C0191,Treatment Planning,2025-02-28 02:54:00,Colon,Normal,Oncology
+C0191,Treatment Start,2025-03-12 08:19:00,Colon,Normal,Treatment Unit
+C0192,Referral Received,2025-01-13 14:16:00,Lung,Normal,Referral Office
+C0192,Intake Review,2025-01-14 16:34:00,Lung,Normal,Referral Office
+C0192,Initial Consultation,2025-01-16 18:53:00,Lung,Normal,Oncology
+C0192,Diagnostic Imaging,2025-01-22 20:54:00,Lung,Normal,Radiology
+C0192,Diagnosis Confirmed,2025-01-25 02:03:00,Lung,Normal,Pathology
+C0192,Treatment Planning,2025-01-29 08:55:00,Lung,Normal,Oncology
+C0192,Treatment Start,2025-02-05 12:26:00,Lung,Normal,Treatment Unit
+C0192,Follow-Up,2025-03-03 13:43:00,Lung,Normal,Oncology
+C0193,Referral Received,2025-01-27 14:40:00,Colon,Normal,Referral Office
+C0193,Intake Review,2025-01-28 19:15:00,Colon,Normal,Referral Office
+C0193,Initial Consultation,2025-01-31 23:51:00,Colon,Normal,Oncology
+C0193,Diagnostic Imaging,2025-02-07 02:14:00,Colon,Normal,Radiology
+C0193,Diagnosis Confirmed,2025-02-13 09:12:00,Colon,Normal,Pathology
+C0193,Treatment Planning,2025-02-18 13:53:00,Colon,Normal,Oncology
+C0193,Treatment Start,2025-03-03 18:46:00,Colon,Normal,Treatment Unit
+C0193,Follow-Up,2025-03-28 22:23:00,Colon,Normal,Oncology
+C0194,Referral Received,2025-02-05 09:25:00,Colon,Normal,Referral Office
+C0194,Intake Review,2025-02-08 14:21:00,Colon,Normal,Referral Office
+C0194,Initial Consultation,2025-02-12 20:01:00,Colon,Normal,Oncology
+C0194,Diagnostic Imaging,2025-02-23 00:16:00,Colon,Normal,Radiology
+C0194,Diagnosis Confirmed,2025-02-28 05:17:00,Colon,Normal,Pathology
+C0194,Treatment Planning,2025-03-02 12:17:00,Colon,Normal,Oncology
+C0194,Treatment Start,2025-03-15 20:05:00,Colon,Normal,Treatment Unit
+C0194,Follow-Up,2025-03-31 21:02:00,Colon,Normal,Oncology
+C0195,Referral Received,2025-01-24 13:24:00,Prostate,Normal,Referral Office
+C0195,Intake Review,2025-01-27 13:31:00,Prostate,Normal,Referral Office
+C0195,Initial Consultation,2025-01-30 20:31:00,Prostate,Normal,Oncology
+C0195,Diagnostic Imaging,2025-02-07 01:43:00,Prostate,Normal,Radiology
+C0195,Diagnosis Confirmed,2025-02-14 06:34:00,Prostate,Normal,Pathology
+C0195,Treatment Planning,2025-02-19 11:36:00,Prostate,Normal,Oncology
+C0195,Treatment Start,2025-02-26 11:48:00,Prostate,Normal,Treatment Unit
+C0195,Follow-Up,2025-03-20 18:58:00,Prostate,Normal,Oncology
+C0196,Referral Received,2025-02-06 09:37:00,Breast,Normal,Referral Office
+C0196,Intake Review,2025-02-07 14:36:00,Breast,Normal,Referral Office
+C0196,Initial Consultation,2025-02-11 18:30:00,Breast,Normal,Oncology
+C0196,Diagnostic Imaging,2025-02-19 01:30:00,Breast,Normal,Radiology
+C0196,Diagnosis Confirmed,2025-02-26 02:24:00,Breast,Normal,Pathology
+C0196,Treatment Planning,2025-03-03 06:31:00,Breast,Normal,Oncology
+C0196,Treatment Start,2025-03-16 07:27:00,Breast,Normal,Treatment Unit
+C0196,Follow-Up,2025-04-07 14:01:00,Breast,Normal,Oncology
+C0197,Referral Received,2025-01-13 11:44:00,Colon,Normal,Referral Office
+C0197,Intake Review,2025-01-14 14:54:00,Colon,Normal,Referral Office
+C0197,Initial Consultation,2025-01-16 15:24:00,Colon,Normal,Oncology
+C0197,Diagnostic Imaging,2025-01-24 19:39:00,Colon,Normal,Radiology
+C0197,Diagnosis Confirmed,2025-01-28 20:31:00,Colon,Normal,Pathology
+C0197,Treatment Planning,2025-01-31 22:20:00,Colon,Normal,Oncology
+C0197,Treatment Start,2025-02-09 05:57:00,Colon,Normal,Treatment Unit
+C0197,Follow-Up,2025-02-24 06:21:00,Colon,Normal,Oncology
+C0198,Referral Received,2025-01-04 08:19:00,Lung,Urgent,Referral Office
+C0198,Intake Review,2025-01-05 08:54:00,Lung,Urgent,Referral Office
+C0198,Initial Consultation,2025-01-08 15:00:00,Lung,Urgent,Oncology
+C0198,Diagnostic Imaging,2025-01-13 22:24:00,Lung,Urgent,Radiology
+C0198,Diagnosis Confirmed,2025-01-17 23:45:00,Lung,Urgent,Pathology
+C0198,Treatment Planning,2025-01-20 02:51:00,Lung,Urgent,Oncology
+C0198,Treatment Start,2025-01-24 06:48:00,Lung,Urgent,Treatment Unit
+C0198,Follow-Up,2025-02-21 11:10:00,Lung,Urgent,Oncology
+C0199,Referral Received,2025-01-29 08:03:00,Prostate,Normal,Referral Office
+C0199,Intake Review,2025-01-31 13:22:00,Prostate,Normal,Referral Office
+C0199,Initial Consultation,2025-02-04 18:40:00,Prostate,Normal,Oncology
+C0199,Diagnostic Imaging,2025-02-09 18:55:00,Prostate,Normal,Radiology
+C0199,Diagnosis Confirmed,2025-02-12 22:35:00,Prostate,Normal,Pathology
+C0199,Treatment Planning,2025-02-17 02:17:00,Prostate,Normal,Oncology
+C0199,Treatment Start,2025-02-28 08:11:00,Prostate,Normal,Treatment Unit
+C0199,Follow-Up,2025-03-24 12:37:00,Prostate,Normal,Oncology
+C0200,Referral Received,2025-01-03 11:44:00,Breast,Normal,Referral Office
+C0200,Intake Review,2025-01-04 15:14:00,Breast,Normal,Referral Office
+C0200,Initial Consultation,2025-01-09 18:39:00,Breast,Normal,Oncology
+C0200,Diagnostic Imaging,2025-01-12 23:39:00,Breast,Normal,Radiology
+C0200,Diagnosis Confirmed,2025-01-19 00:48:00,Breast,Normal,Pathology
+C0200,Treatment Planning,2025-01-23 00:49:00,Breast,Normal,Oncology
+C0200,Treatment Start,2025-01-30 05:35:00,Breast,Normal,Treatment Unit
+C0200,Follow-Up,2025-02-20 07:47:00,Breast,Normal,Oncology

@@ -1,0 +1,1387 @@
+activity,next_activity,delay_days,cancer_type,priority_level
+Referral Received,Intake Review,1,Lung,Normal
+Intake Review,Initial Consultation,2,Lung,Normal
+Initial Consultation,Diagnostic Imaging,11,Lung,Normal
+Diagnostic Imaging,Diagnosis Confirmed,2,Lung,Normal
+Diagnosis Confirmed,Treatment Planning,3,Lung,Normal
+Treatment Planning,Treatment Start,10,Lung,Normal
+Treatment Start,Follow-Up,15,Lung,Normal
+Referral Received,Intake Review,1,Prostate,Normal
+Intake Review,Initial Consultation,5,Prostate,Normal
+Initial Consultation,Diagnostic Imaging,5,Prostate,Normal
+Diagnostic Imaging,Diagnosis Confirmed,7,Prostate,Normal
+Diagnosis Confirmed,Treatment Planning,3,Prostate,Normal
+Treatment Planning,Treatment Start,12,Prostate,Normal
+Treatment Start,Follow-Up,15,Prostate,Normal
+Referral Received,Intake Review,3,Colon,Normal
+Intake Review,Initial Consultation,4,Colon,Normal
+Initial Consultation,Diagnostic Imaging,6,Colon,Normal
+Diagnostic Imaging,Diagnosis Confirmed,2,Colon,Normal
+Diagnosis Confirmed,Treatment Planning,5,Colon,Normal
+Treatment Planning,Treatment Start,14,Colon,Normal
+Treatment Start,Follow-Up,17,Colon,Normal
+Referral Received,Intake Review,1,Colon,Normal
+Intake Review,Initial Consultation,3,Colon,Normal
+Initial Consultation,Diagnostic Imaging,4,Colon,Normal
+Diagnostic Imaging,Diagnosis Confirmed,3,Colon,Normal
+Diagnosis Confirmed,Treatment Planning,3,Colon,Normal
+Treatment Planning,Treatment Start,8,Colon,Normal
+Treatment Start,Follow-Up,20,Colon,Normal
+Referral Received,Intake Review,3,Colon,Normal
+Intake Review,Initial Consultation,2,Colon,Normal
+Initial Consultation,Diagnostic Imaging,4,Colon,Normal
+Diagnostic Imaging,Diagnosis Confirmed,3,Colon,Normal
+Diagnosis Confirmed,Treatment Planning,3,Colon,Normal
+Treatment Planning,Treatment Start,12,Colon,Normal
+Referral Received,Intake Review,1,Lung,Normal
+Intake Review,Initial Consultation,2,Lung,Normal
+Initial Consultation,Diagnostic Imaging,4,Lung,Normal
+Diagnostic Imaging,Diagnosis Confirmed,3,Lung,Normal
+Diagnosis Confirmed,Treatment Planning,2,Lung,Normal
+Treatment Planning,Treatment Start,12,Lung,Normal
+Treatment Start,Follow-Up,15,Lung,Normal
+Referral Received,Intake Review,1,Lung,Normal
+Intake Review,Initial Consultation,3,Lung,Normal
+Initial Consultation,Diagnostic Imaging,11,Lung,Normal
+Diagnostic Imaging,Diagnosis Confirmed,5,Lung,Normal
+Diagnosis Confirmed,Treatment Planning,2,Lung,Normal
+Treatment Planning,Treatment Start,5,Lung,Normal
+Treatment Start,Follow-Up,18,Lung,Normal
+Referral Received,Intake Review,1,Breast,Normal
+Intake Review,Initial Consultation,3,Breast,Normal
+Initial Consultation,Diagnostic Imaging,8,Breast,Normal
+Diagnostic Imaging,Diagnosis Confirmed,4,Breast,Normal
+Diagnosis Confirmed,Treatment Planning,2,Breast,Normal
+Treatment Planning,Treatment Start,9,Breast,Normal
+Treatment Start,Follow-Up,14,Breast,Normal
+Referral Received,Intake Review,1,Breast,Normal
+Intake Review,Initial Consultation,4,Breast,Normal
+Initial Consultation,Diagnostic Imaging,6,Breast,Normal
+Diagnostic Imaging,Diagnosis Confirmed,2,Breast,Normal
+Diagnosis Confirmed,Treatment Planning,5,Breast,Normal
+Treatment Planning,Treatment Start,7,Breast,Normal
+Treatment Start,Follow-Up,28,Breast,Normal
+Referral Received,Intake Review,3,Breast,Normal
+Intake Review,Initial Consultation,2,Breast,Normal
+Initial Consultation,Diagnostic Imaging,7,Breast,Normal
+Diagnostic Imaging,Diagnosis Confirmed,4,Breast,Normal
+Diagnosis Confirmed,Treatment Planning,3,Breast,Normal
+Treatment Planning,Treatment Start,15,Breast,Normal
+Referral Received,Intake Review,3,Colon,Normal
+Intake Review,Initial Consultation,5,Colon,Normal
+Initial Consultation,Diagnostic Imaging,3,Colon,Normal
+Diagnostic Imaging,Diagnosis Confirmed,6,Colon,Normal
+Diagnosis Confirmed,Treatment Planning,3,Colon,Normal
+Treatment Planning,Treatment Start,7,Colon,Normal
+Treatment Start,Follow-Up,21,Colon,Normal
+Referral Received,Intake Review,2,Lung,Normal
+Intake Review,Initial Consultation,2,Lung,Normal
+Initial Consultation,Diagnostic Imaging,11,Lung,Normal
+Diagnostic Imaging,Diagnosis Confirmed,5,Lung,Normal
+Diagnosis Confirmed,Treatment Planning,5,Lung,Normal
+Treatment Planning,Treatment Start,11,Lung,Normal
+Treatment Start,Follow-Up,22,Lung,Normal
+Referral Received,Intake Review,1,Colon,Normal
+Intake Review,Initial Consultation,2,Colon,Normal
+Initial Consultation,Diagnostic Imaging,9,Colon,Normal
+Diagnostic Imaging,Diagnosis Confirmed,6,Colon,Normal
+Diagnosis Confirmed,Treatment Planning,4,Colon,Normal
+Treatment Planning,Treatment Start,13,Colon,Normal
+Treatment Start,Follow-Up,29,Colon,Normal
+Referral Received,Intake Review,2,Prostate,Normal
+Intake Review,Initial Consultation,4,Prostate,Normal
+Initial Consultation,Diagnostic Imaging,8,Prostate,Normal
+Diagnostic Imaging,Diagnosis Confirmed,2,Prostate,Normal
+Diagnosis Confirmed,Treatment Planning,4,Prostate,Normal
+Treatment Planning,Treatment Start,4,Prostate,Normal
+Treatment Start,Follow-Up,18,Prostate,Normal
+Referral Received,Intake Review,1,Lung,Normal
+Intake Review,Initial Consultation,5,Lung,Normal
+Initial Consultation,Diagnostic Imaging,7,Lung,Normal
+Diagnostic Imaging,Diagnosis Confirmed,6,Lung,Normal
+Diagnosis Confirmed,Treatment Planning,2,Lung,Normal
+Treatment Planning,Treatment Start,5,Lung,Normal
+Treatment Start,Follow-Up,28,Lung,Normal
+Referral Received,Intake Review,1,Blood,Urgent
+Intake Review,Initial Consultation,3,Blood,Urgent
+Initial Consultation,Diagnostic Imaging,6,Blood,Urgent
+Diagnostic Imaging,Diagnosis Confirmed,2,Blood,Urgent
+Diagnosis Confirmed,Treatment Planning,2,Blood,Urgent
+Treatment Planning,Treatment Start,11,Blood,Urgent
+Treatment Start,Follow-Up,14,Blood,Urgent
+Referral Received,Intake Review,3,Prostate,Normal
+Intake Review,Initial Consultation,4,Prostate,Normal
+Initial Consultation,Diagnostic Imaging,4,Prostate,Normal
+Diagnostic Imaging,Diagnosis Confirmed,4,Prostate,Normal
+Diagnosis Confirmed,Treatment Planning,4,Prostate,Normal
+Treatment Planning,Treatment Start,6,Prostate,Normal
+Treatment Start,Follow-Up,18,Prostate,Normal
+Referral Received,Intake Review,1,Blood,Normal
+Intake Review,Initial Consultation,2,Blood,Normal
+Initial Consultation,Diagnostic Imaging,4,Blood,Normal
+Diagnostic Imaging,Diagnosis Confirmed,6,Blood,Normal
+Diagnosis Confirmed,Treatment Planning,5,Blood,Normal
+Treatment Planning,Treatment Start,11,Blood,Normal
+Treatment Start,Follow-Up,20,Blood,Normal
+Referral Received,Intake Review,2,Lung,Normal
+Intake Review,Initial Consultation,4,Lung,Normal
+Initial Consultation,Diagnostic Imaging,9,Lung,Normal
+Diagnostic Imaging,Diagnosis Confirmed,4,Lung,Normal
+Diagnosis Confirmed,Treatment Planning,4,Lung,Normal
+Treatment Planning,Treatment Start,8,Lung,Normal
+Treatment Start,Follow-Up,28,Lung,Normal
+Referral Received,Intake Review,3,Prostate,Normal
+Intake Review,Initial Consultation,3,Prostate,Normal
+Initial Consultation,Diagnostic Imaging,7,Prostate,Normal
+Diagnostic Imaging,Diagnosis Confirmed,5,Prostate,Normal
+Diagnosis Confirmed,Treatment Planning,4,Prostate,Normal
+Treatment Planning,Treatment Start,11,Prostate,Normal
+Treatment Start,Follow-Up,15,Prostate,Normal
+Referral Received,Intake Review,2,Colon,Normal
+Intake Review,Initial Consultation,3,Colon,Normal
+Initial Consultation,Diagnostic Imaging,10,Colon,Normal
+Diagnostic Imaging,Diagnosis Confirmed,6,Colon,Normal
+Diagnosis Confirmed,Treatment Planning,2,Colon,Normal
+Treatment Planning,Treatment Start,7,Colon,Normal
+Treatment Start,Follow-Up,23,Colon,Normal
+Referral Received,Intake Review,2,Prostate,Normal
+Intake Review,Initial Consultation,4,Prostate,Normal
+Initial Consultation,Diagnostic Imaging,10,Prostate,Normal
+Diagnostic Imaging,Diagnosis Confirmed,6,Prostate,Normal
+Diagnosis Confirmed,Treatment Planning,3,Prostate,Normal
+Treatment Planning,Treatment Start,11,Prostate,Normal
+Treatment Start,Follow-Up,18,Prostate,Normal
+Referral Received,Intake Review,1,Blood,Urgent
+Intake Review,Initial Consultation,2,Blood,Urgent
+Initial Consultation,Diagnostic Imaging,3,Blood,Urgent
+Diagnostic Imaging,Diagnosis Confirmed,5,Blood,Urgent
+Diagnosis Confirmed,Treatment Planning,2,Blood,Urgent
+Treatment Planning,Treatment Start,7,Blood,Urgent
+Treatment Start,Follow-Up,14,Blood,Urgent
+Referral Received,Intake Review,2,Colon,Normal
+Intake Review,Initial Consultation,4,Colon,Normal
+Initial Consultation,Diagnostic Imaging,10,Colon,Normal
+Diagnostic Imaging,Diagnosis Confirmed,4,Colon,Normal
+Diagnosis Confirmed,Treatment Planning,5,Colon,Normal
+Treatment Planning,Treatment Start,6,Colon,Normal
+Treatment Start,Follow-Up,23,Colon,Normal
+Referral Received,Intake Review,1,Prostate,Normal
+Intake Review,Initial Consultation,3,Prostate,Normal
+Initial Consultation,Diagnostic Imaging,7,Prostate,Normal
+Diagnostic Imaging,Diagnosis Confirmed,2,Prostate,Normal
+Diagnosis Confirmed,Treatment Planning,3,Prostate,Normal
+Treatment Planning,Treatment Start,6,Prostate,Normal
+Treatment Start,Follow-Up,23,Prostate,Normal
+Referral Received,Intake Review,1,Prostate,Urgent
+Intake Review,Initial Consultation,2,Prostate,Urgent
+Initial Consultation,Diagnostic Imaging,3,Prostate,Urgent
+Diagnostic Imaging,Diagnosis Confirmed,4,Prostate,Urgent
+Diagnosis Confirmed,Treatment Planning,3,Prostate,Urgent
+Treatment Planning,Treatment Start,4,Prostate,Urgent
+Treatment Start,Follow-Up,19,Prostate,Urgent
+Referral Received,Intake Review,2,Colon,Normal
+Intake Review,Initial Consultation,3,Colon,Normal
+Initial Consultation,Diagnostic Imaging,4,Colon,Normal
+Diagnostic Imaging,Diagnosis Confirmed,4,Colon,Normal
+Diagnosis Confirmed,Treatment Planning,3,Colon,Normal
+Treatment Planning,Treatment Start,9,Colon,Normal
+Treatment Start,Follow-Up,20,Colon,Normal
+Referral Received,Intake Review,2,Blood,Normal
+Intake Review,Initial Consultation,4,Blood,Normal
+Initial Consultation,Diagnostic Imaging,4,Blood,Normal
+Diagnostic Imaging,Diagnosis Confirmed,6,Blood,Normal
+Diagnosis Confirmed,Treatment Planning,2,Blood,Normal
+Treatment Planning,Treatment Start,6,Blood,Normal
+Treatment Start,Follow-Up,28,Blood,Normal
+Referral Received,Intake Review,3,Colon,Normal
+Intake Review,Initial Consultation,3,Colon,Normal
+Initial Consultation,Diagnostic Imaging,10,Colon,Normal
+Diagnostic Imaging,Diagnosis Confirmed,4,Colon,Normal
+Diagnosis Confirmed,Treatment Planning,5,Colon,Normal
+Treatment Planning,Treatment Start,8,Colon,Normal
+Treatment Start,Follow-Up,24,Colon,Normal
+Referral Received,Intake Review,1,Prostate,Urgent
+Intake Review,Initial Consultation,2,Prostate,Urgent
+Initial Consultation,Diagnostic Imaging,7,Prostate,Urgent
+Diagnostic Imaging,Diagnosis Confirmed,2,Prostate,Urgent
+Diagnosis Confirmed,Treatment Planning,2,Prostate,Urgent
+Treatment Planning,Treatment Start,4,Prostate,Urgent
+Treatment Start,Follow-Up,24,Prostate,Urgent
+Referral Received,Intake Review,1,Breast,Normal
+Intake Review,Initial Consultation,5,Breast,Normal
+Initial Consultation,Diagnostic Imaging,4,Breast,Normal
+Diagnostic Imaging,Diagnosis Confirmed,7,Breast,Normal
+Diagnosis Confirmed,Treatment Planning,5,Breast,Normal
+Treatment Planning,Treatment Start,8,Breast,Normal
+Treatment Start,Follow-Up,29,Breast,Normal
+Referral Received,Intake Review,2,Prostate,Normal
+Intake Review,Initial Consultation,5,Prostate,Normal
+Initial Consultation,Diagnostic Imaging,8,Prostate,Normal
+Diagnostic Imaging,Diagnosis Confirmed,4,Prostate,Normal
+Diagnosis Confirmed,Treatment Planning,5,Prostate,Normal
+Treatment Planning,Treatment Start,7,Prostate,Normal
+Referral Received,Intake Review,1,Lung,Normal
+Intake Review,Initial Consultation,2,Lung,Normal
+Initial Consultation,Diagnostic Imaging,13,Lung,Normal
+Diagnostic Imaging,Diagnosis Confirmed,5,Lung,Normal
+Diagnosis Confirmed,Treatment Planning,4,Lung,Normal
+Treatment Planning,Treatment Start,4,Lung,Normal
+Referral Received,Intake Review,2,Lung,Normal
+Intake Review,Initial Consultation,4,Lung,Normal
+Initial Consultation,Diagnostic Imaging,10,Lung,Normal
+Diagnostic Imaging,Diagnosis Confirmed,4,Lung,Normal
+Diagnosis Confirmed,Treatment Planning,2,Lung,Normal
+Treatment Planning,Treatment Start,10,Lung,Normal
+Treatment Start,Follow-Up,18,Lung,Normal
+Referral Received,Intake Review,1,Breast,Urgent
+Intake Review,Initial Consultation,2,Breast,Urgent
+Initial Consultation,Diagnostic Imaging,5,Breast,Urgent
+Diagnostic Imaging,Diagnosis Confirmed,3,Breast,Urgent
+Diagnosis Confirmed,Treatment Planning,2,Breast,Urgent
+Treatment Planning,Treatment Start,11,Breast,Urgent
+Treatment Start,Follow-Up,24,Breast,Urgent
+Referral Received,Intake Review,1,Blood,Urgent
+Intake Review,Initial Consultation,2,Blood,Urgent
+Initial Consultation,Diagnostic Imaging,4,Blood,Urgent
+Diagnostic Imaging,Diagnosis Confirmed,2,Blood,Urgent
+Diagnosis Confirmed,Treatment Planning,2,Blood,Urgent
+Treatment Planning,Treatment Start,11,Blood,Urgent
+Treatment Start,Follow-Up,21,Blood,Urgent
+Referral Received,Intake Review,2,Colon,Normal
+Intake Review,Initial Consultation,4,Colon,Normal
+Initial Consultation,Diagnostic Imaging,3,Colon,Normal
+Diagnostic Imaging,Diagnosis Confirmed,7,Colon,Normal
+Diagnosis Confirmed,Treatment Planning,4,Colon,Normal
+Treatment Planning,Treatment Start,13,Colon,Normal
+Referral Received,Intake Review,1,Breast,Urgent
+Intake Review,Initial Consultation,3,Breast,Urgent
+Initial Consultation,Diagnostic Imaging,3,Breast,Urgent
+Diagnostic Imaging,Diagnosis Confirmed,2,Breast,Urgent
+Diagnosis Confirmed,Treatment Planning,2,Breast,Urgent
+Treatment Planning,Treatment Start,13,Breast,Urgent
+Referral Received,Intake Review,1,Prostate,Urgent
+Intake Review,Initial Consultation,2,Prostate,Urgent
+Initial Consultation,Diagnostic Imaging,8,Prostate,Urgent
+Diagnostic Imaging,Diagnosis Confirmed,2,Prostate,Urgent
+Diagnosis Confirmed,Treatment Planning,2,Prostate,Urgent
+Treatment Planning,Treatment Start,10,Prostate,Urgent
+Treatment Start,Follow-Up,18,Prostate,Urgent
+Referral Received,Intake Review,1,Colon,Normal
+Intake Review,Initial Consultation,4,Colon,Normal
+Initial Consultation,Diagnostic Imaging,5,Colon,Normal
+Diagnostic Imaging,Diagnosis Confirmed,7,Colon,Normal
+Diagnosis Confirmed,Treatment Planning,5,Colon,Normal
+Treatment Planning,Treatment Start,7,Colon,Normal
+Treatment Start,Follow-Up,15,Colon,Normal
+Referral Received,Intake Review,1,Prostate,Normal
+Intake Review,Initial Consultation,2,Prostate,Normal
+Initial Consultation,Diagnostic Imaging,8,Prostate,Normal
+Diagnostic Imaging,Diagnosis Confirmed,6,Prostate,Normal
+Diagnosis Confirmed,Treatment Planning,3,Prostate,Normal
+Treatment Planning,Treatment Start,12,Prostate,Normal
+Treatment Start,Follow-Up,22,Prostate,Normal
+Referral Received,Intake Review,2,Colon,Normal
+Intake Review,Initial Consultation,2,Colon,Normal
+Initial Consultation,Diagnostic Imaging,5,Colon,Normal
+Diagnostic Imaging,Diagnosis Confirmed,3,Colon,Normal
+Diagnosis Confirmed,Treatment Planning,4,Colon,Normal
+Treatment Planning,Treatment Start,6,Colon,Normal
+Treatment Start,Follow-Up,30,Colon,Normal
+Referral Received,Intake Review,3,Blood,Normal
+Intake Review,Initial Consultation,2,Blood,Normal
+Initial Consultation,Diagnostic Imaging,5,Blood,Normal
+Diagnostic Imaging,Diagnosis Confirmed,6,Blood,Normal
+Diagnosis Confirmed,Treatment Planning,4,Blood,Normal
+Treatment Planning,Treatment Start,8,Blood,Normal
+Treatment Start,Follow-Up,24,Blood,Normal
+Referral Received,Intake Review,1,Lung,Normal
+Intake Review,Initial Consultation,4,Lung,Normal
+Initial Consultation,Diagnostic Imaging,11,Lung,Normal
+Diagnostic Imaging,Diagnosis Confirmed,5,Lung,Normal
+Diagnosis Confirmed,Treatment Planning,4,Lung,Normal
+Treatment Planning,Treatment Start,12,Lung,Normal
+Treatment Start,Follow-Up,22,Lung,Normal
+Referral Received,Intake Review,3,Lung,Normal
+Intake Review,Initial Consultation,5,Lung,Normal
+Initial Consultation,Diagnostic Imaging,8,Lung,Normal
+Diagnostic Imaging,Diagnosis Confirmed,2,Lung,Normal
+Diagnosis Confirmed,Treatment Planning,5,Lung,Normal
+Treatment Planning,Treatment Start,10,Lung,Normal
+Treatment Start,Follow-Up,26,Lung,Normal
+Referral Received,Intake Review,2,Lung,Normal
+Intake Review,Initial Consultation,4,Lung,Normal
+Initial Consultation,Diagnostic Imaging,10,Lung,Normal
+Diagnostic Imaging,Diagnosis Confirmed,5,Lung,Normal
+Diagnosis Confirmed,Treatment Planning,4,Lung,Normal
+Treatment Planning,Treatment Start,8,Lung,Normal
+Treatment Start,Follow-Up,23,Lung,Normal
+Referral Received,Intake Review,3,Colon,Normal
+Intake Review,Initial Consultation,3,Colon,Normal
+Initial Consultation,Diagnostic Imaging,4,Colon,Normal
+Diagnostic Imaging,Diagnosis Confirmed,3,Colon,Normal
+Diagnosis Confirmed,Treatment Planning,5,Colon,Normal
+Treatment Planning,Treatment Start,14,Colon,Normal
+Treatment Start,Follow-Up,19,Colon,Normal
+Referral Received,Intake Review,2,Colon,Normal
+Intake Review,Initial Consultation,5,Colon,Normal
+Initial Consultation,Diagnostic Imaging,7,Colon,Normal
+Diagnostic Imaging,Diagnosis Confirmed,5,Colon,Normal
+Diagnosis Confirmed,Treatment Planning,4,Colon,Normal
+Treatment Planning,Treatment Start,12,Colon,Normal
+Treatment Start,Follow-Up,22,Colon,Normal
+Referral Received,Intake Review,3,Blood,Normal
+Intake Review,Initial Consultation,3,Blood,Normal
+Initial Consultation,Diagnostic Imaging,6,Blood,Normal
+Diagnostic Imaging,Diagnosis Confirmed,2,Blood,Normal
+Diagnosis Confirmed,Treatment Planning,3,Blood,Normal
+Treatment Planning,Treatment Start,6,Blood,Normal
+Treatment Start,Follow-Up,23,Blood,Normal
+Referral Received,Intake Review,1,Blood,Normal
+Intake Review,Initial Consultation,3,Blood,Normal
+Initial Consultation,Diagnostic Imaging,6,Blood,Normal
+Diagnostic Imaging,Diagnosis Confirmed,6,Blood,Normal
+Diagnosis Confirmed,Treatment Planning,3,Blood,Normal
+Treatment Planning,Treatment Start,6,Blood,Normal
+Treatment Start,Follow-Up,24,Blood,Normal
+Referral Received,Intake Review,1,Blood,Normal
+Intake Review,Initial Consultation,4,Blood,Normal
+Initial Consultation,Diagnostic Imaging,5,Blood,Normal
+Diagnostic Imaging,Diagnosis Confirmed,6,Blood,Normal
+Diagnosis Confirmed,Treatment Planning,3,Blood,Normal
+Treatment Planning,Treatment Start,8,Blood,Normal
+Treatment Start,Follow-Up,17,Blood,Normal
+Referral Received,Intake Review,2,Blood,Normal
+Intake Review,Initial Consultation,5,Blood,Normal
+Initial Consultation,Diagnostic Imaging,3,Blood,Normal
+Diagnostic Imaging,Diagnosis Confirmed,5,Blood,Normal
+Diagnosis Confirmed,Treatment Planning,2,Blood,Normal
+Treatment Planning,Treatment Start,13,Blood,Normal
+Referral Received,Intake Review,2,Prostate,Normal
+Intake Review,Initial Consultation,4,Prostate,Normal
+Initial Consultation,Diagnostic Imaging,5,Prostate,Normal
+Diagnostic Imaging,Diagnosis Confirmed,4,Prostate,Normal
+Diagnosis Confirmed,Treatment Planning,3,Prostate,Normal
+Treatment Planning,Treatment Start,7,Prostate,Normal
+Treatment Start,Follow-Up,14,Prostate,Normal
+Referral Received,Intake Review,1,Lung,Normal
+Intake Review,Initial Consultation,4,Lung,Normal
+Initial Consultation,Diagnostic Imaging,10,Lung,Normal
+Diagnostic Imaging,Diagnosis Confirmed,6,Lung,Normal
+Diagnosis Confirmed,Treatment Planning,3,Lung,Normal
+Treatment Planning,Treatment Start,9,Lung,Normal
+Treatment Start,Follow-Up,27,Lung,Normal
+Referral Received,Intake Review,1,Prostate,Normal
+Intake Review,Initial Consultation,4,Prostate,Normal
+Initial Consultation,Diagnostic Imaging,10,Prostate,Normal
+Diagnostic Imaging,Diagnosis Confirmed,5,Prostate,Normal
+Diagnosis Confirmed,Treatment Planning,3,Prostate,Normal
+Treatment Planning,Treatment Start,4,Prostate,Normal
+Treatment Start,Follow-Up,17,Prostate,Normal
+Referral Received,Intake Review,2,Blood,Normal
+Intake Review,Initial Consultation,5,Blood,Normal
+Initial Consultation,Diagnostic Imaging,8,Blood,Normal
+Diagnostic Imaging,Diagnosis Confirmed,6,Blood,Normal
+Diagnosis Confirmed,Treatment Planning,5,Blood,Normal
+Treatment Planning,Treatment Start,13,Blood,Normal
+Treatment Start,Follow-Up,24,Blood,Normal
+Referral Received,Intake Review,1,Prostate,Normal
+Intake Review,Initial Consultation,3,Prostate,Normal
+Initial Consultation,Diagnostic Imaging,10,Prostate,Normal
+Diagnostic Imaging,Diagnosis Confirmed,2,Prostate,Normal
+Diagnosis Confirmed,Treatment Planning,4,Prostate,Normal
+Treatment Planning,Treatment Start,10,Prostate,Normal
+Treatment Start,Follow-Up,21,Prostate,Normal
+Referral Received,Intake Review,1,Colon,Urgent
+Intake Review,Initial Consultation,2,Colon,Urgent
+Initial Consultation,Diagnostic Imaging,8,Colon,Urgent
+Diagnostic Imaging,Diagnosis Confirmed,2,Colon,Urgent
+Diagnosis Confirmed,Treatment Planning,2,Colon,Urgent
+Treatment Planning,Treatment Start,6,Colon,Urgent
+Treatment Start,Follow-Up,20,Colon,Urgent
+Referral Received,Intake Review,1,Lung,Urgent
+Intake Review,Initial Consultation,2,Lung,Urgent
+Initial Consultation,Diagnostic Imaging,4,Lung,Urgent
+Diagnostic Imaging,Diagnosis Confirmed,4,Lung,Urgent
+Diagnosis Confirmed,Treatment Planning,2,Lung,Urgent
+Treatment Planning,Treatment Start,8,Lung,Urgent
+Treatment Start,Follow-Up,24,Lung,Urgent
+Referral Received,Intake Review,1,Colon,Urgent
+Intake Review,Initial Consultation,2,Colon,Urgent
+Initial Consultation,Diagnostic Imaging,3,Colon,Urgent
+Diagnostic Imaging,Diagnosis Confirmed,4,Colon,Urgent
+Diagnosis Confirmed,Treatment Planning,2,Colon,Urgent
+Treatment Planning,Treatment Start,10,Colon,Urgent
+Treatment Start,Follow-Up,19,Colon,Urgent
+Referral Received,Intake Review,2,Breast,Normal
+Intake Review,Initial Consultation,3,Breast,Normal
+Initial Consultation,Diagnostic Imaging,4,Breast,Normal
+Diagnostic Imaging,Diagnosis Confirmed,4,Breast,Normal
+Diagnosis Confirmed,Treatment Planning,5,Breast,Normal
+Treatment Planning,Treatment Start,9,Breast,Normal
+Treatment Start,Follow-Up,23,Breast,Normal
+Referral Received,Intake Review,2,Colon,Normal
+Intake Review,Initial Consultation,2,Colon,Normal
+Initial Consultation,Diagnostic Imaging,7,Colon,Normal
+Diagnostic Imaging,Diagnosis Confirmed,5,Colon,Normal
+Diagnosis Confirmed,Treatment Planning,5,Colon,Normal
+Treatment Planning,Treatment Start,15,Colon,Normal
+Treatment Start,Follow-Up,25,Colon,Normal
+Referral Received,Intake Review,1,Lung,Normal
+Intake Review,Initial Consultation,5,Lung,Normal
+Initial Consultation,Diagnostic Imaging,8,Lung,Normal
+Diagnostic Imaging,Diagnosis Confirmed,2,Lung,Normal
+Diagnosis Confirmed,Treatment Planning,4,Lung,Normal
+Treatment Planning,Treatment Start,9,Lung,Normal
+Treatment Start,Follow-Up,28,Lung,Normal
+Referral Received,Intake Review,1,Lung,Urgent
+Intake Review,Initial Consultation,2,Lung,Urgent
+Initial Consultation,Diagnostic Imaging,5,Lung,Urgent
+Diagnostic Imaging,Diagnosis Confirmed,2,Lung,Urgent
+Diagnosis Confirmed,Treatment Planning,2,Lung,Urgent
+Treatment Planning,Treatment Start,4,Lung,Urgent
+Treatment Start,Follow-Up,22,Lung,Urgent
+Referral Received,Intake Review,2,Colon,Normal
+Intake Review,Initial Consultation,4,Colon,Normal
+Initial Consultation,Diagnostic Imaging,6,Colon,Normal
+Diagnostic Imaging,Diagnosis Confirmed,3,Colon,Normal
+Diagnosis Confirmed,Treatment Planning,5,Colon,Normal
+Treatment Planning,Treatment Start,9,Colon,Normal
+Treatment Start,Follow-Up,24,Colon,Normal
+Referral Received,Intake Review,1,Colon,Urgent
+Intake Review,Initial Consultation,2,Colon,Urgent
+Initial Consultation,Diagnostic Imaging,5,Colon,Urgent
+Diagnostic Imaging,Diagnosis Confirmed,3,Colon,Urgent
+Diagnosis Confirmed,Treatment Planning,2,Colon,Urgent
+Treatment Planning,Treatment Start,7,Colon,Urgent
+Treatment Start,Follow-Up,21,Colon,Urgent
+Referral Received,Intake Review,1,Colon,Urgent
+Intake Review,Initial Consultation,2,Colon,Urgent
+Initial Consultation,Diagnostic Imaging,3,Colon,Urgent
+Diagnostic Imaging,Diagnosis Confirmed,2,Colon,Urgent
+Diagnosis Confirmed,Treatment Planning,2,Colon,Urgent
+Treatment Planning,Treatment Start,8,Colon,Urgent
+Treatment Start,Follow-Up,20,Colon,Urgent
+Referral Received,Intake Review,1,Lung,Normal
+Intake Review,Initial Consultation,4,Lung,Normal
+Initial Consultation,Diagnostic Imaging,11,Lung,Normal
+Diagnostic Imaging,Diagnosis Confirmed,4,Lung,Normal
+Diagnosis Confirmed,Treatment Planning,2,Lung,Normal
+Treatment Planning,Treatment Start,11,Lung,Normal
+Treatment Start,Follow-Up,14,Lung,Normal
+Referral Received,Intake Review,1,Breast,Urgent
+Intake Review,Initial Consultation,2,Breast,Urgent
+Initial Consultation,Diagnostic Imaging,3,Breast,Urgent
+Diagnostic Imaging,Diagnosis Confirmed,2,Breast,Urgent
+Diagnosis Confirmed,Treatment Planning,2,Breast,Urgent
+Treatment Planning,Treatment Start,7,Breast,Urgent
+Treatment Start,Follow-Up,23,Breast,Urgent
+Referral Received,Intake Review,3,Breast,Normal
+Intake Review,Initial Consultation,5,Breast,Normal
+Initial Consultation,Diagnostic Imaging,4,Breast,Normal
+Diagnostic Imaging,Diagnosis Confirmed,3,Breast,Normal
+Diagnosis Confirmed,Treatment Planning,4,Breast,Normal
+Treatment Planning,Treatment Start,10,Breast,Normal
+Treatment Start,Follow-Up,15,Breast,Normal
+Referral Received,Intake Review,3,Lung,Normal
+Intake Review,Initial Consultation,2,Lung,Normal
+Initial Consultation,Diagnostic Imaging,7,Lung,Normal
+Diagnostic Imaging,Diagnosis Confirmed,7,Lung,Normal
+Diagnosis Confirmed,Treatment Planning,3,Lung,Normal
+Treatment Planning,Treatment Start,7,Lung,Normal
+Treatment Start,Follow-Up,16,Lung,Normal
+Referral Received,Intake Review,3,Breast,Normal
+Intake Review,Initial Consultation,2,Breast,Normal
+Initial Consultation,Diagnostic Imaging,7,Breast,Normal
+Diagnostic Imaging,Diagnosis Confirmed,4,Breast,Normal
+Diagnosis Confirmed,Treatment Planning,5,Breast,Normal
+Treatment Planning,Treatment Start,7,Breast,Normal
+Referral Received,Intake Review,1,Blood,Normal
+Intake Review,Initial Consultation,3,Blood,Normal
+Initial Consultation,Diagnostic Imaging,9,Blood,Normal
+Diagnostic Imaging,Diagnosis Confirmed,7,Blood,Normal
+Diagnosis Confirmed,Treatment Planning,2,Blood,Normal
+Treatment Planning,Treatment Start,6,Blood,Normal
+Treatment Start,Follow-Up,23,Blood,Normal
+Referral Received,Intake Review,2,Prostate,Normal
+Intake Review,Initial Consultation,5,Prostate,Normal
+Initial Consultation,Diagnostic Imaging,3,Prostate,Normal
+Diagnostic Imaging,Diagnosis Confirmed,7,Prostate,Normal
+Diagnosis Confirmed,Treatment Planning,3,Prostate,Normal
+Treatment Planning,Treatment Start,6,Prostate,Normal
+Treatment Start,Follow-Up,30,Prostate,Normal
+Referral Received,Intake Review,1,Prostate,Urgent
+Intake Review,Initial Consultation,3,Prostate,Urgent
+Initial Consultation,Diagnostic Imaging,3,Prostate,Urgent
+Diagnostic Imaging,Diagnosis Confirmed,2,Prostate,Urgent
+Diagnosis Confirmed,Treatment Planning,2,Prostate,Urgent
+Treatment Planning,Treatment Start,4,Prostate,Urgent
+Treatment Start,Follow-Up,14,Prostate,Urgent
+Referral Received,Intake Review,1,Breast,Normal
+Intake Review,Initial Consultation,3,Breast,Normal
+Initial Consultation,Diagnostic Imaging,5,Breast,Normal
+Diagnostic Imaging,Diagnosis Confirmed,3,Breast,Normal
+Diagnosis Confirmed,Treatment Planning,2,Breast,Normal
+Treatment Planning,Treatment Start,6,Breast,Normal
+Treatment Start,Follow-Up,24,Breast,Normal
+Referral Received,Intake Review,1,Lung,Normal
+Intake Review,Initial Consultation,5,Lung,Normal
+Initial Consultation,Diagnostic Imaging,9,Lung,Normal
+Diagnostic Imaging,Diagnosis Confirmed,4,Lung,Normal
+Diagnosis Confirmed,Treatment Planning,3,Lung,Normal
+Treatment Planning,Treatment Start,12,Lung,Normal
+Treatment Start,Follow-Up,26,Lung,Normal
+Referral Received,Intake Review,3,Colon,Normal
+Intake Review,Initial Consultation,3,Colon,Normal
+Initial Consultation,Diagnostic Imaging,6,Colon,Normal
+Diagnostic Imaging,Diagnosis Confirmed,6,Colon,Normal
+Diagnosis Confirmed,Treatment Planning,2,Colon,Normal
+Treatment Planning,Treatment Start,9,Colon,Normal
+Referral Received,Intake Review,2,Lung,Normal
+Intake Review,Initial Consultation,3,Lung,Normal
+Initial Consultation,Diagnostic Imaging,9,Lung,Normal
+Diagnostic Imaging,Diagnosis Confirmed,4,Lung,Normal
+Diagnosis Confirmed,Treatment Planning,5,Lung,Normal
+Treatment Planning,Treatment Start,12,Lung,Normal
+Treatment Start,Follow-Up,19,Lung,Normal
+Referral Received,Intake Review,3,Colon,Normal
+Intake Review,Initial Consultation,3,Colon,Normal
+Initial Consultation,Diagnostic Imaging,8,Colon,Normal
+Diagnostic Imaging,Diagnosis Confirmed,7,Colon,Normal
+Diagnosis Confirmed,Treatment Planning,3,Colon,Normal
+Treatment Planning,Treatment Start,5,Colon,Normal
+Treatment Start,Follow-Up,19,Colon,Normal
+Referral Received,Intake Review,1,Colon,Normal
+Intake Review,Initial Consultation,2,Colon,Normal
+Initial Consultation,Diagnostic Imaging,5,Colon,Normal
+Diagnostic Imaging,Diagnosis Confirmed,6,Colon,Normal
+Diagnosis Confirmed,Treatment Planning,3,Colon,Normal
+Treatment Planning,Treatment Start,8,Colon,Normal
+Treatment Start,Follow-Up,22,Colon,Normal
+Referral Received,Intake Review,1,Lung,Normal
+Intake Review,Initial Consultation,2,Lung,Normal
+Initial Consultation,Diagnostic Imaging,8,Lung,Normal
+Diagnostic Imaging,Diagnosis Confirmed,7,Lung,Normal
+Diagnosis Confirmed,Treatment Planning,5,Lung,Normal
+Treatment Planning,Treatment Start,11,Lung,Normal
+Treatment Start,Follow-Up,15,Lung,Normal
+Referral Received,Intake Review,3,Lung,Normal
+Intake Review,Initial Consultation,3,Lung,Normal
+Initial Consultation,Diagnostic Imaging,5,Lung,Normal
+Diagnostic Imaging,Diagnosis Confirmed,3,Lung,Normal
+Diagnosis Confirmed,Treatment Planning,5,Lung,Normal
+Treatment Planning,Treatment Start,6,Lung,Normal
+Treatment Start,Follow-Up,16,Lung,Normal
+Referral Received,Intake Review,3,Prostate,Normal
+Intake Review,Initial Consultation,2,Prostate,Normal
+Initial Consultation,Diagnostic Imaging,9,Prostate,Normal
+Diagnostic Imaging,Diagnosis Confirmed,5,Prostate,Normal
+Diagnosis Confirmed,Treatment Planning,5,Prostate,Normal
+Treatment Planning,Treatment Start,4,Prostate,Normal
+Treatment Start,Follow-Up,14,Prostate,Normal
+Referral Received,Intake Review,2,Colon,Normal
+Intake Review,Initial Consultation,2,Colon,Normal
+Initial Consultation,Diagnostic Imaging,9,Colon,Normal
+Diagnostic Imaging,Diagnosis Confirmed,6,Colon,Normal
+Diagnosis Confirmed,Treatment Planning,5,Colon,Normal
+Treatment Planning,Treatment Start,5,Colon,Normal
+Treatment Start,Follow-Up,21,Colon,Normal
+Referral Received,Intake Review,1,Colon,Normal
+Intake Review,Initial Consultation,5,Colon,Normal
+Initial Consultation,Diagnostic Imaging,7,Colon,Normal
+Diagnostic Imaging,Diagnosis Confirmed,3,Colon,Normal
+Diagnosis Confirmed,Treatment Planning,3,Colon,Normal
+Treatment Planning,Treatment Start,6,Colon,Normal
+Treatment Start,Follow-Up,14,Colon,Normal
+Referral Received,Intake Review,1,Colon,Normal
+Intake Review,Initial Consultation,2,Colon,Normal
+Initial Consultation,Diagnostic Imaging,7,Colon,Normal
+Diagnostic Imaging,Diagnosis Confirmed,4,Colon,Normal
+Diagnosis Confirmed,Treatment Planning,4,Colon,Normal
+Treatment Planning,Treatment Start,8,Colon,Normal
+Treatment Start,Follow-Up,14,Colon,Normal
+Referral Received,Intake Review,3,Prostate,Normal
+Intake Review,Initial Consultation,3,Prostate,Normal
+Initial Consultation,Diagnostic Imaging,7,Prostate,Normal
+Diagnostic Imaging,Diagnosis Confirmed,3,Prostate,Normal
+Diagnosis Confirmed,Treatment Planning,4,Prostate,Normal
+Treatment Planning,Treatment Start,5,Prostate,Normal
+Treatment Start,Follow-Up,16,Prostate,Normal
+Referral Received,Intake Review,1,Blood,Normal
+Intake Review,Initial Consultation,3,Blood,Normal
+Initial Consultation,Diagnostic Imaging,5,Blood,Normal
+Diagnostic Imaging,Diagnosis Confirmed,4,Blood,Normal
+Diagnosis Confirmed,Treatment Planning,3,Blood,Normal
+Treatment Planning,Treatment Start,13,Blood,Normal
+Treatment Start,Follow-Up,26,Blood,Normal
+Referral Received,Intake Review,1,Breast,Normal
+Intake Review,Initial Consultation,2,Breast,Normal
+Initial Consultation,Diagnostic Imaging,4,Breast,Normal
+Diagnostic Imaging,Diagnosis Confirmed,6,Breast,Normal
+Diagnosis Confirmed,Treatment Planning,5,Breast,Normal
+Treatment Planning,Treatment Start,11,Breast,Normal
+Treatment Start,Follow-Up,20,Breast,Normal
+Referral Received,Intake Review,3,Breast,Normal
+Intake Review,Initial Consultation,2,Breast,Normal
+Initial Consultation,Diagnostic Imaging,9,Breast,Normal
+Diagnostic Imaging,Diagnosis Confirmed,3,Breast,Normal
+Diagnosis Confirmed,Treatment Planning,2,Breast,Normal
+Treatment Planning,Treatment Start,11,Breast,Normal
+Treatment Start,Follow-Up,29,Breast,Normal
+Referral Received,Intake Review,1,Colon,Urgent
+Intake Review,Initial Consultation,2,Colon,Urgent
+Initial Consultation,Diagnostic Imaging,3,Colon,Urgent
+Diagnostic Imaging,Diagnosis Confirmed,2,Colon,Urgent
+Diagnosis Confirmed,Treatment Planning,2,Colon,Urgent
+Treatment Planning,Treatment Start,5,Colon,Urgent
+Treatment Start,Follow-Up,15,Colon,Urgent
+Referral Received,Intake Review,1,Lung,Urgent
+Intake Review,Initial Consultation,3,Lung,Urgent
+Initial Consultation,Diagnostic Imaging,12,Lung,Urgent
+Diagnostic Imaging,Diagnosis Confirmed,2,Lung,Urgent
+Diagnosis Confirmed,Treatment Planning,3,Lung,Urgent
+Treatment Planning,Treatment Start,7,Lung,Urgent
+Treatment Start,Follow-Up,16,Lung,Urgent
+Referral Received,Intake Review,1,Lung,Urgent
+Intake Review,Initial Consultation,2,Lung,Urgent
+Initial Consultation,Diagnostic Imaging,9,Lung,Urgent
+Diagnostic Imaging,Diagnosis Confirmed,3,Lung,Urgent
+Diagnosis Confirmed,Treatment Planning,3,Lung,Urgent
+Treatment Planning,Treatment Start,4,Lung,Urgent
+Treatment Start,Follow-Up,19,Lung,Urgent
+Referral Received,Intake Review,2,Blood,Normal
+Intake Review,Initial Consultation,4,Blood,Normal
+Initial Consultation,Diagnostic Imaging,8,Blood,Normal
+Diagnostic Imaging,Diagnosis Confirmed,5,Blood,Normal
+Diagnosis Confirmed,Treatment Planning,4,Blood,Normal
+Treatment Planning,Treatment Start,8,Blood,Normal
+Treatment Start,Follow-Up,23,Blood,Normal
+Referral Received,Intake Review,1,Lung,Urgent
+Intake Review,Initial Consultation,2,Lung,Urgent
+Initial Consultation,Diagnostic Imaging,7,Lung,Urgent
+Diagnostic Imaging,Diagnosis Confirmed,2,Lung,Urgent
+Diagnosis Confirmed,Treatment Planning,3,Lung,Urgent
+Treatment Planning,Treatment Start,4,Lung,Urgent
+Treatment Start,Follow-Up,22,Lung,Urgent
+Referral Received,Intake Review,3,Breast,Normal
+Intake Review,Initial Consultation,3,Breast,Normal
+Initial Consultation,Diagnostic Imaging,8,Breast,Normal
+Diagnostic Imaging,Diagnosis Confirmed,7,Breast,Normal
+Diagnosis Confirmed,Treatment Planning,5,Breast,Normal
+Treatment Planning,Treatment Start,14,Breast,Normal
+Treatment Start,Follow-Up,14,Breast,Normal
+Referral Received,Intake Review,2,Lung,Normal
+Intake Review,Initial Consultation,5,Lung,Normal
+Initial Consultation,Diagnostic Imaging,10,Lung,Normal
+Diagnostic Imaging,Diagnosis Confirmed,2,Lung,Normal
+Diagnosis Confirmed,Treatment Planning,4,Lung,Normal
+Treatment Planning,Treatment Start,11,Lung,Normal
+Treatment Start,Follow-Up,25,Lung,Normal
+Referral Received,Intake Review,2,Breast,Normal
+Intake Review,Initial Consultation,4,Breast,Normal
+Initial Consultation,Diagnostic Imaging,5,Breast,Normal
+Diagnostic Imaging,Diagnosis Confirmed,7,Breast,Normal
+Diagnosis Confirmed,Treatment Planning,4,Breast,Normal
+Treatment Planning,Treatment Start,13,Breast,Normal
+Treatment Start,Follow-Up,25,Breast,Normal
+Referral Received,Intake Review,3,Colon,Normal
+Intake Review,Initial Consultation,2,Colon,Normal
+Initial Consultation,Diagnostic Imaging,3,Colon,Normal
+Diagnostic Imaging,Diagnosis Confirmed,4,Colon,Normal
+Diagnosis Confirmed,Treatment Planning,3,Colon,Normal
+Treatment Planning,Treatment Start,10,Colon,Normal
+Treatment Start,Follow-Up,27,Colon,Normal
+Referral Received,Intake Review,3,Breast,Normal
+Intake Review,Initial Consultation,5,Breast,Normal
+Initial Consultation,Diagnostic Imaging,8,Breast,Normal
+Diagnostic Imaging,Diagnosis Confirmed,7,Breast,Normal
+Diagnosis Confirmed,Treatment Planning,2,Breast,Normal
+Treatment Planning,Treatment Start,11,Breast,Normal
+Treatment Start,Follow-Up,14,Breast,Normal
+Referral Received,Intake Review,1,Breast,Normal
+Intake Review,Initial Consultation,5,Breast,Normal
+Initial Consultation,Diagnostic Imaging,8,Breast,Normal
+Diagnostic Imaging,Diagnosis Confirmed,3,Breast,Normal
+Diagnosis Confirmed,Treatment Planning,2,Breast,Normal
+Treatment Planning,Treatment Start,7,Breast,Normal
+Treatment Start,Follow-Up,24,Breast,Normal
+Referral Received,Intake Review,3,Breast,Normal
+Intake Review,Initial Consultation,4,Breast,Normal
+Initial Consultation,Diagnostic Imaging,6,Breast,Normal
+Diagnostic Imaging,Diagnosis Confirmed,4,Breast,Normal
+Diagnosis Confirmed,Treatment Planning,5,Breast,Normal
+Treatment Planning,Treatment Start,6,Breast,Normal
+Treatment Start,Follow-Up,18,Breast,Normal
+Referral Received,Intake Review,3,Lung,Normal
+Intake Review,Initial Consultation,3,Lung,Normal
+Initial Consultation,Diagnostic Imaging,9,Lung,Normal
+Diagnostic Imaging,Diagnosis Confirmed,6,Lung,Normal
+Diagnosis Confirmed,Treatment Planning,3,Lung,Normal
+Treatment Planning,Treatment Start,6,Lung,Normal
+Treatment Start,Follow-Up,29,Lung,Normal
+Referral Received,Intake Review,1,Colon,Normal
+Intake Review,Initial Consultation,4,Colon,Normal
+Initial Consultation,Diagnostic Imaging,4,Colon,Normal
+Diagnostic Imaging,Diagnosis Confirmed,4,Colon,Normal
+Diagnosis Confirmed,Treatment Planning,2,Colon,Normal
+Treatment Planning,Treatment Start,15,Colon,Normal
+Treatment Start,Follow-Up,25,Colon,Normal
+Referral Received,Intake Review,1,Prostate,Urgent
+Intake Review,Initial Consultation,2,Prostate,Urgent
+Initial Consultation,Diagnostic Imaging,3,Prostate,Urgent
+Diagnostic Imaging,Diagnosis Confirmed,4,Prostate,Urgent
+Diagnosis Confirmed,Treatment Planning,2,Prostate,Urgent
+Treatment Planning,Treatment Start,9,Prostate,Urgent
+Treatment Start,Follow-Up,16,Prostate,Urgent
+Referral Received,Intake Review,1,Blood,Normal
+Intake Review,Initial Consultation,2,Blood,Normal
+Initial Consultation,Diagnostic Imaging,4,Blood,Normal
+Diagnostic Imaging,Diagnosis Confirmed,6,Blood,Normal
+Diagnosis Confirmed,Treatment Planning,4,Blood,Normal
+Treatment Planning,Treatment Start,13,Blood,Normal
+Treatment Start,Follow-Up,17,Blood,Normal
+Referral Received,Intake Review,1,Prostate,Urgent
+Intake Review,Initial Consultation,2,Prostate,Urgent
+Initial Consultation,Diagnostic Imaging,7,Prostate,Urgent
+Diagnostic Imaging,Diagnosis Confirmed,4,Prostate,Urgent
+Diagnosis Confirmed,Treatment Planning,3,Prostate,Urgent
+Treatment Planning,Treatment Start,9,Prostate,Urgent
+Treatment Start,Follow-Up,24,Prostate,Urgent
+Referral Received,Intake Review,3,Lung,Normal
+Intake Review,Initial Consultation,2,Lung,Normal
+Initial Consultation,Diagnostic Imaging,10,Lung,Normal
+Diagnostic Imaging,Diagnosis Confirmed,6,Lung,Normal
+Diagnosis Confirmed,Treatment Planning,5,Lung,Normal
+Treatment Planning,Treatment Start,6,Lung,Normal
+Treatment Start,Follow-Up,30,Lung,Normal
+Referral Received,Intake Review,1,Blood,Normal
+Intake Review,Initial Consultation,5,Blood,Normal
+Initial Consultation,Diagnostic Imaging,4,Blood,Normal
+Diagnostic Imaging,Diagnosis Confirmed,6,Blood,Normal
+Diagnosis Confirmed,Treatment Planning,3,Blood,Normal
+Treatment Planning,Treatment Start,9,Blood,Normal
+Treatment Start,Follow-Up,30,Blood,Normal
+Referral Received,Intake Review,1,Blood,Urgent
+Intake Review,Initial Consultation,2,Blood,Urgent
+Initial Consultation,Diagnostic Imaging,4,Blood,Urgent
+Diagnostic Imaging,Diagnosis Confirmed,2,Blood,Urgent
+Diagnosis Confirmed,Treatment Planning,2,Blood,Urgent
+Treatment Planning,Treatment Start,7,Blood,Urgent
+Treatment Start,Follow-Up,20,Blood,Urgent
+Referral Received,Intake Review,1,Breast,Normal
+Intake Review,Initial Consultation,2,Breast,Normal
+Initial Consultation,Diagnostic Imaging,3,Breast,Normal
+Diagnostic Imaging,Diagnosis Confirmed,6,Breast,Normal
+Diagnosis Confirmed,Treatment Planning,4,Breast,Normal
+Treatment Planning,Treatment Start,14,Breast,Normal
+Treatment Start,Follow-Up,26,Breast,Normal
+Referral Received,Intake Review,3,Blood,Normal
+Intake Review,Initial Consultation,5,Blood,Normal
+Initial Consultation,Diagnostic Imaging,6,Blood,Normal
+Diagnostic Imaging,Diagnosis Confirmed,5,Blood,Normal
+Diagnosis Confirmed,Treatment Planning,3,Blood,Normal
+Treatment Planning,Treatment Start,14,Blood,Normal
+Treatment Start,Follow-Up,18,Blood,Normal
+Referral Received,Intake Review,3,Breast,Normal
+Intake Review,Initial Consultation,2,Breast,Normal
+Initial Consultation,Diagnostic Imaging,4,Breast,Normal
+Diagnostic Imaging,Diagnosis Confirmed,4,Breast,Normal
+Diagnosis Confirmed,Treatment Planning,4,Breast,Normal
+Treatment Planning,Treatment Start,13,Breast,Normal
+Treatment Start,Follow-Up,29,Breast,Normal
+Referral Received,Intake Review,3,Prostate,Normal
+Intake Review,Initial Consultation,4,Prostate,Normal
+Initial Consultation,Diagnostic Imaging,7,Prostate,Normal
+Diagnostic Imaging,Diagnosis Confirmed,4,Prostate,Normal
+Diagnosis Confirmed,Treatment Planning,2,Prostate,Normal
+Treatment Planning,Treatment Start,5,Prostate,Normal
+Treatment Start,Follow-Up,16,Prostate,Normal
+Referral Received,Intake Review,1,Lung,Urgent
+Intake Review,Initial Consultation,3,Lung,Urgent
+Initial Consultation,Diagnostic Imaging,4,Lung,Urgent
+Diagnostic Imaging,Diagnosis Confirmed,3,Lung,Urgent
+Diagnosis Confirmed,Treatment Planning,2,Lung,Urgent
+Treatment Planning,Treatment Start,8,Lung,Urgent
+Treatment Start,Follow-Up,19,Lung,Urgent
+Referral Received,Intake Review,1,Colon,Normal
+Intake Review,Initial Consultation,5,Colon,Normal
+Initial Consultation,Diagnostic Imaging,8,Colon,Normal
+Diagnostic Imaging,Diagnosis Confirmed,3,Colon,Normal
+Diagnosis Confirmed,Treatment Planning,2,Colon,Normal
+Treatment Planning,Treatment Start,10,Colon,Normal
+Treatment Start,Follow-Up,19,Colon,Normal
+Referral Received,Intake Review,3,Prostate,Normal
+Intake Review,Initial Consultation,3,Prostate,Normal
+Initial Consultation,Diagnostic Imaging,5,Prostate,Normal
+Diagnostic Imaging,Diagnosis Confirmed,4,Prostate,Normal
+Diagnosis Confirmed,Treatment Planning,2,Prostate,Normal
+Treatment Planning,Treatment Start,10,Prostate,Normal
+Treatment Start,Follow-Up,22,Prostate,Normal
+Referral Received,Intake Review,1,Lung,Urgent
+Intake Review,Initial Consultation,2,Lung,Urgent
+Initial Consultation,Diagnostic Imaging,6,Lung,Urgent
+Diagnostic Imaging,Diagnosis Confirmed,2,Lung,Urgent
+Diagnosis Confirmed,Treatment Planning,2,Lung,Urgent
+Treatment Planning,Treatment Start,8,Lung,Urgent
+Treatment Start,Follow-Up,27,Lung,Urgent
+Referral Received,Intake Review,3,Breast,Normal
+Intake Review,Initial Consultation,4,Breast,Normal
+Initial Consultation,Diagnostic Imaging,9,Breast,Normal
+Diagnostic Imaging,Diagnosis Confirmed,2,Breast,Normal
+Diagnosis Confirmed,Treatment Planning,5,Breast,Normal
+Treatment Planning,Treatment Start,12,Breast,Normal
+Treatment Start,Follow-Up,19,Breast,Normal
+Referral Received,Intake Review,1,Prostate,Normal
+Intake Review,Initial Consultation,2,Prostate,Normal
+Initial Consultation,Diagnostic Imaging,5,Prostate,Normal
+Diagnostic Imaging,Diagnosis Confirmed,2,Prostate,Normal
+Diagnosis Confirmed,Treatment Planning,3,Prostate,Normal
+Treatment Planning,Treatment Start,11,Prostate,Normal
+Treatment Start,Follow-Up,26,Prostate,Normal
+Referral Received,Intake Review,1,Blood,Normal
+Intake Review,Initial Consultation,5,Blood,Normal
+Initial Consultation,Diagnostic Imaging,7,Blood,Normal
+Diagnostic Imaging,Diagnosis Confirmed,2,Blood,Normal
+Diagnosis Confirmed,Treatment Planning,3,Blood,Normal
+Treatment Planning,Treatment Start,10,Blood,Normal
+Treatment Start,Follow-Up,17,Blood,Normal
+Referral Received,Intake Review,1,Prostate,Urgent
+Intake Review,Initial Consultation,2,Prostate,Urgent
+Initial Consultation,Diagnostic Imaging,6,Prostate,Urgent
+Diagnostic Imaging,Diagnosis Confirmed,4,Prostate,Urgent
+Diagnosis Confirmed,Treatment Planning,3,Prostate,Urgent
+Treatment Planning,Treatment Start,4,Prostate,Urgent
+Referral Received,Intake Review,1,Breast,Normal
+Intake Review,Initial Consultation,3,Breast,Normal
+Initial Consultation,Diagnostic Imaging,9,Breast,Normal
+Diagnostic Imaging,Diagnosis Confirmed,5,Breast,Normal
+Diagnosis Confirmed,Treatment Planning,4,Breast,Normal
+Treatment Planning,Treatment Start,6,Breast,Normal
+Treatment Start,Follow-Up,17,Breast,Normal
+Referral Received,Intake Review,1,Blood,Urgent
+Intake Review,Initial Consultation,3,Blood,Urgent
+Initial Consultation,Diagnostic Imaging,3,Blood,Urgent
+Diagnostic Imaging,Diagnosis Confirmed,2,Blood,Urgent
+Diagnosis Confirmed,Treatment Planning,2,Blood,Urgent
+Treatment Planning,Treatment Start,11,Blood,Urgent
+Treatment Start,Follow-Up,18,Blood,Urgent
+Referral Received,Intake Review,2,Blood,Normal
+Intake Review,Initial Consultation,4,Blood,Normal
+Initial Consultation,Diagnostic Imaging,3,Blood,Normal
+Diagnostic Imaging,Diagnosis Confirmed,5,Blood,Normal
+Diagnosis Confirmed,Treatment Planning,3,Blood,Normal
+Treatment Planning,Treatment Start,6,Blood,Normal
+Treatment Start,Follow-Up,23,Blood,Normal
+Referral Received,Intake Review,3,Lung,Normal
+Intake Review,Initial Consultation,2,Lung,Normal
+Initial Consultation,Diagnostic Imaging,8,Lung,Normal
+Diagnostic Imaging,Diagnosis Confirmed,7,Lung,Normal
+Diagnosis Confirmed,Treatment Planning,2,Lung,Normal
+Treatment Planning,Treatment Start,10,Lung,Normal
+Treatment Start,Follow-Up,16,Lung,Normal
+Referral Received,Intake Review,1,Prostate,Normal
+Intake Review,Initial Consultation,4,Prostate,Normal
+Initial Consultation,Diagnostic Imaging,7,Prostate,Normal
+Diagnostic Imaging,Diagnosis Confirmed,4,Prostate,Normal
+Diagnosis Confirmed,Treatment Planning,3,Prostate,Normal
+Treatment Planning,Treatment Start,7,Prostate,Normal
+Treatment Start,Follow-Up,23,Prostate,Normal
+Referral Received,Intake Review,1,Breast,Normal
+Intake Review,Initial Consultation,2,Breast,Normal
+Initial Consultation,Diagnostic Imaging,8,Breast,Normal
+Diagnostic Imaging,Diagnosis Confirmed,7,Breast,Normal
+Diagnosis Confirmed,Treatment Planning,3,Breast,Normal
+Treatment Planning,Treatment Start,10,Breast,Normal
+Referral Received,Intake Review,1,Lung,Normal
+Intake Review,Initial Consultation,2,Lung,Normal
+Initial Consultation,Diagnostic Imaging,8,Lung,Normal
+Diagnostic Imaging,Diagnosis Confirmed,5,Lung,Normal
+Diagnosis Confirmed,Treatment Planning,5,Lung,Normal
+Treatment Planning,Treatment Start,10,Lung,Normal
+Treatment Start,Follow-Up,30,Lung,Normal
+Referral Received,Intake Review,3,Prostate,Normal
+Intake Review,Initial Consultation,4,Prostate,Normal
+Initial Consultation,Diagnostic Imaging,3,Prostate,Normal
+Diagnostic Imaging,Diagnosis Confirmed,6,Prostate,Normal
+Diagnosis Confirmed,Treatment Planning,4,Prostate,Normal
+Treatment Planning,Treatment Start,7,Prostate,Normal
+Treatment Start,Follow-Up,19,Prostate,Normal
+Referral Received,Intake Review,1,Prostate,Normal
+Intake Review,Initial Consultation,3,Prostate,Normal
+Initial Consultation,Diagnostic Imaging,7,Prostate,Normal
+Diagnostic Imaging,Diagnosis Confirmed,3,Prostate,Normal
+Diagnosis Confirmed,Treatment Planning,2,Prostate,Normal
+Treatment Planning,Treatment Start,11,Prostate,Normal
+Treatment Start,Follow-Up,29,Prostate,Normal
+Referral Received,Intake Review,3,Lung,Normal
+Intake Review,Initial Consultation,4,Lung,Normal
+Initial Consultation,Diagnostic Imaging,11,Lung,Normal
+Diagnostic Imaging,Diagnosis Confirmed,7,Lung,Normal
+Diagnosis Confirmed,Treatment Planning,2,Lung,Normal
+Treatment Planning,Treatment Start,5,Lung,Normal
+Referral Received,Intake Review,3,Prostate,Normal
+Intake Review,Initial Consultation,4,Prostate,Normal
+Initial Consultation,Diagnostic Imaging,8,Prostate,Normal
+Diagnostic Imaging,Diagnosis Confirmed,7,Prostate,Normal
+Diagnosis Confirmed,Treatment Planning,3,Prostate,Normal
+Treatment Planning,Treatment Start,11,Prostate,Normal
+Treatment Start,Follow-Up,27,Prostate,Normal
+Referral Received,Intake Review,3,Colon,Normal
+Intake Review,Initial Consultation,4,Colon,Normal
+Initial Consultation,Diagnostic Imaging,3,Colon,Normal
+Diagnostic Imaging,Diagnosis Confirmed,7,Colon,Normal
+Diagnosis Confirmed,Treatment Planning,3,Colon,Normal
+Treatment Planning,Treatment Start,14,Colon,Normal
+Treatment Start,Follow-Up,15,Colon,Normal
+Referral Received,Intake Review,1,Colon,Normal
+Intake Review,Initial Consultation,5,Colon,Normal
+Initial Consultation,Diagnostic Imaging,7,Colon,Normal
+Diagnostic Imaging,Diagnosis Confirmed,2,Colon,Normal
+Diagnosis Confirmed,Treatment Planning,4,Colon,Normal
+Treatment Planning,Treatment Start,10,Colon,Normal
+Treatment Start,Follow-Up,14,Colon,Normal
+Referral Received,Intake Review,3,Breast,Normal
+Intake Review,Initial Consultation,2,Breast,Normal
+Initial Consultation,Diagnostic Imaging,4,Breast,Normal
+Diagnostic Imaging,Diagnosis Confirmed,7,Breast,Normal
+Diagnosis Confirmed,Treatment Planning,3,Breast,Normal
+Treatment Planning,Treatment Start,14,Breast,Normal
+Treatment Start,Follow-Up,19,Breast,Normal
+Referral Received,Intake Review,2,Blood,Normal
+Intake Review,Initial Consultation,4,Blood,Normal
+Initial Consultation,Diagnostic Imaging,3,Blood,Normal
+Diagnostic Imaging,Diagnosis Confirmed,5,Blood,Normal
+Diagnosis Confirmed,Treatment Planning,4,Blood,Normal
+Treatment Planning,Treatment Start,13,Blood,Normal
+Treatment Start,Follow-Up,28,Blood,Normal
+Referral Received,Intake Review,3,Prostate,Normal
+Intake Review,Initial Consultation,2,Prostate,Normal
+Initial Consultation,Diagnostic Imaging,10,Prostate,Normal
+Diagnostic Imaging,Diagnosis Confirmed,3,Prostate,Normal
+Diagnosis Confirmed,Treatment Planning,2,Prostate,Normal
+Treatment Planning,Treatment Start,10,Prostate,Normal
+Treatment Start,Follow-Up,29,Prostate,Normal
+Referral Received,Intake Review,1,Breast,Urgent
+Intake Review,Initial Consultation,3,Breast,Urgent
+Initial Consultation,Diagnostic Imaging,3,Breast,Urgent
+Diagnostic Imaging,Diagnosis Confirmed,5,Breast,Urgent
+Diagnosis Confirmed,Treatment Planning,2,Breast,Urgent
+Treatment Planning,Treatment Start,5,Breast,Urgent
+Treatment Start,Follow-Up,26,Breast,Urgent
+Referral Received,Intake Review,3,Colon,Normal
+Intake Review,Initial Consultation,2,Colon,Normal
+Initial Consultation,Diagnostic Imaging,3,Colon,Normal
+Diagnostic Imaging,Diagnosis Confirmed,3,Colon,Normal
+Diagnosis Confirmed,Treatment Planning,5,Colon,Normal
+Treatment Planning,Treatment Start,8,Colon,Normal
+Treatment Start,Follow-Up,25,Colon,Normal
+Referral Received,Intake Review,1,Breast,Normal
+Intake Review,Initial Consultation,5,Breast,Normal
+Initial Consultation,Diagnostic Imaging,10,Breast,Normal
+Diagnostic Imaging,Diagnosis Confirmed,6,Breast,Normal
+Diagnosis Confirmed,Treatment Planning,3,Breast,Normal
+Treatment Planning,Treatment Start,5,Breast,Normal
+Treatment Start,Follow-Up,29,Breast,Normal
+Referral Received,Intake Review,1,Blood,Urgent
+Intake Review,Initial Consultation,2,Blood,Urgent
+Initial Consultation,Diagnostic Imaging,8,Blood,Urgent
+Diagnostic Imaging,Diagnosis Confirmed,2,Blood,Urgent
+Diagnosis Confirmed,Treatment Planning,2,Blood,Urgent
+Treatment Planning,Treatment Start,7,Blood,Urgent
+Treatment Start,Follow-Up,14,Blood,Urgent
+Referral Received,Intake Review,1,Breast,Normal
+Intake Review,Initial Consultation,4,Breast,Normal
+Initial Consultation,Diagnostic Imaging,5,Breast,Normal
+Diagnostic Imaging,Diagnosis Confirmed,6,Breast,Normal
+Diagnosis Confirmed,Treatment Planning,5,Breast,Normal
+Treatment Planning,Treatment Start,7,Breast,Normal
+Treatment Start,Follow-Up,17,Breast,Normal
+Referral Received,Intake Review,1,Prostate,Normal
+Intake Review,Initial Consultation,5,Prostate,Normal
+Initial Consultation,Diagnostic Imaging,3,Prostate,Normal
+Diagnostic Imaging,Diagnosis Confirmed,5,Prostate,Normal
+Diagnosis Confirmed,Treatment Planning,2,Prostate,Normal
+Treatment Planning,Treatment Start,7,Prostate,Normal
+Treatment Start,Follow-Up,19,Prostate,Normal
+Referral Received,Intake Review,1,Lung,Urgent
+Intake Review,Initial Consultation,2,Lung,Urgent
+Initial Consultation,Diagnostic Imaging,4,Lung,Urgent
+Diagnostic Imaging,Diagnosis Confirmed,5,Lung,Urgent
+Diagnosis Confirmed,Treatment Planning,2,Lung,Urgent
+Treatment Planning,Treatment Start,7,Lung,Urgent
+Treatment Start,Follow-Up,14,Lung,Urgent
+Referral Received,Intake Review,1,Lung,Normal
+Intake Review,Initial Consultation,5,Lung,Normal
+Initial Consultation,Diagnostic Imaging,13,Lung,Normal
+Diagnostic Imaging,Diagnosis Confirmed,7,Lung,Normal
+Diagnosis Confirmed,Treatment Planning,5,Lung,Normal
+Treatment Planning,Treatment Start,4,Lung,Normal
+Treatment Start,Follow-Up,26,Lung,Normal
+Referral Received,Intake Review,2,Prostate,Normal
+Intake Review,Initial Consultation,4,Prostate,Normal
+Initial Consultation,Diagnostic Imaging,4,Prostate,Normal
+Diagnostic Imaging,Diagnosis Confirmed,5,Prostate,Normal
+Diagnosis Confirmed,Treatment Planning,2,Prostate,Normal
+Treatment Planning,Treatment Start,10,Prostate,Normal
+Treatment Start,Follow-Up,16,Prostate,Normal
+Referral Received,Intake Review,3,Breast,Normal
+Intake Review,Initial Consultation,2,Breast,Normal
+Initial Consultation,Diagnostic Imaging,3,Breast,Normal
+Diagnostic Imaging,Diagnosis Confirmed,7,Breast,Normal
+Diagnosis Confirmed,Treatment Planning,3,Breast,Normal
+Treatment Planning,Treatment Start,6,Breast,Normal
+Treatment Start,Follow-Up,14,Breast,Normal
+Referral Received,Intake Review,1,Colon,Urgent
+Intake Review,Initial Consultation,3,Colon,Urgent
+Initial Consultation,Diagnostic Imaging,3,Colon,Urgent
+Diagnostic Imaging,Diagnosis Confirmed,4,Colon,Urgent
+Diagnosis Confirmed,Treatment Planning,2,Colon,Urgent
+Treatment Planning,Treatment Start,6,Colon,Urgent
+Referral Received,Intake Review,1,Lung,Urgent
+Intake Review,Initial Consultation,2,Lung,Urgent
+Initial Consultation,Diagnostic Imaging,6,Lung,Urgent
+Diagnostic Imaging,Diagnosis Confirmed,2,Lung,Urgent
+Diagnosis Confirmed,Treatment Planning,2,Lung,Urgent
+Treatment Planning,Treatment Start,5,Lung,Urgent
+Treatment Start,Follow-Up,23,Lung,Urgent
+Referral Received,Intake Review,1,Breast,Normal
+Intake Review,Initial Consultation,5,Breast,Normal
+Initial Consultation,Diagnostic Imaging,10,Breast,Normal
+Diagnostic Imaging,Diagnosis Confirmed,3,Breast,Normal
+Diagnosis Confirmed,Treatment Planning,2,Breast,Normal
+Treatment Planning,Treatment Start,11,Breast,Normal
+Treatment Start,Follow-Up,21,Breast,Normal
+Referral Received,Intake Review,1,Lung,Normal
+Intake Review,Initial Consultation,5,Lung,Normal
+Initial Consultation,Diagnostic Imaging,9,Lung,Normal
+Diagnostic Imaging,Diagnosis Confirmed,7,Lung,Normal
+Diagnosis Confirmed,Treatment Planning,5,Lung,Normal
+Treatment Planning,Treatment Start,7,Lung,Normal
+Treatment Start,Follow-Up,19,Lung,Normal
+Referral Received,Intake Review,1,Blood,Normal
+Intake Review,Initial Consultation,3,Blood,Normal
+Initial Consultation,Diagnostic Imaging,10,Blood,Normal
+Diagnostic Imaging,Diagnosis Confirmed,7,Blood,Normal
+Diagnosis Confirmed,Treatment Planning,2,Blood,Normal
+Treatment Planning,Treatment Start,10,Blood,Normal
+Treatment Start,Follow-Up,19,Blood,Normal
+Referral Received,Intake Review,3,Blood,Normal
+Intake Review,Initial Consultation,4,Blood,Normal
+Initial Consultation,Diagnostic Imaging,6,Blood,Normal
+Diagnostic Imaging,Diagnosis Confirmed,2,Blood,Normal
+Diagnosis Confirmed,Treatment Planning,4,Blood,Normal
+Treatment Planning,Treatment Start,9,Blood,Normal
+Treatment Start,Follow-Up,18,Blood,Normal
+Referral Received,Intake Review,3,Lung,Normal
+Intake Review,Initial Consultation,4,Lung,Normal
+Initial Consultation,Diagnostic Imaging,8,Lung,Normal
+Diagnostic Imaging,Diagnosis Confirmed,7,Lung,Normal
+Diagnosis Confirmed,Treatment Planning,5,Lung,Normal
+Treatment Planning,Treatment Start,8,Lung,Normal
+Treatment Start,Follow-Up,20,Lung,Normal
+Referral Received,Intake Review,1,Blood,Urgent
+Intake Review,Initial Consultation,2,Blood,Urgent
+Initial Consultation,Diagnostic Imaging,8,Blood,Urgent
+Diagnostic Imaging,Diagnosis Confirmed,2,Blood,Urgent
+Diagnosis Confirmed,Treatment Planning,2,Blood,Urgent
+Treatment Planning,Treatment Start,8,Blood,Urgent
+Treatment Start,Follow-Up,21,Blood,Urgent
+Referral Received,Intake Review,1,Breast,Normal
+Intake Review,Initial Consultation,3,Breast,Normal
+Initial Consultation,Diagnostic Imaging,7,Breast,Normal
+Diagnostic Imaging,Diagnosis Confirmed,5,Breast,Normal
+Diagnosis Confirmed,Treatment Planning,4,Breast,Normal
+Treatment Planning,Treatment Start,9,Breast,Normal
+Treatment Start,Follow-Up,29,Breast,Normal
+Referral Received,Intake Review,3,Blood,Normal
+Intake Review,Initial Consultation,4,Blood,Normal
+Initial Consultation,Diagnostic Imaging,10,Blood,Normal
+Diagnostic Imaging,Diagnosis Confirmed,4,Blood,Normal
+Diagnosis Confirmed,Treatment Planning,5,Blood,Normal
+Treatment Planning,Treatment Start,11,Blood,Normal
+Treatment Start,Follow-Up,28,Blood,Normal
+Referral Received,Intake Review,2,Colon,Normal
+Intake Review,Initial Consultation,5,Colon,Normal
+Initial Consultation,Diagnostic Imaging,7,Colon,Normal
+Diagnostic Imaging,Diagnosis Confirmed,3,Colon,Normal
+Diagnosis Confirmed,Treatment Planning,5,Colon,Normal
+Treatment Planning,Treatment Start,10,Colon,Normal
+Treatment Start,Follow-Up,18,Colon,Normal
+Referral Received,Intake Review,2,Prostate,Normal
+Intake Review,Initial Consultation,5,Prostate,Normal
+Initial Consultation,Diagnostic Imaging,4,Prostate,Normal
+Diagnostic Imaging,Diagnosis Confirmed,3,Prostate,Normal
+Diagnosis Confirmed,Treatment Planning,3,Prostate,Normal
+Treatment Planning,Treatment Start,10,Prostate,Normal
+Treatment Start,Follow-Up,16,Prostate,Normal
+Referral Received,Intake Review,1,Breast,Urgent
+Intake Review,Initial Consultation,2,Breast,Urgent
+Initial Consultation,Diagnostic Imaging,8,Breast,Urgent
+Diagnostic Imaging,Diagnosis Confirmed,2,Breast,Urgent
+Diagnosis Confirmed,Treatment Planning,2,Breast,Urgent
+Treatment Planning,Treatment Start,5,Breast,Urgent
+Treatment Start,Follow-Up,16,Breast,Urgent
+Referral Received,Intake Review,1,Blood,Urgent
+Intake Review,Initial Consultation,2,Blood,Urgent
+Initial Consultation,Diagnostic Imaging,3,Blood,Urgent
+Diagnostic Imaging,Diagnosis Confirmed,2,Blood,Urgent
+Diagnosis Confirmed,Treatment Planning,2,Blood,Urgent
+Treatment Planning,Treatment Start,9,Blood,Urgent
+Treatment Start,Follow-Up,18,Blood,Urgent
+Referral Received,Intake Review,3,Colon,Normal
+Intake Review,Initial Consultation,2,Colon,Normal
+Initial Consultation,Diagnostic Imaging,5,Colon,Normal
+Diagnostic Imaging,Diagnosis Confirmed,6,Colon,Normal
+Diagnosis Confirmed,Treatment Planning,2,Colon,Normal
+Treatment Planning,Treatment Start,11,Colon,Normal
+Treatment Start,Follow-Up,24,Colon,Normal
+Referral Received,Intake Review,2,Blood,Normal
+Intake Review,Initial Consultation,5,Blood,Normal
+Initial Consultation,Diagnostic Imaging,9,Blood,Normal
+Diagnostic Imaging,Diagnosis Confirmed,5,Blood,Normal
+Diagnosis Confirmed,Treatment Planning,5,Blood,Normal
+Treatment Planning,Treatment Start,6,Blood,Normal
+Treatment Start,Follow-Up,17,Blood,Normal
+Referral Received,Intake Review,2,Breast,Normal
+Intake Review,Initial Consultation,5,Breast,Normal
+Initial Consultation,Diagnostic Imaging,10,Breast,Normal
+Diagnostic Imaging,Diagnosis Confirmed,3,Breast,Normal
+Diagnosis Confirmed,Treatment Planning,2,Breast,Normal
+Treatment Planning,Treatment Start,13,Breast,Normal
+Treatment Start,Follow-Up,17,Breast,Normal
+Referral Received,Intake Review,1,Prostate,Urgent
+Intake Review,Initial Consultation,2,Prostate,Urgent
+Initial Consultation,Diagnostic Imaging,8,Prostate,Urgent
+Diagnostic Imaging,Diagnosis Confirmed,5,Prostate,Urgent
+Diagnosis Confirmed,Treatment Planning,2,Prostate,Urgent
+Treatment Planning,Treatment Start,4,Prostate,Urgent
+Treatment Start,Follow-Up,27,Prostate,Urgent
+Referral Received,Intake Review,1,Blood,Normal
+Intake Review,Initial Consultation,2,Blood,Normal
+Initial Consultation,Diagnostic Imaging,8,Blood,Normal
+Diagnostic Imaging,Diagnosis Confirmed,3,Blood,Normal
+Diagnosis Confirmed,Treatment Planning,2,Blood,Normal
+Treatment Planning,Treatment Start,14,Blood,Normal
+Treatment Start,Follow-Up,30,Blood,Normal
+Referral Received,Intake Review,1,Prostate,Normal
+Intake Review,Initial Consultation,4,Prostate,Normal
+Initial Consultation,Diagnostic Imaging,9,Prostate,Normal
+Diagnostic Imaging,Diagnosis Confirmed,6,Prostate,Normal
+Diagnosis Confirmed,Treatment Planning,5,Prostate,Normal
+Treatment Planning,Treatment Start,5,Prostate,Normal
+Treatment Start,Follow-Up,30,Prostate,Normal
+Referral Received,Intake Review,1,Colon,Urgent
+Intake Review,Initial Consultation,2,Colon,Urgent
+Initial Consultation,Diagnostic Imaging,3,Colon,Urgent
+Diagnostic Imaging,Diagnosis Confirmed,5,Colon,Urgent
+Diagnosis Confirmed,Treatment Planning,2,Colon,Urgent
+Treatment Planning,Treatment Start,8,Colon,Urgent
+Treatment Start,Follow-Up,25,Colon,Urgent
+Referral Received,Intake Review,2,Breast,Normal
+Intake Review,Initial Consultation,2,Breast,Normal
+Initial Consultation,Diagnostic Imaging,7,Breast,Normal
+Diagnostic Imaging,Diagnosis Confirmed,2,Breast,Normal
+Diagnosis Confirmed,Treatment Planning,2,Breast,Normal
+Treatment Planning,Treatment Start,12,Breast,Normal
+Treatment Start,Follow-Up,21,Breast,Normal
+Referral Received,Intake Review,1,Blood,Urgent
+Intake Review,Initial Consultation,2,Blood,Urgent
+Initial Consultation,Diagnostic Imaging,4,Blood,Urgent
+Diagnostic Imaging,Diagnosis Confirmed,4,Blood,Urgent
+Diagnosis Confirmed,Treatment Planning,2,Blood,Urgent
+Treatment Planning,Treatment Start,7,Blood,Urgent
+Treatment Start,Follow-Up,21,Blood,Urgent
+Referral Received,Intake Review,1,Lung,Urgent
+Intake Review,Initial Consultation,2,Lung,Urgent
+Initial Consultation,Diagnostic Imaging,10,Lung,Urgent
+Diagnostic Imaging,Diagnosis Confirmed,2,Lung,Urgent
+Diagnosis Confirmed,Treatment Planning,3,Lung,Urgent
+Treatment Planning,Treatment Start,9,Lung,Urgent
+Treatment Start,Follow-Up,22,Lung,Urgent
+Referral Received,Intake Review,3,Breast,Normal
+Intake Review,Initial Consultation,3,Breast,Normal
+Initial Consultation,Diagnostic Imaging,8,Breast,Normal
+Diagnostic Imaging,Diagnosis Confirmed,7,Breast,Normal
+Diagnosis Confirmed,Treatment Planning,4,Breast,Normal
+Treatment Planning,Treatment Start,9,Breast,Normal
+Treatment Start,Follow-Up,27,Breast,Normal
+Referral Received,Intake Review,1,Prostate,Urgent
+Intake Review,Initial Consultation,3,Prostate,Urgent
+Initial Consultation,Diagnostic Imaging,3,Prostate,Urgent
+Diagnostic Imaging,Diagnosis Confirmed,3,Prostate,Urgent
+Diagnosis Confirmed,Treatment Planning,2,Prostate,Urgent
+Treatment Planning,Treatment Start,4,Prostate,Urgent
+Treatment Start,Follow-Up,21,Prostate,Urgent
+Referral Received,Intake Review,1,Prostate,Urgent
+Intake Review,Initial Consultation,2,Prostate,Urgent
+Initial Consultation,Diagnostic Imaging,7,Prostate,Urgent
+Diagnostic Imaging,Diagnosis Confirmed,2,Prostate,Urgent
+Diagnosis Confirmed,Treatment Planning,2,Prostate,Urgent
+Treatment Planning,Treatment Start,8,Prostate,Urgent
+Treatment Start,Follow-Up,14,Prostate,Urgent
+Referral Received,Intake Review,1,Blood,Normal
+Intake Review,Initial Consultation,4,Blood,Normal
+Initial Consultation,Diagnostic Imaging,7,Blood,Normal
+Diagnostic Imaging,Diagnosis Confirmed,3,Blood,Normal
+Diagnosis Confirmed,Treatment Planning,3,Blood,Normal
+Treatment Planning,Treatment Start,8,Blood,Normal
+Treatment Start,Follow-Up,28,Blood,Normal
+Referral Received,Intake Review,1,Lung,Normal
+Intake Review,Initial Consultation,3,Lung,Normal
+Initial Consultation,Diagnostic Imaging,5,Lung,Normal
+Diagnostic Imaging,Diagnosis Confirmed,5,Lung,Normal
+Diagnosis Confirmed,Treatment Planning,2,Lung,Normal
+Treatment Planning,Treatment Start,5,Lung,Normal
+Treatment Start,Follow-Up,29,Lung,Normal
+Referral Received,Intake Review,1,Blood,Normal
+Intake Review,Initial Consultation,5,Blood,Normal
+Initial Consultation,Diagnostic Imaging,9,Blood,Normal
+Diagnostic Imaging,Diagnosis Confirmed,5,Blood,Normal
+Diagnosis Confirmed,Treatment Planning,5,Blood,Normal
+Treatment Planning,Treatment Start,8,Blood,Normal
+Treatment Start,Follow-Up,29,Blood,Normal
+Referral Received,Intake Review,2,Prostate,Normal
+Intake Review,Initial Consultation,3,Prostate,Normal
+Initial Consultation,Diagnostic Imaging,4,Prostate,Normal
+Diagnostic Imaging,Diagnosis Confirmed,5,Prostate,Normal
+Diagnosis Confirmed,Treatment Planning,4,Prostate,Normal
+Treatment Planning,Treatment Start,4,Prostate,Normal
+Treatment Start,Follow-Up,30,Prostate,Normal
+Referral Received,Intake Review,1,Prostate,Normal
+Intake Review,Initial Consultation,3,Prostate,Normal
+Initial Consultation,Diagnostic Imaging,7,Prostate,Normal
+Diagnostic Imaging,Diagnosis Confirmed,5,Prostate,Normal
+Diagnosis Confirmed,Treatment Planning,2,Prostate,Normal
+Treatment Planning,Treatment Start,12,Prostate,Normal
+Treatment Start,Follow-Up,19,Prostate,Normal
+Referral Received,Intake Review,1,Prostate,Urgent
+Intake Review,Initial Consultation,2,Prostate,Urgent
+Initial Consultation,Diagnostic Imaging,3,Prostate,Urgent
+Diagnostic Imaging,Diagnosis Confirmed,3,Prostate,Urgent
+Diagnosis Confirmed,Treatment Planning,2,Prostate,Urgent
+Treatment Planning,Treatment Start,9,Prostate,Urgent
+Treatment Start,Follow-Up,18,Prostate,Urgent
+Referral Received,Intake Review,3,Lung,Normal
+Intake Review,Initial Consultation,5,Lung,Normal
+Initial Consultation,Diagnostic Imaging,12,Lung,Normal
+Diagnostic Imaging,Diagnosis Confirmed,2,Lung,Normal
+Diagnosis Confirmed,Treatment Planning,5,Lung,Normal
+Treatment Planning,Treatment Start,11,Lung,Normal
+Treatment Start,Follow-Up,24,Lung,Normal
+Referral Received,Intake Review,1,Prostate,Urgent
+Intake Review,Initial Consultation,2,Prostate,Urgent
+Initial Consultation,Diagnostic Imaging,7,Prostate,Urgent
+Diagnostic Imaging,Diagnosis Confirmed,2,Prostate,Urgent
+Diagnosis Confirmed,Treatment Planning,2,Prostate,Urgent
+Treatment Planning,Treatment Start,4,Prostate,Urgent
+Treatment Start,Follow-Up,15,Prostate,Urgent
+Referral Received,Intake Review,1,Colon,Urgent
+Intake Review,Initial Consultation,2,Colon,Urgent
+Initial Consultation,Diagnostic Imaging,3,Colon,Urgent
+Diagnostic Imaging,Diagnosis Confirmed,2,Colon,Urgent
+Diagnosis Confirmed,Treatment Planning,2,Colon,Urgent
+Treatment Planning,Treatment Start,5,Colon,Urgent
+Treatment Start,Follow-Up,14,Colon,Urgent
+Referral Received,Intake Review,3,Colon,Normal
+Intake Review,Initial Consultation,5,Colon,Normal
+Initial Consultation,Diagnostic Imaging,8,Colon,Normal
+Diagnostic Imaging,Diagnosis Confirmed,7,Colon,Normal
+Diagnosis Confirmed,Treatment Planning,3,Colon,Normal
+Treatment Planning,Treatment Start,9,Colon,Normal
+Treatment Start,Follow-Up,30,Colon,Normal
+Referral Received,Intake Review,1,Blood,Urgent
+Intake Review,Initial Consultation,3,Blood,Urgent
+Initial Consultation,Diagnostic Imaging,6,Blood,Urgent
+Diagnostic Imaging,Diagnosis Confirmed,4,Blood,Urgent
+Diagnosis Confirmed,Treatment Planning,2,Blood,Urgent
+Treatment Planning,Treatment Start,7,Blood,Urgent
+Treatment Start,Follow-Up,28,Blood,Urgent
+Referral Received,Intake Review,1,Colon,Normal
+Intake Review,Initial Consultation,3,Colon,Normal
+Initial Consultation,Diagnostic Imaging,5,Colon,Normal
+Diagnostic Imaging,Diagnosis Confirmed,6,Colon,Normal
+Diagnosis Confirmed,Treatment Planning,3,Colon,Normal
+Treatment Planning,Treatment Start,6,Colon,Normal
+Treatment Start,Follow-Up,25,Colon,Normal
+Referral Received,Intake Review,1,Blood,Urgent
+Intake Review,Initial Consultation,3,Blood,Urgent
+Initial Consultation,Diagnostic Imaging,3,Blood,Urgent
+Diagnostic Imaging,Diagnosis Confirmed,2,Blood,Urgent
+Diagnosis Confirmed,Treatment Planning,3,Blood,Urgent
+Treatment Planning,Treatment Start,7,Blood,Urgent
+Treatment Start,Follow-Up,23,Blood,Urgent
+Referral Received,Intake Review,1,Lung,Urgent
+Intake Review,Initial Consultation,2,Lung,Urgent
+Initial Consultation,Diagnostic Imaging,9,Lung,Urgent
+Diagnostic Imaging,Diagnosis Confirmed,5,Lung,Urgent
+Diagnosis Confirmed,Treatment Planning,3,Lung,Urgent
+Treatment Planning,Treatment Start,7,Lung,Urgent
+Treatment Start,Follow-Up,25,Lung,Urgent
+Referral Received,Intake Review,3,Colon,Normal
+Intake Review,Initial Consultation,2,Colon,Normal
+Initial Consultation,Diagnostic Imaging,3,Colon,Normal
+Diagnostic Imaging,Diagnosis Confirmed,2,Colon,Normal
+Diagnosis Confirmed,Treatment Planning,4,Colon,Normal
+Treatment Planning,Treatment Start,12,Colon,Normal
+Referral Received,Intake Review,1,Lung,Normal
+Intake Review,Initial Consultation,2,Lung,Normal
+Initial Consultation,Diagnostic Imaging,6,Lung,Normal
+Diagnostic Imaging,Diagnosis Confirmed,2,Lung,Normal
+Diagnosis Confirmed,Treatment Planning,4,Lung,Normal
+Treatment Planning,Treatment Start,7,Lung,Normal
+Treatment Start,Follow-Up,26,Lung,Normal
+Referral Received,Intake Review,1,Colon,Normal
+Intake Review,Initial Consultation,3,Colon,Normal
+Initial Consultation,Diagnostic Imaging,6,Colon,Normal
+Diagnostic Imaging,Diagnosis Confirmed,6,Colon,Normal
+Diagnosis Confirmed,Treatment Planning,5,Colon,Normal
+Treatment Planning,Treatment Start,13,Colon,Normal
+Treatment Start,Follow-Up,25,Colon,Normal
+Referral Received,Intake Review,3,Colon,Normal
+Intake Review,Initial Consultation,4,Colon,Normal
+Initial Consultation,Diagnostic Imaging,10,Colon,Normal
+Diagnostic Imaging,Diagnosis Confirmed,5,Colon,Normal
+Diagnosis Confirmed,Treatment Planning,2,Colon,Normal
+Treatment Planning,Treatment Start,13,Colon,Normal
+Treatment Start,Follow-Up,16,Colon,Normal
+Referral Received,Intake Review,3,Prostate,Normal
+Intake Review,Initial Consultation,3,Prostate,Normal
+Initial Consultation,Diagnostic Imaging,7,Prostate,Normal
+Diagnostic Imaging,Diagnosis Confirmed,7,Prostate,Normal
+Diagnosis Confirmed,Treatment Planning,5,Prostate,Normal
+Treatment Planning,Treatment Start,7,Prostate,Normal
+Treatment Start,Follow-Up,22,Prostate,Normal
+Referral Received,Intake Review,1,Breast,Normal
+Intake Review,Initial Consultation,4,Breast,Normal
+Initial Consultation,Diagnostic Imaging,7,Breast,Normal
+Diagnostic Imaging,Diagnosis Confirmed,7,Breast,Normal
+Diagnosis Confirmed,Treatment Planning,5,Breast,Normal
+Treatment Planning,Treatment Start,13,Breast,Normal
+Treatment Start,Follow-Up,22,Breast,Normal
+Referral Received,Intake Review,1,Colon,Normal
+Intake Review,Initial Consultation,2,Colon,Normal
+Initial Consultation,Diagnostic Imaging,8,Colon,Normal
+Diagnostic Imaging,Diagnosis Confirmed,4,Colon,Normal
+Diagnosis Confirmed,Treatment Planning,3,Colon,Normal
+Treatment Planning,Treatment Start,8,Colon,Normal
+Treatment Start,Follow-Up,15,Colon,Normal
+Referral Received,Intake Review,1,Lung,Urgent
+Intake Review,Initial Consultation,3,Lung,Urgent
+Initial Consultation,Diagnostic Imaging,5,Lung,Urgent
+Diagnostic Imaging,Diagnosis Confirmed,4,Lung,Urgent
+Diagnosis Confirmed,Treatment Planning,2,Lung,Urgent
+Treatment Planning,Treatment Start,4,Lung,Urgent
+Treatment Start,Follow-Up,28,Lung,Urgent
+Referral Received,Intake Review,2,Prostate,Normal
+Intake Review,Initial Consultation,4,Prostate,Normal
+Initial Consultation,Diagnostic Imaging,5,Prostate,Normal
+Diagnostic Imaging,Diagnosis Confirmed,3,Prostate,Normal
+Diagnosis Confirmed,Treatment Planning,4,Prostate,Normal
+Treatment Planning,Treatment Start,11,Prostate,Normal
+Treatment Start,Follow-Up,24,Prostate,Normal
+Referral Received,Intake Review,1,Breast,Normal
+Intake Review,Initial Consultation,5,Breast,Normal
+Initial Consultation,Diagnostic Imaging,3,Breast,Normal
+Diagnostic Imaging,Diagnosis Confirmed,6,Breast,Normal
+Diagnosis Confirmed,Treatment Planning,4,Breast,Normal
+Treatment Planning,Treatment Start,7,Breast,Normal
+Treatment Start,Follow-Up,21,Breast,Normal
